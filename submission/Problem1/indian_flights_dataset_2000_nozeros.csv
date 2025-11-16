@@ -1,0 +1,2001 @@
+flight_number,airline,origin,origin_code,destination,destination_code,departure_time,arrival_time,status,gate,aircraft_type,duration_minutes,delay_minutes
+AI509,Air India,Chandigarh,IXC,Hyderabad,HYD,8:21 AM,10:03 AM,On Time,T1-35,Airbus A320,102,
+I5620,AirAsia India,Delhi,DEL,Mumbai,BOM,7:27 AM,9:11 AM,On Time,T1-36,Airbus A321,104,
+I53711,AirAsia India,Ahmedabad,AMD,Pune,PNQ,9:29 AM,10:15 AM,Delayed,T3-28,Airbus A320neo,46,15
+IX2647,Air India Express,Chennai,MAA,Bhubaneswar,BBI,11:29 AM,12:40 PM,On Time,T1-23,Airbus A320neo,71,
+IX811,Air India Express,Chandigarh,IXC,Ahmedabad,AMD,6:18 PM,7:34 PM,Cancelled,T2-6,Boeing 737 MAX,76,
+IX6025,Air India Express,Pune,PNQ,Chennai,MAA,2:22 AM,3:18 AM,Delayed,T2-6,Airbus A321,56,90
+AI6327,Air India,Hyderabad,HYD,Ahmedabad,AMD,9:41 PM,11:59 PM,On Time,T2-14,ATR 72-600,138,
+IX1269,Air India Express,Pune,PNQ,Lucknow,LKO,5:50 AM,7:37 AM,On Time,T2-18,ATR 72-600,107,
+UK5413,Vistara,Nagpur,NAG,Bhubaneswar,BBI,1:54 AM,3:37 AM,Delayed,T2-26,Airbus A320neo,103,90
+AI3556,Air India,Thiruvananthapuram,TRV,Pune,PNQ,10:44 AM,12:23 PM,Delayed,T3-30,Airbus A321,99,35
+IX2387,Air India Express,Chennai,MAA,Chandigarh,IXC,7:09 PM,9:01 PM,Delayed,T3-26,Airbus A320neo,112,35
+UK2366,Vistara,Goa,GOI,Ahmedabad,AMD,3:06 AM,4:03 AM,Departed,T3-11,ATR 72-600,57,5
+I59871,AirAsia India,Mumbai,BOM,Kochi,COK,1:01 PM,3:45 PM,On Time,T3-1,ATR 72-600,164,
+AI8897,Air India,Bhubaneswar,BBI,Hyderabad,HYD,9:52 PM,12:04 AM,On Time,T2-11,Boeing 737-800,132,
+6E4415,IndiGo,Goa,GOI,Bhubaneswar,BBI,6:05 AM,8:59 AM,Departed,T3-33,Boeing 737 MAX,174,10
+UK2604,Vistara,Kolkata,CCU,Bhubaneswar,BBI,5:30 AM,8:30 AM,Departed,T2-32,Airbus A320,180,20
+AI6047,Air India,Thiruvananthapuram,TRV,Nagpur,NAG,10:29 AM,12:15 PM,On Time,T3-6,Airbus A320,106,
+G81233,Go First,Bhubaneswar,BBI,Goa,GOI,4:17 AM,5:34 AM,Delayed,T1-17,Boeing 737 MAX,77,45
+I53570,AirAsia India,Thiruvananthapuram,TRV,Goa,GOI,11:32 PM,1:08 AM,Delayed,T3-24,Boeing 737-800,96,35
+G82082,Go First,Chennai,MAA,Thiruvananthapuram,TRV,2:11 AM,4:22 AM,On Time,T3-15,Boeing 737 MAX,131,
+UK217,Vistara,Mumbai,BOM,Chandigarh,IXC,9:32 PM,10:32 PM,On Time,T1-22,Airbus A320,60,
+UK4662,Vistara,Lucknow,LKO,Ahmedabad,AMD,7:18 AM,8:36 AM,Delayed,T3-37,Boeing 737-800,78,120
+UK7849,Vistara,Bhubaneswar,BBI,Kochi,COK,6:29 AM,7:38 AM,On Time,T2-23,Boeing 737-800,69,
+I57751,AirAsia India,Nagpur,NAG,Chandigarh,IXC,1:50 AM,3:00 AM,On Time,T3-22,Airbus A320,70,
+UK3239,Vistara,Chennai,MAA,Goa,GOI,3:18 PM,4:38 PM,On Time,T2-30,Airbus A321,80,
+AI7360,Air India,Bhubaneswar,BBI,Nagpur,NAG,6:47 PM,7:57 PM,On Time,T3-1,Airbus A320,70,
+UK2824,Vistara,Kochi,COK,Ahmedabad,AMD,4:25 PM,6:04 PM,Departed,T1-25,Airbus A320,99,
+I54445,AirAsia India,Thiruvananthapuram,TRV,Bhubaneswar,BBI,3:31 PM,5:29 PM,On Time,T3-36,ATR 72-600,118,
+G82636,Go First,Chennai,MAA,Hyderabad,HYD,7:25 AM,8:24 AM,On Time,T3-4,ATR 72-600,59,
+QP1036,Akasa Air,Delhi,DEL,Pune,PNQ,4:16 PM,7:09 PM,Departed,T1-4,Boeing 737 MAX,173,20
+AI3144,Air India,Mumbai,BOM,Pune,PNQ,2:19 AM,4:04 AM,On Time,T3-16,Boeing 737 MAX,105,
+6E1443,IndiGo,Kochi,COK,Lucknow,LKO,7:55 PM,10:53 PM,On Time,T2-14,ATR 72-600,178,
+QP4010,Akasa Air,Hyderabad,HYD,Kochi,COK,4:28 AM,6:29 AM,On Time,T1-1,Boeing 737-800,121,
+AI1300,Air India,Goa,GOI,Chennai,MAA,5:16 PM,7:08 PM,On Time,T2-5,Airbus A321,112,
+QP4769,Akasa Air,Bengaluru,BLR,Ahmedabad,AMD,6:32 PM,8:34 PM,On Time,T3-34,Airbus A320,122,
+IX1797,Air India Express,Thiruvananthapuram,TRV,Bengaluru,BLR,9:01 AM,10:15 AM,Departed,T1-18,Airbus A320neo,74,20
+UK5717,Vistara,Chennai,MAA,Lucknow,LKO,9:38 PM,11:30 PM,On Time,T2-4,Airbus A320,112,
+I54633,AirAsia India,Delhi,DEL,Thiruvananthapuram,TRV,11:23 AM,12:41 PM,On Time,T2-11,ATR 72-600,78,
+G89138,Go First,Chandigarh,IXC,Kochi,COK,7:08 PM,7:55 PM,On Time,T3-10,Boeing 737 MAX,47,
+6E6149,IndiGo,Pune,PNQ,Goa,GOI,5:03 AM,7:38 AM,On Time,T2-24,Airbus A320,155,
+QP3541,Akasa Air,Lucknow,LKO,Chennai,MAA,10:45 PM,11:56 PM,On Time,T3-27,Boeing 737 MAX,71,
+SG3978,SpiceJet,Nagpur,NAG,Bengaluru,BLR,6:02 AM,8:32 AM,On Time,T3-22,Boeing 737-800,150,
+UK4471,Vistara,Bengaluru,BLR,Bhubaneswar,BBI,11:56 PM,1:08 AM,On Time,T1-31,Airbus A321,72,
+UK7641,Vistara,Kolkata,CCU,Hyderabad,HYD,7:46 AM,9:28 AM,On Time,T1-26,Airbus A320neo,102,
+IX1237,Air India Express,Bhubaneswar,BBI,Hyderabad,HYD,11:59 AM,2:54 PM,On Time,T3-22,Airbus A320,175,
+AI4379,Air India,Bengaluru,BLR,Pune,PNQ,9:03 AM,9:57 AM,On Time,T2-23,ATR 72-600,54,
+QP7249,Akasa Air,Pune,PNQ,Goa,GOI,3:56 AM,6:19 AM,Departed,T2-3,ATR 72-600,143,5
+I5127,AirAsia India,Goa,GOI,Bhubaneswar,BBI,6:22 PM,7:57 PM,On Time,T1-22,Boeing 737 MAX,95,
+QP2141,Akasa Air,Chandigarh,IXC,Hyderabad,HYD,5:18 PM,7:22 PM,Delayed,T2-19,Boeing 737 MAX,124,30
+SG3243,SpiceJet,Kochi,COK,Lucknow,LKO,12:56 PM,2:25 PM,On Time,T2-26,Boeing 737 MAX,89,
+6E5078,IndiGo,Hyderabad,HYD,Chennai,MAA,2:40 PM,4:47 PM,On Time,T2-14,Boeing 737 MAX,127,
+G82880,Go First,Lucknow,LKO,Mumbai,BOM,9:41 AM,12:37 PM,Delayed,T2-6,Airbus A321,176,50
+IX3780,Air India Express,Bhubaneswar,BBI,Chennai,MAA,5:01 AM,5:52 AM,On Time,T2-40,Airbus A320,51,
+G86890,Go First,Thiruvananthapuram,TRV,Lucknow,LKO,7:38 PM,9:12 PM,Delayed,T2-26,Airbus A321,94,35
+SG190,SpiceJet,Thiruvananthapuram,TRV,Bhubaneswar,BBI,3:38 AM,6:11 AM,On Time,T3-34,Boeing 737-800,153,
+6E9232,IndiGo,Chennai,MAA,Nagpur,NAG,4:08 AM,6:49 AM,On Time,T2-34,Boeing 737 MAX,161,
+QP7351,Akasa Air,Pune,PNQ,Nagpur,NAG,5:13 PM,7:47 PM,Delayed,T2-11,ATR 72-600,154,45
+G87473,Go First,Hyderabad,HYD,Bhubaneswar,BBI,8:26 AM,10:21 AM,Delayed,T2-16,Airbus A320neo,115,45
+G81369,Go First,Chandigarh,IXC,Hyderabad,HYD,8:00 AM,9:54 AM,On Time,T3-6,Airbus A321,114,
+SG3888,SpiceJet,Kochi,COK,Chandigarh,IXC,5:12 AM,6:51 AM,On Time,T2-22,Boeing 737 MAX,99,
+G86912,Go First,Delhi,DEL,Chennai,MAA,2:20 PM,4:44 PM,Departed,T3-2,Boeing 737 MAX,144,20
+I57914,AirAsia India,Delhi,DEL,Kolkata,CCU,10:11 AM,12:35 PM,Departed,T3-35,Boeing 737 MAX,144,15
+UK8099,Vistara,Chennai,MAA,Hyderabad,HYD,2:52 PM,5:41 PM,On Time,T2-26,ATR 72-600,169,
+SG7757,SpiceJet,Thiruvananthapuram,TRV,Bengaluru,BLR,9:14 PM,10:05 PM,Departed,T3-2,Airbus A320,51,20
+I52323,AirAsia India,Nagpur,NAG,Ahmedabad,AMD,6:12 AM,7:09 AM,On Time,T2-14,Boeing 737-800,57,
+QP5629,Akasa Air,Bhubaneswar,BBI,Kochi,COK,9:29 AM,12:01 PM,On Time,T1-31,Airbus A320,152,
+6E5833,IndiGo,Chennai,MAA,Lucknow,LKO,2:20 AM,3:15 AM,Delayed,T1-2,Boeing 737 MAX,55,20
+SG4008,SpiceJet,Bengaluru,BLR,Ahmedabad,AMD,10:51 PM,12:05 AM,On Time,T1-30,ATR 72-600,74,
+IX6143,Air India Express,Bengaluru,BLR,Pune,PNQ,8:43 PM,9:57 PM,Delayed,T2-7,Boeing 737 MAX,74,15
+6E5211,IndiGo,Pune,PNQ,Lucknow,LKO,12:48 PM,3:14 PM,Departed,T1-38,ATR 72-600,146,5
+UK1769,Vistara,Chandigarh,IXC,Bhubaneswar,BBI,10:17 AM,11:32 AM,Delayed,T1-23,Boeing 737 MAX,75,50
+I56171,AirAsia India,Mumbai,BOM,Goa,GOI,10:06 PM,12:18 AM,On Time,T2-32,Airbus A320,132,
+I56034,AirAsia India,Lucknow,LKO,Nagpur,NAG,3:41 PM,5:05 PM,On Time,T3-34,ATR 72-600,84,
+IX8917,Air India Express,Bhubaneswar,BBI,Ahmedabad,AMD,3:52 PM,6:28 PM,Delayed,T2-21,Airbus A321,156,50
+AI4669,Air India,Thiruvananthapuram,TRV,Ahmedabad,AMD,8:19 AM,11:02 AM,On Time,T3-25,Airbus A320neo,163,
+6E8198,IndiGo,Nagpur,NAG,Kolkata,CCU,6:12 AM,9:01 AM,On Time,T2-22,Airbus A320neo,169,
+IX9206,Air India Express,Delhi,DEL,Goa,GOI,6:31 AM,7:37 AM,On Time,T2-32,Boeing 737 MAX,66,
+UK7900,Vistara,Lucknow,LKO,Chandigarh,IXC,4:45 PM,7:24 PM,Delayed,T2-15,Boeing 737-800,159,10
+UK5116,Vistara,Lucknow,LKO,Pune,PNQ,12:35 PM,3:21 PM,On Time,T2-28,ATR 72-600,166,
+QP5864,Akasa Air,Chandigarh,IXC,Ahmedabad,AMD,9:14 AM,11:17 AM,On Time,T1-13,Airbus A320neo,123,
+AI8879,Air India,Bhubaneswar,BBI,Chandigarh,IXC,6:19 AM,7:53 AM,On Time,T2-18,ATR 72-600,94,
+IX1747,Air India Express,Nagpur,NAG,Chennai,MAA,10:06 AM,11:49 AM,On Time,T2-1,ATR 72-600,103,
+SG4594,SpiceJet,Delhi,DEL,Thiruvananthapuram,TRV,6:53 PM,8:52 PM,Delayed,T3-32,Airbus A320,119,15
+6E9505,IndiGo,Hyderabad,HYD,Ahmedabad,AMD,4:20 PM,6:57 PM,On Time,T1-17,Boeing 737-800,157,
+AI1170,Air India,Kochi,COK,Ahmedabad,AMD,2:31 AM,3:29 AM,On Time,T3-20,Airbus A320,58,
+UK2040,Vistara,Goa,GOI,Bhubaneswar,BBI,2:12 PM,3:54 PM,Delayed,T2-29,Airbus A320neo,102,35
+I55103,AirAsia India,Pune,PNQ,Thiruvananthapuram,TRV,2:03 AM,3:13 AM,Departed,T3-14,Airbus A320neo,70,5
+AI2673,Air India,Chennai,MAA,Bengaluru,BLR,6:50 PM,7:54 PM,On Time,T2-29,ATR 72-600,64,
+G84871,Go First,Delhi,DEL,Chennai,MAA,9:50 AM,11:47 AM,Delayed,T1-15,Airbus A320neo,117,40
+UK7065,Vistara,Mumbai,BOM,Goa,GOI,7:40 AM,9:03 AM,Departed,T1-4,Airbus A321,83,5
+IX9849,Air India Express,Chandigarh,IXC,Nagpur,NAG,7:25 PM,9:23 PM,On Time,T2-20,ATR 72-600,118,
+I54560,AirAsia India,Goa,GOI,Thiruvananthapuram,TRV,4:51 PM,7:28 PM,On Time,T1-28,ATR 72-600,157,
+QP9991,Akasa Air,Hyderabad,HYD,Delhi,DEL,3:07 AM,4:50 AM,Cancelled,T3-38,Airbus A320,103,
+IX9541,Air India Express,Delhi,DEL,Bhubaneswar,BBI,5:58 AM,8:43 AM,On Time,T2-18,Airbus A321,165,
+I58156,AirAsia India,Mumbai,BOM,Ahmedabad,AMD,11:52 AM,2:21 PM,On Time,T3-7,Airbus A321,149,
+QP6844,Akasa Air,Chandigarh,IXC,Ahmedabad,AMD,9:50 AM,12:17 PM,Delayed,T1-30,Airbus A320,147,45
+QP4235,Akasa Air,Kolkata,CCU,Mumbai,BOM,1:47 PM,4:43 PM,Delayed,T3-35,Boeing 737-800,176,5
+I5988,AirAsia India,Chennai,MAA,Goa,GOI,12:20 PM,3:12 PM,On Time,T1-14,Airbus A320neo,172,
+SG4819,SpiceJet,Ahmedabad,AMD,Chandigarh,IXC,4:32 PM,5:48 PM,On Time,T3-39,Airbus A321,76,
+SG5191,SpiceJet,Goa,GOI,Delhi,DEL,6:51 PM,9:20 PM,On Time,T1-30,Airbus A320,149,
+SG8265,SpiceJet,Thiruvananthapuram,TRV,Chandigarh,IXC,9:57 AM,12:52 PM,Delayed,T2-31,Airbus A321,175,35
+G89131,Go First,Bengaluru,BLR,Kochi,COK,6:30 AM,9:25 AM,Delayed,T1-18,Boeing 737-800,175,15
+QP8418,Akasa Air,Hyderabad,HYD,Nagpur,NAG,12:05 AM,2:02 AM,Delayed,T3-38,ATR 72-600,117,105
+G82534,Go First,Ahmedabad,AMD,Goa,GOI,4:31 PM,6:44 PM,On Time,T3-25,Boeing 737-800,133,
+QP3190,Akasa Air,Chandigarh,IXC,Chennai,MAA,7:31 PM,9:54 PM,On Time,T2-3,Airbus A320neo,143,
+G86346,Go First,Kochi,COK,Lucknow,LKO,10:15 PM,11:38 PM,On Time,T1-9,Boeing 737 MAX,83,
+QP1744,Akasa Air,Nagpur,NAG,Thiruvananthapuram,TRV,3:01 PM,4:11 PM,On Time,T2-1,ATR 72-600,70,
+SG6817,SpiceJet,Nagpur,NAG,Lucknow,LKO,5:16 AM,6:20 AM,On Time,T2-22,Boeing 737 MAX,64,
+I51415,AirAsia India,Nagpur,NAG,Kolkata,CCU,11:01 PM,1:23 AM,Cancelled,T3-32,Boeing 737 MAX,142,
+6E1221,IndiGo,Chennai,MAA,Lucknow,LKO,11:21 PM,1:19 AM,Cancelled,T3-6,Boeing 737-800,118,
+AI1746,Air India,Ahmedabad,AMD,Bengaluru,BLR,11:41 PM,1:42 AM,Departed,T2-4,Airbus A320neo,121,
+QP6241,Akasa Air,Kochi,COK,Bengaluru,BLR,8:20 AM,11:20 AM,On Time,T3-12,Airbus A321,180,
+SG1393,SpiceJet,Pune,PNQ,Nagpur,NAG,1:03 PM,2:49 PM,On Time,T3-10,Airbus A321,106,
+G84261,Go First,Ahmedabad,AMD,Hyderabad,HYD,10:45 PM,11:32 PM,Departed,T2-35,Airbus A321,47,15
+AI7337,Air India,Kolkata,CCU,Pune,PNQ,10:12 AM,12:45 PM,Delayed,T2-13,Boeing 737-800,153,40
+G81847,Go First,Chennai,MAA,Kochi,COK,7:31 PM,9:47 PM,On Time,T3-19,Airbus A320,136,
+I54597,AirAsia India,Delhi,DEL,Pune,PNQ,11:24 PM,12:21 AM,Departed,T2-15,Boeing 737 MAX,57,15
+QP3688,Akasa Air,Lucknow,LKO,Chennai,MAA,9:11 PM,11:00 PM,Delayed,T3-9,ATR 72-600,109,75
+AI745,Air India,Hyderabad,HYD,Bhubaneswar,BBI,3:02 PM,3:55 PM,On Time,T3-9,Airbus A320,53,
+IX5452,Air India Express,Chandigarh,IXC,Kochi,COK,5:59 AM,7:35 AM,On Time,T3-24,Boeing 737 MAX,96,
+IX2795,Air India Express,Hyderabad,HYD,Nagpur,NAG,4:26 PM,6:26 PM,Delayed,T1-30,Airbus A320,120,30
+SG3796,SpiceJet,Nagpur,NAG,Lucknow,LKO,11:01 PM,1:27 AM,Cancelled,T3-24,Airbus A320,146,
+I5328,AirAsia India,Hyderabad,HYD,Goa,GOI,4:13 AM,6:54 AM,On Time,T3-17,Boeing 737 MAX,161,
+I56186,AirAsia India,Mumbai,BOM,Lucknow,LKO,7:58 AM,10:43 AM,On Time,T3-21,Boeing 737 MAX,165,
+UK1135,Vistara,Lucknow,LKO,Nagpur,NAG,3:50 PM,5:52 PM,On Time,T1-9,Airbus A320,122,
+6E5086,IndiGo,Ahmedabad,AMD,Mumbai,BOM,3:19 AM,5:04 AM,Departed,T2-30,Airbus A320neo,105,5
+I59722,AirAsia India,Chandigarh,IXC,Thiruvananthapuram,TRV,5:16 AM,7:47 AM,Delayed,T2-40,Boeing 737-800,151,105
+IX636,Air India Express,Chandigarh,IXC,Kolkata,CCU,7:24 AM,10:02 AM,On Time,T1-24,Airbus A320,158,
+QP9020,Akasa Air,Thiruvananthapuram,TRV,Lucknow,LKO,12:14 PM,1:14 PM,On Time,T1-8,Boeing 737-800,60,
+AI3575,Air India,Lucknow,LKO,Thiruvananthapuram,TRV,8:22 PM,9:12 PM,On Time,T2-16,Airbus A321,50,
+UK1224,Vistara,Nagpur,NAG,Bhubaneswar,BBI,6:55 PM,8:33 PM,On Time,T1-22,Airbus A321,98,
+6E4642,IndiGo,Nagpur,NAG,Bengaluru,BLR,4:26 AM,6:15 AM,Delayed,T3-2,Airbus A321,109,10
+6E5969,IndiGo,Bhubaneswar,BBI,Thiruvananthapuram,TRV,8:07 AM,10:14 AM,On Time,T2-4,Airbus A321,127,
+I58719,AirAsia India,Mumbai,BOM,Chandigarh,IXC,2:10 AM,4:56 AM,On Time,T2-33,Boeing 737 MAX,166,
+AI7505,Air India,Goa,GOI,Chennai,MAA,8:59 PM,9:55 PM,Delayed,T3-34,Airbus A320neo,56,120
+G8610,Go First,Delhi,DEL,Ahmedabad,AMD,1:42 PM,4:16 PM,Delayed,T3-29,Airbus A320,154,40
+AI5377,Air India,Pune,PNQ,Bengaluru,BLR,2:14 AM,3:31 AM,On Time,T3-38,Boeing 737 MAX,77,
+QP6340,Akasa Air,Pune,PNQ,Goa,GOI,10:03 AM,12:44 PM,On Time,T2-7,ATR 72-600,161,
+AI9133,Air India,Chandigarh,IXC,Nagpur,NAG,7:20 AM,9:55 AM,On Time,T1-27,Airbus A320neo,155,
+G86632,Go First,Kochi,COK,Chandigarh,IXC,3:14 AM,5:19 AM,On Time,T3-17,Airbus A320neo,125,
+SG7870,SpiceJet,Mumbai,BOM,Thiruvananthapuram,TRV,2:54 AM,4:02 AM,On Time,T3-24,Airbus A321,68,
+6E9708,IndiGo,Goa,GOI,Thiruvananthapuram,TRV,11:15 AM,12:31 PM,On Time,T3-28,ATR 72-600,76,
+6E4812,IndiGo,Pune,PNQ,Hyderabad,HYD,12:00 PM,1:11 PM,On Time,T1-10,ATR 72-600,71,
+G83774,Go First,Nagpur,NAG,Mumbai,BOM,11:57 AM,2:16 PM,On Time,T2-37,Airbus A321,139,
+I59290,AirAsia India,Bhubaneswar,BBI,Nagpur,NAG,9:13 PM,10:04 PM,On Time,T3-18,Airbus A320,51,
+SG4577,SpiceJet,Chandigarh,IXC,Bhubaneswar,BBI,10:32 AM,12:43 PM,On Time,T1-10,Boeing 737 MAX,131,
+I51240,AirAsia India,Bengaluru,BLR,Chandigarh,IXC,9:36 PM,10:28 PM,On Time,T3-14,Boeing 737-800,52,
+I57532,AirAsia India,Kolkata,CCU,Bengaluru,BLR,12:37 PM,2:41 PM,Delayed,T3-39,Airbus A320,124,90
+6E2649,IndiGo,Bengaluru,BLR,Bhubaneswar,BBI,9:05 PM,10:02 PM,Delayed,T2-28,Boeing 737-800,57,25
+G86885,Go First,Hyderabad,HYD,Chennai,MAA,5:29 PM,6:43 PM,On Time,T1-19,ATR 72-600,74,
+G88733,Go First,Lucknow,LKO,Hyderabad,HYD,1:33 AM,3:14 AM,On Time,T3-4,Airbus A320,101,
+UK5038,Vistara,Chennai,MAA,Bhubaneswar,BBI,4:41 AM,6:31 AM,On Time,T1-1,Boeing 737-800,110,
+I52978,AirAsia India,Bengaluru,BLR,Kochi,COK,6:10 PM,7:53 PM,On Time,T3-23,Airbus A320,103,
+I5793,AirAsia India,Kochi,COK,Delhi,DEL,3:41 PM,4:45 PM,Departed,T2-37,Boeing 737-800,64,20
+I54843,AirAsia India,Mumbai,BOM,Kochi,COK,12:42 AM,2:50 AM,On Time,T3-30,ATR 72-600,128,
+QP1543,Akasa Air,Kochi,COK,Nagpur,NAG,3:36 AM,5:23 AM,On Time,T2-34,Airbus A320,107,
+I55183,AirAsia India,Chandigarh,IXC,Kolkata,CCU,7:33 AM,9:43 AM,Delayed,T3-8,Boeing 737 MAX,130,10
+UK5824,Vistara,Kolkata,CCU,Chandigarh,IXC,10:01 PM,11:23 PM,On Time,T1-17,Airbus A321,82,
+SG9969,SpiceJet,Bengaluru,BLR,Bhubaneswar,BBI,10:22 PM,11:26 PM,On Time,T3-32,Boeing 737-800,64,
+G89348,Go First,Lucknow,LKO,Thiruvananthapuram,TRV,9:19 PM,11:26 PM,Departed,T1-29,Airbus A320,127,10
+G87345,Go First,Lucknow,LKO,Hyderabad,HYD,9:22 AM,10:21 AM,On Time,T1-20,Boeing 737-800,59,
+G8716,Go First,Delhi,DEL,Kolkata,CCU,9:47 AM,10:51 AM,On Time,T1-40,Boeing 737 MAX,64,
+I57681,AirAsia India,Pune,PNQ,Goa,GOI,1:24 AM,4:04 AM,Departed,T3-13,Airbus A320neo,160,20
+G88314,Go First,Bengaluru,BLR,Delhi,DEL,3:22 PM,4:33 PM,Delayed,T2-6,Boeing 737 MAX,71,105
+SG741,SpiceJet,Chennai,MAA,Chandigarh,IXC,2:56 PM,5:33 PM,On Time,T3-11,Airbus A320neo,157,
+QP4734,Akasa Air,Kochi,COK,Thiruvananthapuram,TRV,11:32 AM,12:30 PM,Delayed,T2-5,Airbus A320neo,58,60
+AI9241,Air India,Lucknow,LKO,Kochi,COK,9:41 AM,11:30 AM,Delayed,T3-10,Airbus A320neo,109,60
+AI9647,Air India,Lucknow,LKO,Bengaluru,BLR,11:56 AM,2:00 PM,Cancelled,T3-26,Airbus A321,124,
+AI5172,Air India,Goa,GOI,Kochi,COK,9:57 PM,12:06 AM,Delayed,T3-34,Airbus A320,129,60
+I58431,AirAsia India,Kolkata,CCU,Delhi,DEL,12:22 PM,2:26 PM,On Time,T1-22,Boeing 737-800,124,
+UK3811,Vistara,Bengaluru,BLR,Thiruvananthapuram,TRV,2:38 AM,4:38 AM,Delayed,T3-35,ATR 72-600,120,10
+6E5617,IndiGo,Thiruvananthapuram,TRV,Bhubaneswar,BBI,9:05 PM,10:23 PM,On Time,T1-11,Airbus A321,78,
+SG7270,SpiceJet,Delhi,DEL,Kochi,COK,12:26 PM,2:11 PM,Cancelled,T3-19,ATR 72-600,105,
+G83933,Go First,Goa,GOI,Chennai,MAA,10:33 AM,1:18 PM,Departed,T2-37,Boeing 737-800,165,5
+G84716,Go First,Bhubaneswar,BBI,Kochi,COK,5:09 PM,8:09 PM,On Time,T1-13,Boeing 737 MAX,180,
+SG4196,SpiceJet,Delhi,DEL,Lucknow,LKO,4:24 PM,6:44 PM,On Time,T1-34,Airbus A320,140,
+IX1474,Air India Express,Bhubaneswar,BBI,Bengaluru,BLR,9:18 AM,11:58 AM,Departed,T2-6,Airbus A321,160,5
+G85827,Go First,Thiruvananthapuram,TRV,Delhi,DEL,2:09 PM,3:07 PM,On Time,T2-16,Boeing 737-800,58,
+AI6242,Air India,Chennai,MAA,Delhi,DEL,10:52 AM,12:02 PM,Delayed,T2-10,Airbus A321,70,60
+6E4800,IndiGo,Thiruvananthapuram,TRV,Nagpur,NAG,4:07 PM,5:27 PM,Delayed,T2-40,Airbus A320,80,40
+AI411,Air India,Hyderabad,HYD,Chennai,MAA,5:06 AM,8:06 AM,On Time,T2-16,Airbus A320neo,180,
+AI882,Air India,Chennai,MAA,Kochi,COK,9:48 PM,12:30 AM,On Time,T2-39,Boeing 737 MAX,162,
+6E8543,IndiGo,Pune,PNQ,Chennai,MAA,4:54 AM,6:53 AM,On Time,T3-23,Airbus A321,119,
+I53168,AirAsia India,Lucknow,LKO,Thiruvananthapuram,TRV,2:55 AM,5:54 AM,Cancelled,T1-34,Boeing 737 MAX,179,
+6E6497,IndiGo,Nagpur,NAG,Ahmedabad,AMD,1:29 AM,3:53 AM,Cancelled,T2-2,Airbus A320neo,144,
+AI5749,Air India,Chennai,MAA,Chandigarh,IXC,10:25 PM,11:36 PM,Delayed,T2-9,Airbus A320,71,75
+QP9045,Akasa Air,Kolkata,CCU,Nagpur,NAG,9:56 PM,11:25 PM,Delayed,T2-31,ATR 72-600,89,60
+SG2309,SpiceJet,Mumbai,BOM,Chandigarh,IXC,3:37 PM,4:31 PM,On Time,T1-13,Airbus A320,54,
+QP5180,Akasa Air,Goa,GOI,Kochi,COK,6:32 PM,9:18 PM,On Time,T3-13,Airbus A320neo,166,
+QP883,Akasa Air,Nagpur,NAG,Lucknow,LKO,11:19 AM,1:13 PM,On Time,T2-28,Boeing 737-800,114,
+G86434,Go First,Kolkata,CCU,Bengaluru,BLR,4:56 PM,7:48 PM,On Time,T3-18,Airbus A320,172,
+I51393,AirAsia India,Kochi,COK,Pune,PNQ,6:09 AM,8:09 AM,On Time,T1-21,ATR 72-600,120,
+IX5121,Air India Express,Ahmedabad,AMD,Pune,PNQ,2:32 PM,3:59 PM,Delayed,T2-3,ATR 72-600,87,30
+QP7226,Akasa Air,Hyderabad,HYD,Lucknow,LKO,1:57 AM,3:01 AM,Delayed,T2-33,ATR 72-600,64,35
+SG610,SpiceJet,Bengaluru,BLR,Nagpur,NAG,8:44 PM,11:21 PM,On Time,T1-16,ATR 72-600,157,
+QP6033,Akasa Air,Kochi,COK,Pune,PNQ,1:06 AM,2:30 AM,Delayed,T2-29,Airbus A320,84,30
+SG8774,SpiceJet,Kolkata,CCU,Kochi,COK,10:43 AM,12:39 PM,On Time,T1-2,ATR 72-600,116,
+SG8276,SpiceJet,Goa,GOI,Kochi,COK,7:10 PM,8:25 PM,On Time,T2-29,Airbus A321,75,
+IX8147,Air India Express,Chennai,MAA,Mumbai,BOM,4:37 AM,5:40 AM,On Time,T3-29,Airbus A320,63,
+QP5792,Akasa Air,Chandigarh,IXC,Mumbai,BOM,6:46 PM,8:45 PM,Departed,T3-12,Airbus A320neo,119,5
+UK2088,Vistara,Chennai,MAA,Bhubaneswar,BBI,4:44 AM,6:29 AM,Delayed,T2-36,Boeing 737 MAX,105,5
+QP7757,Akasa Air,Bhubaneswar,BBI,Goa,GOI,4:25 AM,5:32 AM,On Time,T2-31,Boeing 737 MAX,67,
+I56808,AirAsia India,Nagpur,NAG,Pune,PNQ,2:31 AM,3:48 AM,Cancelled,T3-5,Boeing 737-800,77,
+G88576,Go First,Kolkata,CCU,Bengaluru,BLR,6:49 PM,8:20 PM,Delayed,T2-33,Airbus A320,91,15
+AI8588,Air India,Bengaluru,BLR,Hyderabad,HYD,5:37 AM,7:03 AM,On Time,T3-15,Airbus A320neo,86,
+IX1392,Air India Express,Hyderabad,HYD,Chennai,MAA,9:40 PM,11:35 PM,On Time,T2-40,Boeing 737 MAX,115,
+AI8334,Air India,Lucknow,LKO,Bengaluru,BLR,8:12 PM,9:36 PM,On Time,T3-39,Airbus A320neo,84,
+6E564,IndiGo,Mumbai,BOM,Delhi,DEL,9:53 PM,11:45 PM,Delayed,T3-27,Boeing 737 MAX,112,90
+6E8259,IndiGo,Thiruvananthapuram,TRV,Lucknow,LKO,6:37 PM,8:36 PM,On Time,T2-31,Airbus A321,119,
+I54973,AirAsia India,Ahmedabad,AMD,Mumbai,BOM,11:30 PM,12:30 AM,On Time,T2-31,Boeing 737-800,60,
+UK5673,Vistara,Pune,PNQ,Bengaluru,BLR,10:40 AM,12:46 PM,Delayed,T2-26,Airbus A321,126,105
+QP8537,Akasa Air,Goa,GOI,Mumbai,BOM,10:53 AM,12:39 PM,On Time,T2-29,Airbus A321,106,
+SG1686,SpiceJet,Delhi,DEL,Hyderabad,HYD,1:06 PM,3:38 PM,On Time,T1-21,Boeing 737 MAX,152,
+QP3210,Akasa Air,Bhubaneswar,BBI,Bengaluru,BLR,5:00 PM,7:56 PM,On Time,T2-32,Airbus A320,176,
+AI6542,Air India,Goa,GOI,Ahmedabad,AMD,8:13 AM,9:53 AM,On Time,T1-4,Airbus A320neo,100,
+G89889,Go First,Thiruvananthapuram,TRV,Nagpur,NAG,10:19 PM,1:04 AM,On Time,T1-7,Boeing 737-800,165,
+SG4433,SpiceJet,Chandigarh,IXC,Kolkata,CCU,1:45 PM,4:03 PM,On Time,T1-37,Boeing 737 MAX,138,
+UK6039,Vistara,Goa,GOI,Hyderabad,HYD,2:30 AM,4:53 AM,On Time,T3-18,Boeing 737 MAX,143,
+AI2208,Air India,Mumbai,BOM,Kochi,COK,12:44 PM,2:55 PM,On Time,T2-10,Airbus A321,131,
+I58293,AirAsia India,Delhi,DEL,Thiruvananthapuram,TRV,1:19 AM,2:39 AM,Delayed,T2-34,Boeing 737-800,80,90
+SG8546,SpiceJet,Bengaluru,BLR,Kolkata,CCU,8:55 PM,11:01 PM,On Time,T3-20,Boeing 737 MAX,126,
+QP8411,Akasa Air,Nagpur,NAG,Goa,GOI,6:10 PM,9:00 PM,Delayed,T2-2,Airbus A320neo,170,25
+QP1895,Akasa Air,Kochi,COK,Pune,PNQ,10:30 AM,11:21 AM,On Time,T2-38,Boeing 737 MAX,51,
+UK941,Vistara,Pune,PNQ,Ahmedabad,AMD,5:49 AM,8:48 AM,On Time,T3-25,Airbus A321,179,
+UK617,Vistara,Pune,PNQ,Chandigarh,IXC,3:45 AM,5:18 AM,On Time,T2-27,Airbus A321,93,
+I53440,AirAsia India,Kochi,COK,Goa,GOI,8:52 PM,11:37 PM,Departed,T3-9,Boeing 737 MAX,165,
+UK9289,Vistara,Kolkata,CCU,Lucknow,LKO,4:19 PM,7:18 PM,On Time,T1-30,Boeing 737 MAX,179,
+QP9050,Akasa Air,Kolkata,CCU,Lucknow,LKO,11:14 PM,1:06 AM,On Time,T1-16,Airbus A320neo,112,
+IX3784,Air India Express,Hyderabad,HYD,Bhubaneswar,BBI,9:51 AM,11:29 AM,Delayed,T2-31,Airbus A320neo,98,40
+IX4815,Air India Express,Mumbai,BOM,Pune,PNQ,11:05 PM,1:27 AM,Departed,T2-10,Airbus A320neo,142,15
+AI5774,Air India,Thiruvananthapuram,TRV,Ahmedabad,AMD,10:23 PM,12:13 AM,Delayed,T1-35,Airbus A320neo,110,20
+IX2349,Air India Express,Mumbai,BOM,Pune,PNQ,8:01 PM,9:47 PM,On Time,T3-34,Airbus A321,106,
+UK960,Vistara,Mumbai,BOM,Kochi,COK,11:16 AM,2:01 PM,On Time,T1-1,Boeing 737 MAX,165,
+SG6766,SpiceJet,Lucknow,LKO,Ahmedabad,AMD,4:17 PM,5:53 PM,Delayed,T2-19,ATR 72-600,96,25
+6E1565,IndiGo,Lucknow,LKO,Pune,PNQ,7:55 AM,8:49 AM,Departed,T2-12,Airbus A320,54,5
+I58216,AirAsia India,Bengaluru,BLR,Chandigarh,IXC,9:52 AM,10:46 AM,On Time,T3-39,Airbus A320,54,
+QP4762,Akasa Air,Ahmedabad,AMD,Lucknow,LKO,6:32 PM,9:31 PM,On Time,T1-33,Boeing 737-800,179,
+IX3259,Air India Express,Bhubaneswar,BBI,Mumbai,BOM,11:17 AM,12:43 PM,Delayed,T2-12,Airbus A320,86,60
+QP4933,Akasa Air,Pune,PNQ,Lucknow,LKO,6:35 AM,8:04 AM,On Time,T3-26,Boeing 737-800,89,
+QP1521,Akasa Air,Kochi,COK,Lucknow,LKO,3:15 AM,4:47 AM,Cancelled,T2-21,Airbus A321,92,
+6E4372,IndiGo,Kochi,COK,Chennai,MAA,3:14 PM,5:07 PM,Cancelled,T2-38,ATR 72-600,113,
+6E4385,IndiGo,Lucknow,LKO,Kolkata,CCU,11:38 PM,1:23 AM,On Time,T1-30,Airbus A320neo,105,
+SG6742,SpiceJet,Lucknow,LKO,Goa,GOI,10:36 AM,11:51 AM,On Time,T2-24,Boeing 737 MAX,75,
+UK3690,Vistara,Bengaluru,BLR,Ahmedabad,AMD,5:13 AM,7:54 AM,Delayed,T2-27,ATR 72-600,161,50
+G88906,Go First,Bhubaneswar,BBI,Lucknow,LKO,7:27 AM,9:15 AM,Delayed,T1-34,Boeing 737-800,108,50
+QP1379,Akasa Air,Thiruvananthapuram,TRV,Pune,PNQ,3:49 AM,4:49 AM,Delayed,T3-13,Boeing 737 MAX,60,120
+SG2795,SpiceJet,Kolkata,CCU,Nagpur,NAG,5:45 PM,8:23 PM,On Time,T1-38,Boeing 737-800,158,
+AI8461,Air India,Ahmedabad,AMD,Bhubaneswar,BBI,1:53 AM,4:34 AM,On Time,T2-30,Boeing 737 MAX,161,
+6E9255,IndiGo,Ahmedabad,AMD,Lucknow,LKO,10:31 AM,11:21 AM,On Time,T1-14,Boeing 737 MAX,50,
+AI842,Air India,Kochi,COK,Kolkata,CCU,11:54 PM,12:55 AM,On Time,T1-5,Boeing 737-800,61,
+6E4803,IndiGo,Kochi,COK,Bengaluru,BLR,4:37 AM,7:09 AM,On Time,T2-29,Boeing 737-800,152,
+I51414,AirAsia India,Lucknow,LKO,Thiruvananthapuram,TRV,6:24 PM,7:43 PM,Delayed,T1-12,Boeing 737 MAX,79,30
+I58764,AirAsia India,Bengaluru,BLR,Chandigarh,IXC,7:36 AM,8:21 AM,Delayed,T2-35,Boeing 737-800,45,25
+I53862,AirAsia India,Chennai,MAA,Ahmedabad,AMD,11:48 AM,1:12 PM,On Time,T3-8,Airbus A320,84,
+I5356,AirAsia India,Chennai,MAA,Thiruvananthapuram,TRV,2:17 AM,3:27 AM,On Time,T2-39,ATR 72-600,70,
+6E4109,IndiGo,Chandigarh,IXC,Delhi,DEL,1:43 PM,4:20 PM,On Time,T1-4,Airbus A321,157,
+IX3936,Air India Express,Nagpur,NAG,Chandigarh,IXC,7:39 PM,9:45 PM,On Time,T3-21,Airbus A321,126,
+IX2447,Air India Express,Lucknow,LKO,Goa,GOI,7:32 AM,10:02 AM,On Time,T1-36,Boeing 737 MAX,150,
+SG7099,SpiceJet,Goa,GOI,Ahmedabad,AMD,1:36 AM,3:49 AM,Departed,T3-21,ATR 72-600,133,15
+I56788,AirAsia India,Bengaluru,BLR,Hyderabad,HYD,12:50 PM,2:22 PM,Delayed,T1-15,Airbus A320neo,92,40
+SG7686,SpiceJet,Thiruvananthapuram,TRV,Delhi,DEL,7:11 PM,9:41 PM,Cancelled,T3-34,Airbus A321,150,
+I54078,AirAsia India,Hyderabad,HYD,Chennai,MAA,11:16 AM,12:21 PM,Departed,T1-35,ATR 72-600,65,10
+UK944,Vistara,Hyderabad,HYD,Kochi,COK,10:59 PM,11:54 PM,Departed,T3-36,Airbus A321,55,5
+G83522,Go First,Nagpur,NAG,Kolkata,CCU,10:20 AM,11:08 AM,On Time,T1-8,ATR 72-600,48,
+G84074,Go First,Chandigarh,IXC,Pune,PNQ,6:58 AM,9:24 AM,Departed,T2-19,Boeing 737-800,146,20
+G88843,Go First,Lucknow,LKO,Kolkata,CCU,10:31 AM,12:22 PM,On Time,T2-30,Airbus A320,111,
+G85346,Go First,Thiruvananthapuram,TRV,Chennai,MAA,12:39 PM,2:44 PM,On Time,T3-15,ATR 72-600,125,
+SG365,SpiceJet,Hyderabad,HYD,Goa,GOI,7:56 PM,10:27 PM,On Time,T1-22,Airbus A321,151,
+I59435,AirAsia India,Nagpur,NAG,Chennai,MAA,5:02 PM,7:13 PM,On Time,T2-32,Boeing 737-800,131,
+SG5870,SpiceJet,Bengaluru,BLR,Thiruvananthapuram,TRV,6:39 PM,9:29 PM,On Time,T3-4,Boeing 737 MAX,170,
+6E1317,IndiGo,Nagpur,NAG,Lucknow,LKO,1:39 AM,2:25 AM,On Time,T3-15,Airbus A320,46,
+SG249,SpiceJet,Chennai,MAA,Goa,GOI,3:33 PM,5:53 PM,On Time,T3-40,Boeing 737-800,140,
+G8357,Go First,Delhi,DEL,Goa,GOI,6:49 PM,9:19 PM,On Time,T3-18,Boeing 737 MAX,150,
+IX380,Air India Express,Goa,GOI,Nagpur,NAG,11:49 PM,2:24 AM,Delayed,T1-7,Airbus A320,155,120
+SG4048,SpiceJet,Chennai,MAA,Pune,PNQ,5:58 PM,7:47 PM,Delayed,T2-6,Airbus A320neo,109,25
+I57620,AirAsia India,Pune,PNQ,Chennai,MAA,11:47 PM,1:29 AM,On Time,T1-3,Airbus A320,102,
+I56313,AirAsia India,Kochi,COK,Goa,GOI,4:14 PM,5:13 PM,On Time,T3-11,Airbus A320,59,
+G87209,Go First,Lucknow,LKO,Bhubaneswar,BBI,11:18 AM,12:27 PM,Departed,T1-14,ATR 72-600,69,
+G84541,Go First,Delhi,DEL,Mumbai,BOM,11:21 PM,1:17 AM,Departed,T3-3,Airbus A321,116,20
+QP356,Akasa Air,Chennai,MAA,Pune,PNQ,4:55 AM,7:21 AM,Departed,T1-37,Airbus A321,146,10
+I58956,AirAsia India,Kolkata,CCU,Kochi,COK,4:46 AM,5:51 AM,On Time,T2-4,Airbus A320,65,
+I53903,AirAsia India,Nagpur,NAG,Mumbai,BOM,11:37 AM,2:03 PM,Cancelled,T2-2,ATR 72-600,146,
+IX7481,Air India Express,Ahmedabad,AMD,Chennai,MAA,12:08 PM,2:29 PM,On Time,T3-38,ATR 72-600,141,
+I51504,AirAsia India,Bhubaneswar,BBI,Pune,PNQ,10:04 AM,11:52 AM,Delayed,T2-10,Boeing 737-800,108,10
+SG6483,SpiceJet,Kolkata,CCU,Thiruvananthapuram,TRV,3:38 AM,4:46 AM,On Time,T2-29,Airbus A320neo,68,
+IX1774,Air India Express,Bengaluru,BLR,Mumbai,BOM,6:23 AM,8:58 AM,On Time,T3-33,Boeing 737-800,155,
+AI530,Air India,Mumbai,BOM,Kolkata,CCU,6:55 PM,8:03 PM,On Time,T2-25,Airbus A320,68,
+IX6879,Air India Express,Kochi,COK,Bhubaneswar,BBI,2:53 AM,4:40 AM,On Time,T1-25,Airbus A321,107,
+SG4505,SpiceJet,Hyderabad,HYD,Thiruvananthapuram,TRV,4:49 PM,6:11 PM,On Time,T2-18,Boeing 737-800,82,
+IX8033,Air India Express,Bhubaneswar,BBI,Mumbai,BOM,12:19 PM,2:08 PM,Departed,T3-40,Airbus A321,109,15
+G81852,Go First,Bengaluru,BLR,Hyderabad,HYD,12:13 AM,2:39 AM,On Time,T3-25,Airbus A320neo,146,
+G85584,Go First,Kochi,COK,Nagpur,NAG,10:13 PM,11:32 PM,On Time,T3-13,Boeing 737-800,79,
+QP3010,Akasa Air,Kochi,COK,Kolkata,CCU,9:56 AM,12:46 PM,Cancelled,T1-21,Boeing 737-800,170,
+IX6537,Air India Express,Kolkata,CCU,Mumbai,BOM,7:14 PM,8:50 PM,On Time,T3-12,ATR 72-600,96,
+6E7663,IndiGo,Chandigarh,IXC,Chennai,MAA,2:57 PM,4:56 PM,Delayed,T2-32,Airbus A321,119,10
+IX4065,Air India Express,Hyderabad,HYD,Lucknow,LKO,5:15 AM,7:48 AM,Delayed,T2-39,Boeing 737-800,153,10
+I58855,AirAsia India,Goa,GOI,Nagpur,NAG,11:36 PM,2:08 AM,On Time,T2-35,Boeing 737 MAX,152,
+AI1891,Air India,Bhubaneswar,BBI,Chennai,MAA,10:26 PM,12:41 AM,On Time,T3-3,Boeing 737 MAX,135,
+I55532,AirAsia India,Bhubaneswar,BBI,Kochi,COK,3:36 AM,4:23 AM,On Time,T1-33,ATR 72-600,47,
+UK7403,Vistara,Kolkata,CCU,Kochi,COK,3:48 PM,6:41 PM,On Time,T1-31,Airbus A320,173,
+IX6915,Air India Express,Thiruvananthapuram,TRV,Mumbai,BOM,3:57 AM,5:18 AM,On Time,T2-30,Airbus A321,81,
+G85806,Go First,Ahmedabad,AMD,Mumbai,BOM,2:57 PM,5:37 PM,On Time,T2-3,ATR 72-600,160,
+AI470,Air India,Nagpur,NAG,Kolkata,CCU,10:07 PM,11:19 PM,Delayed,T3-16,Boeing 737 MAX,72,15
+SG9142,SpiceJet,Bengaluru,BLR,Kolkata,CCU,7:06 PM,9:40 PM,Cancelled,T1-26,ATR 72-600,154,
+SG3153,SpiceJet,Lucknow,LKO,Thiruvananthapuram,TRV,2:45 PM,5:11 PM,On Time,T3-13,Boeing 737-800,146,
+I56470,AirAsia India,Delhi,DEL,Chandigarh,IXC,7:19 AM,8:56 AM,On Time,T3-5,Boeing 737 MAX,97,
+AI8896,Air India,Bengaluru,BLR,Kolkata,CCU,11:07 AM,12:42 PM,On Time,T2-32,Boeing 737 MAX,95,
+QP9880,Akasa Air,Kochi,COK,Pune,PNQ,1:23 PM,2:37 PM,On Time,T2-40,Airbus A321,74,
+IX9769,Air India Express,Mumbai,BOM,Lucknow,LKO,4:34 AM,6:39 AM,On Time,T2-8,Airbus A321,125,
+QP2416,Akasa Air,Goa,GOI,Kochi,COK,2:16 PM,3:36 PM,On Time,T2-12,Boeing 737-800,80,
+SG9191,SpiceJet,Bengaluru,BLR,Ahmedabad,AMD,9:51 AM,11:11 AM,On Time,T2-40,Airbus A320,80,
+QP257,Akasa Air,Ahmedabad,AMD,Bengaluru,BLR,6:39 AM,9:02 AM,Cancelled,T3-32,Boeing 737-800,143,
+G86909,Go First,Chandigarh,IXC,Nagpur,NAG,3:09 PM,5:59 PM,On Time,T3-2,Airbus A321,170,
+IX635,Air India Express,Hyderabad,HYD,Chennai,MAA,6:21 PM,8:19 PM,On Time,T2-37,ATR 72-600,118,
+G89106,Go First,Goa,GOI,Mumbai,BOM,7:32 PM,8:46 PM,On Time,T3-24,Boeing 737 MAX,74,
+6E7331,IndiGo,Goa,GOI,Chennai,MAA,2:30 PM,3:41 PM,Delayed,T1-20,Airbus A320,71,60
+G84405,Go First,Kolkata,CCU,Nagpur,NAG,2:58 AM,5:35 AM,Departed,T1-14,ATR 72-600,157,
+QP7115,Akasa Air,Bengaluru,BLR,Pune,PNQ,4:45 AM,6:22 AM,Delayed,T1-37,Airbus A320neo,97,90
+IX9878,Air India Express,Goa,GOI,Bengaluru,BLR,11:02 AM,1:01 PM,On Time,T2-33,ATR 72-600,119,
+AI2321,Air India,Bhubaneswar,BBI,Thiruvananthapuram,TRV,2:02 PM,3:02 PM,Cancelled,T3-9,ATR 72-600,60,
+SG4190,SpiceJet,Bengaluru,BLR,Chandigarh,IXC,10:59 AM,12:47 PM,Delayed,T2-32,Airbus A321,108,60
+IX6886,Air India Express,Kochi,COK,Ahmedabad,AMD,2:34 AM,3:42 AM,On Time,T3-18,ATR 72-600,68,
+QP7549,Akasa Air,Ahmedabad,AMD,Kolkata,CCU,7:51 PM,8:36 PM,Departed,T3-30,ATR 72-600,45,
+QP1137,Akasa Air,Bhubaneswar,BBI,Goa,GOI,1:34 PM,3:14 PM,Cancelled,T1-32,Airbus A320neo,100,
+QP4746,Akasa Air,Kolkata,CCU,Goa,GOI,7:43 PM,9:01 PM,On Time,T2-22,ATR 72-600,78,
+6E852,IndiGo,Mumbai,BOM,Lucknow,LKO,3:41 PM,4:30 PM,On Time,T1-29,Boeing 737-800,49,
+6E7109,IndiGo,Chennai,MAA,Chandigarh,IXC,4:30 AM,6:32 AM,On Time,T2-6,ATR 72-600,122,
+QP4202,Akasa Air,Mumbai,BOM,Kolkata,CCU,10:40 PM,12:07 AM,On Time,T3-20,ATR 72-600,87,
+UK7132,Vistara,Lucknow,LKO,Mumbai,BOM,3:14 AM,3:59 AM,On Time,T1-9,Boeing 737 MAX,45,
+UK8610,Vistara,Lucknow,LKO,Ahmedabad,AMD,12:19 AM,1:06 AM,Delayed,T1-28,ATR 72-600,47,105
+SG7926,SpiceJet,Mumbai,BOM,Chennai,MAA,1:04 PM,2:11 PM,Delayed,T1-21,Airbus A320neo,67,10
+IX2346,Air India Express,Kochi,COK,Bhubaneswar,BBI,4:32 AM,5:53 AM,On Time,T3-1,Boeing 737 MAX,81,
+SG7310,SpiceJet,Kolkata,CCU,Chandigarh,IXC,7:16 AM,8:39 AM,Departed,T3-29,Airbus A321,83,20
+SG2117,SpiceJet,Pune,PNQ,Chandigarh,IXC,1:06 PM,3:20 PM,Cancelled,T2-9,Airbus A321,134,
+IX1480,Air India Express,Chennai,MAA,Goa,GOI,8:30 PM,10:27 PM,Delayed,T1-20,Airbus A321,117,75
+UK6518,Vistara,Hyderabad,HYD,Lucknow,LKO,1:51 AM,3:37 AM,On Time,T1-16,Boeing 737-800,106,
+AI8755,Air India,Thiruvananthapuram,TRV,Delhi,DEL,12:19 PM,2:25 PM,On Time,T3-27,Airbus A320neo,126,
+SG7817,SpiceJet,Bhubaneswar,BBI,Mumbai,BOM,12:34 AM,1:36 AM,On Time,T1-3,Airbus A320,62,
+I58400,AirAsia India,Hyderabad,HYD,Lucknow,LKO,5:06 PM,7:37 PM,On Time,T2-6,ATR 72-600,151,
+SG4646,SpiceJet,Mumbai,BOM,Hyderabad,HYD,2:41 AM,5:36 AM,Departed,T3-21,Boeing 737-800,175,5
+AI5181,Air India,Chandigarh,IXC,Kochi,COK,8:08 AM,9:07 AM,On Time,T2-8,Boeing 737-800,59,
+6E5167,IndiGo,Lucknow,LKO,Chandigarh,IXC,10:27 PM,11:56 PM,On Time,T3-9,ATR 72-600,89,
+6E2784,IndiGo,Ahmedabad,AMD,Kolkata,CCU,5:51 PM,8:48 PM,Delayed,T2-11,Airbus A320neo,177,75
+SG4503,SpiceJet,Chandigarh,IXC,Mumbai,BOM,1:00 AM,3:10 AM,Delayed,T3-5,Airbus A320neo,130,25
+AI8228,Air India,Ahmedabad,AMD,Goa,GOI,12:17 PM,1:16 PM,On Time,T3-11,Airbus A320neo,59,
+SG4279,SpiceJet,Bhubaneswar,BBI,Mumbai,BOM,7:35 PM,8:49 PM,On Time,T3-1,Airbus A320,74,
+6E4106,IndiGo,Delhi,DEL,Ahmedabad,AMD,12:25 PM,2:48 PM,Departed,T1-36,ATR 72-600,143,5
+I53778,AirAsia India,Kolkata,CCU,Chennai,MAA,2:12 PM,4:18 PM,On Time,T1-37,Airbus A320neo,126,
+AI8325,Air India,Lucknow,LKO,Delhi,DEL,6:07 AM,7:49 AM,Delayed,T2-5,Boeing 737-800,102,5
+IX5190,Air India Express,Kolkata,CCU,Mumbai,BOM,6:52 PM,9:33 PM,On Time,T1-19,Boeing 737 MAX,161,
+IX4074,Air India Express,Ahmedabad,AMD,Kolkata,CCU,8:11 PM,11:02 PM,Cancelled,T1-35,Airbus A321,171,
+SG204,SpiceJet,Thiruvananthapuram,TRV,Kochi,COK,12:48 AM,2:32 AM,On Time,T3-1,Airbus A320neo,104,
+6E6264,IndiGo,Nagpur,NAG,Chandigarh,IXC,10:29 AM,11:40 AM,On Time,T1-27,Boeing 737-800,71,
+6E2432,IndiGo,Chandigarh,IXC,Hyderabad,HYD,3:10 AM,4:06 AM,Departed,T2-24,Boeing 737-800,56,20
+AI9615,Air India,Mumbai,BOM,Goa,GOI,4:33 AM,6:58 AM,On Time,T3-4,Boeing 737-800,145,
+SG3979,SpiceJet,Hyderabad,HYD,Thiruvananthapuram,TRV,10:45 AM,1:10 PM,Delayed,T2-21,Boeing 737-800,145,75
+IX3927,Air India Express,Mumbai,BOM,Chennai,MAA,4:38 AM,5:50 AM,On Time,T1-29,Boeing 737-800,72,
+QP6760,Akasa Air,Mumbai,BOM,Goa,GOI,12:13 PM,1:51 PM,On Time,T2-17,Airbus A320,98,
+AI2682,Air India,Bhubaneswar,BBI,Lucknow,LKO,10:23 AM,11:18 AM,On Time,T2-10,Airbus A320,55,
+UK5928,Vistara,Kochi,COK,Goa,GOI,1:40 AM,3:41 AM,On Time,T1-2,Boeing 737-800,121,
+G89208,Go First,Chandigarh,IXC,Goa,GOI,8:31 AM,9:40 AM,On Time,T1-8,Airbus A320,69,
+6E3741,IndiGo,Bengaluru,BLR,Chennai,MAA,1:40 PM,4:00 PM,Delayed,T1-38,Boeing 737 MAX,140,60
+IX1328,Air India Express,Delhi,DEL,Mumbai,BOM,6:44 AM,9:22 AM,Delayed,T2-8,Airbus A320,158,10
+G8929,Go First,Bengaluru,BLR,Pune,PNQ,2:47 PM,5:13 PM,On Time,T2-28,Airbus A321,146,
+QP3617,Akasa Air,Thiruvananthapuram,TRV,Bengaluru,BLR,9:23 AM,11:19 AM,On Time,T1-3,Boeing 737 MAX,116,
+UK4935,Vistara,Ahmedabad,AMD,Kochi,COK,6:47 PM,9:34 PM,On Time,T2-25,Airbus A321,167,
+I53367,AirAsia India,Lucknow,LKO,Bhubaneswar,BBI,5:56 PM,7:44 PM,On Time,T3-2,Boeing 737-800,108,
+QP7959,Akasa Air,Goa,GOI,Bhubaneswar,BBI,4:32 PM,6:45 PM,Departed,T2-25,Airbus A320neo,133,20
+SG527,SpiceJet,Kolkata,CCU,Pune,PNQ,7:28 AM,8:20 AM,Departed,T1-31,Boeing 737 MAX,52,10
+QP9668,Akasa Air,Chennai,MAA,Bengaluru,BLR,3:25 AM,5:13 AM,Delayed,T3-4,Airbus A321,108,25
+I55913,AirAsia India,Thiruvananthapuram,TRV,Nagpur,NAG,5:55 AM,7:25 AM,On Time,T2-23,Boeing 737 MAX,90,
+6E5861,IndiGo,Pune,PNQ,Thiruvananthapuram,TRV,4:51 AM,6:24 AM,Delayed,T2-35,Airbus A320neo,93,90
+SG8135,SpiceJet,Delhi,DEL,Mumbai,BOM,1:55 AM,3:39 AM,On Time,T1-34,Boeing 737-800,104,
+6E5535,IndiGo,Thiruvananthapuram,TRV,Pune,PNQ,6:52 AM,8:10 AM,On Time,T1-21,Airbus A320,78,
+6E2520,IndiGo,Pune,PNQ,Chandigarh,IXC,4:50 AM,6:03 AM,Delayed,T2-5,Airbus A320neo,73,105
+I59701,AirAsia India,Mumbai,BOM,Kolkata,CCU,10:18 AM,12:25 PM,On Time,T1-28,ATR 72-600,127,
+G85298,Go First,Bengaluru,BLR,Chandigarh,IXC,7:10 PM,9:26 PM,On Time,T3-12,Boeing 737-800,136,
+IX4925,Air India Express,Bengaluru,BLR,Thiruvananthapuram,TRV,12:03 AM,2:28 AM,Departed,T1-12,Boeing 737 MAX,145,20
+QP3719,Akasa Air,Lucknow,LKO,Pune,PNQ,3:33 AM,6:25 AM,On Time,T3-5,Airbus A321,172,
+QP5334,Akasa Air,Bengaluru,BLR,Lucknow,LKO,3:01 AM,5:11 AM,On Time,T2-14,Airbus A321,130,
+AI5842,Air India,Hyderabad,HYD,Bhubaneswar,BBI,3:41 AM,4:26 AM,On Time,T2-27,Airbus A321,45,
+I58178,AirAsia India,Thiruvananthapuram,TRV,Kochi,COK,11:59 AM,2:20 PM,On Time,T2-37,ATR 72-600,141,
+UK2764,Vistara,Ahmedabad,AMD,Mumbai,BOM,1:08 AM,3:08 AM,On Time,T2-7,Airbus A320,120,
+QP2887,Akasa Air,Thiruvananthapuram,TRV,Kochi,COK,5:29 AM,6:33 AM,On Time,T1-22,Boeing 737 MAX,64,
+G8607,Go First,Kochi,COK,Lucknow,LKO,5:37 AM,8:13 AM,On Time,T1-22,Airbus A321,156,
+UK6805,Vistara,Chandigarh,IXC,Goa,GOI,6:26 PM,8:18 PM,Delayed,T1-7,Airbus A320,112,25
+I59467,AirAsia India,Goa,GOI,Nagpur,NAG,4:45 PM,6:09 PM,On Time,T1-28,Airbus A320,84,
+IX9933,Air India Express,Ahmedabad,AMD,Chennai,MAA,3:18 AM,4:09 AM,On Time,T3-19,Airbus A320,51,
+G81992,Go First,Hyderabad,HYD,Bhubaneswar,BBI,1:34 PM,4:19 PM,On Time,T3-17,Airbus A320,165,
+I53129,AirAsia India,Kolkata,CCU,Kochi,COK,12:36 PM,2:08 PM,On Time,T2-29,Boeing 737-800,92,
+IX3806,Air India Express,Nagpur,NAG,Hyderabad,HYD,7:15 PM,8:15 PM,On Time,T3-7,Airbus A320,60,
+QP8971,Akasa Air,Kochi,COK,Bhubaneswar,BBI,8:07 PM,9:50 PM,On Time,T2-34,Boeing 737-800,103,
+G89483,Go First,Thiruvananthapuram,TRV,Chennai,MAA,4:15 PM,6:16 PM,On Time,T3-3,Boeing 737 MAX,121,
+SG2070,SpiceJet,Bhubaneswar,BBI,Ahmedabad,AMD,5:54 AM,7:21 AM,Cancelled,T1-9,Airbus A320,87,
+I51383,AirAsia India,Lucknow,LKO,Kochi,COK,6:53 AM,8:15 AM,Delayed,T2-5,Airbus A320,82,25
+I59215,AirAsia India,Kochi,COK,Goa,GOI,11:07 AM,1:02 PM,On Time,T1-40,Boeing 737 MAX,115,
+I51943,AirAsia India,Kochi,COK,Bengaluru,BLR,5:03 AM,6:13 AM,Departed,T1-19,Boeing 737 MAX,70,20
+QP6832,Akasa Air,Hyderabad,HYD,Kochi,COK,10:21 PM,1:10 AM,On Time,T2-3,Airbus A321,169,
+IX6702,Air India Express,Bengaluru,BLR,Pune,PNQ,8:46 PM,11:13 PM,On Time,T2-16,Airbus A320,147,
+G84500,Go First,Thiruvananthapuram,TRV,Kolkata,CCU,12:41 AM,2:52 AM,Delayed,T2-18,Boeing 737-800,131,25
+AI3834,Air India,Bengaluru,BLR,Hyderabad,HYD,3:07 PM,5:14 PM,On Time,T2-39,ATR 72-600,127,
+AI3179,Air India,Ahmedabad,AMD,Chennai,MAA,1:53 PM,4:42 PM,Delayed,T2-4,Boeing 737 MAX,169,105
+SG1175,SpiceJet,Hyderabad,HYD,Chandigarh,IXC,5:17 PM,7:45 PM,On Time,T3-37,Airbus A320,148,
+SG3258,SpiceJet,Thiruvananthapuram,TRV,Nagpur,NAG,6:51 AM,7:50 AM,On Time,T2-4,Airbus A320neo,59,
+UK4588,Vistara,Kolkata,CCU,Nagpur,NAG,3:50 PM,6:44 PM,On Time,T1-2,Airbus A321,174,
+QP8108,Akasa Air,Pune,PNQ,Ahmedabad,AMD,6:03 AM,8:49 AM,On Time,T2-23,Airbus A321,166,
+IX1580,Air India Express,Hyderabad,HYD,Delhi,DEL,1:11 PM,2:08 PM,On Time,T3-14,Airbus A321,57,
+UK3487,Vistara,Hyderabad,HYD,Lucknow,LKO,1:58 PM,4:54 PM,On Time,T3-1,Boeing 737-800,176,
+SG2937,SpiceJet,Pune,PNQ,Bhubaneswar,BBI,12:17 AM,1:59 AM,On Time,T2-18,Boeing 737-800,102,
+I55813,AirAsia India,Ahmedabad,AMD,Hyderabad,HYD,7:26 AM,10:10 AM,On Time,T3-40,Boeing 737-800,164,
+AI220,Air India,Goa,GOI,Lucknow,LKO,12:46 PM,2:43 PM,On Time,T1-31,Airbus A320,117,
+QP4629,Akasa Air,Lucknow,LKO,Kolkata,CCU,9:27 AM,11:18 AM,Delayed,T3-20,Airbus A321,111,120
+SG8575,SpiceJet,Bhubaneswar,BBI,Chennai,MAA,1:56 AM,4:24 AM,Delayed,T1-2,ATR 72-600,148,60
+G84943,Go First,Hyderabad,HYD,Kochi,COK,1:48 PM,4:12 PM,Delayed,T3-37,Airbus A321,144,50
+QP3743,Akasa Air,Lucknow,LKO,Goa,GOI,9:47 PM,12:33 AM,Departed,T3-20,Airbus A321,166,10
+SG4913,SpiceJet,Mumbai,BOM,Ahmedabad,AMD,4:22 AM,6:13 AM,Delayed,T1-22,ATR 72-600,111,45
+AI3741,Air India,Kolkata,CCU,Chennai,MAA,10:28 AM,1:00 PM,Delayed,T2-17,Boeing 737 MAX,152,30
+IX7698,Air India Express,Nagpur,NAG,Mumbai,BOM,4:03 PM,5:01 PM,Departed,T3-40,Airbus A320,58,20
+G83287,Go First,Goa,GOI,Mumbai,BOM,11:14 PM,1:36 AM,On Time,T2-4,Airbus A321,142,
+SG3381,SpiceJet,Kolkata,CCU,Kochi,COK,7:26 PM,10:08 PM,On Time,T3-12,Airbus A320,162,
+G85549,Go First,Lucknow,LKO,Bengaluru,BLR,10:41 AM,11:40 AM,On Time,T2-14,Airbus A321,59,
+SG8121,SpiceJet,Bhubaneswar,BBI,Thiruvananthapuram,TRV,3:00 AM,4:18 AM,On Time,T3-28,Boeing 737-800,78,
+I57921,AirAsia India,Kochi,COK,Delhi,DEL,1:17 AM,2:53 AM,Delayed,T2-34,Airbus A321,96,5
+6E167,IndiGo,Lucknow,LKO,Chandigarh,IXC,8:29 AM,10:11 AM,Delayed,T2-9,Airbus A320,102,30
+I58346,AirAsia India,Pune,PNQ,Hyderabad,HYD,5:42 AM,6:43 AM,Delayed,T2-30,ATR 72-600,61,25
+QP7205,Akasa Air,Thiruvananthapuram,TRV,Lucknow,LKO,4:34 AM,6:46 AM,Cancelled,T2-23,Airbus A321,132,
+SG6709,SpiceJet,Delhi,DEL,Chennai,MAA,7:39 AM,8:57 AM,On Time,T1-38,Boeing 737 MAX,78,
+QP712,Akasa Air,Kochi,COK,Lucknow,LKO,8:43 AM,9:40 AM,On Time,T1-7,ATR 72-600,57,
+6E890,IndiGo,Chandigarh,IXC,Mumbai,BOM,2:13 PM,4:51 PM,On Time,T3-17,Boeing 737-800,158,
+SG3466,SpiceJet,Chandigarh,IXC,Lucknow,LKO,9:30 PM,10:17 PM,On Time,T3-7,ATR 72-600,47,
+IX2347,Air India Express,Kochi,COK,Nagpur,NAG,3:34 AM,6:29 AM,Delayed,T2-8,Airbus A320,175,10
+G83354,Go First,Pune,PNQ,Chennai,MAA,8:58 AM,11:56 AM,Cancelled,T2-27,Airbus A320neo,178,
+SG745,SpiceJet,Goa,GOI,Ahmedabad,AMD,7:05 AM,9:53 AM,On Time,T1-1,ATR 72-600,168,
+AI1909,Air India,Nagpur,NAG,Pune,PNQ,10:50 PM,1:41 AM,On Time,T1-33,Airbus A320,171,
+AI4292,Air India,Lucknow,LKO,Chennai,MAA,3:35 PM,5:35 PM,On Time,T1-7,Airbus A321,120,
+6E4860,IndiGo,Kolkata,CCU,Bhubaneswar,BBI,11:06 PM,1:11 AM,On Time,T1-7,Airbus A320,125,
+6E2367,IndiGo,Lucknow,LKO,Thiruvananthapuram,TRV,5:49 AM,7:58 AM,On Time,T2-40,Airbus A320neo,129,
+AI6205,Air India,Nagpur,NAG,Kolkata,CCU,6:14 AM,7:28 AM,On Time,T2-18,Boeing 737-800,74,
+G87009,Go First,Lucknow,LKO,Bhubaneswar,BBI,5:41 AM,6:54 AM,On Time,T3-4,Airbus A321,73,
+AI6916,Air India,Thiruvananthapuram,TRV,Pune,PNQ,4:28 PM,7:05 PM,On Time,T2-23,Boeing 737 MAX,157,
+6E2240,IndiGo,Ahmedabad,AMD,Thiruvananthapuram,TRV,3:51 AM,6:21 AM,On Time,T1-17,ATR 72-600,150,
+QP302,Akasa Air,Chandigarh,IXC,Nagpur,NAG,11:08 PM,2:07 AM,Delayed,T3-37,Airbus A321,179,50
+QP8604,Akasa Air,Goa,GOI,Chandigarh,IXC,11:54 PM,1:03 AM,On Time,T3-16,Boeing 737-800,69,
+QP6405,Akasa Air,Bengaluru,BLR,Nagpur,NAG,7:03 PM,8:01 PM,On Time,T1-33,Boeing 737-800,58,
+G82809,Go First,Mumbai,BOM,Bhubaneswar,BBI,4:46 PM,6:53 PM,On Time,T2-4,Boeing 737 MAX,127,
+UK9119,Vistara,Lucknow,LKO,Kochi,COK,1:45 PM,3:30 PM,On Time,T2-37,Boeing 737-800,105,
+AI8266,Air India,Ahmedabad,AMD,Kolkata,CCU,4:03 AM,6:55 AM,Delayed,T1-26,Boeing 737-800,172,5
+6E9228,IndiGo,Goa,GOI,Delhi,DEL,3:06 AM,5:08 AM,Departed,T1-30,Airbus A320neo,122,20
+QP989,Akasa Air,Nagpur,NAG,Chennai,MAA,3:30 PM,5:39 PM,On Time,T3-39,Boeing 737-800,129,
+QP7514,Akasa Air,Mumbai,BOM,Thiruvananthapuram,TRV,10:29 PM,12:10 AM,On Time,T2-19,Boeing 737 MAX,101,
+QP1841,Akasa Air,Delhi,DEL,Bengaluru,BLR,4:48 PM,6:08 PM,Delayed,T3-27,Airbus A320,80,75
+IX3309,Air India Express,Chennai,MAA,Mumbai,BOM,1:24 PM,3:04 PM,On Time,T1-22,Airbus A320,100,
+I5861,AirAsia India,Thiruvananthapuram,TRV,Lucknow,LKO,10:56 PM,12:12 AM,Delayed,T2-38,Boeing 737 MAX,76,40
+SG8272,SpiceJet,Delhi,DEL,Goa,GOI,1:39 AM,4:14 AM,Delayed,T3-12,ATR 72-600,155,40
+SG2203,SpiceJet,Mumbai,BOM,Kochi,COK,10:26 PM,12:33 AM,On Time,T2-27,Boeing 737 MAX,127,
+UK4582,Vistara,Kochi,COK,Kolkata,CCU,10:02 AM,12:42 PM,Delayed,T2-39,ATR 72-600,160,15
+IX9075,Air India Express,Nagpur,NAG,Kolkata,CCU,6:53 PM,8:33 PM,On Time,T3-19,ATR 72-600,100,
+QP2273,Akasa Air,Chandigarh,IXC,Lucknow,LKO,6:04 AM,8:57 AM,On Time,T3-21,ATR 72-600,173,
+AI5871,Air India,Goa,GOI,Ahmedabad,AMD,7:53 PM,10:24 PM,Delayed,T3-19,Boeing 737-800,151,120
+6E8664,IndiGo,Mumbai,BOM,Delhi,DEL,1:00 PM,2:22 PM,On Time,T1-13,Airbus A320neo,82,
+SG4795,SpiceJet,Lucknow,LKO,Hyderabad,HYD,4:59 AM,5:59 AM,Delayed,T1-35,Airbus A320,60,25
+QP7515,Akasa Air,Mumbai,BOM,Pune,PNQ,11:03 PM,12:45 AM,Delayed,T2-16,Boeing 737 MAX,102,45
+IX869,Air India Express,Thiruvananthapuram,TRV,Kochi,COK,1:13 PM,3:44 PM,Cancelled,T3-21,Boeing 737 MAX,151,
+6E312,IndiGo,Chandigarh,IXC,Hyderabad,HYD,6:55 AM,9:33 AM,Delayed,T3-24,Boeing 737 MAX,158,120
+UK3270,Vistara,Hyderabad,HYD,Ahmedabad,AMD,6:03 AM,7:07 AM,On Time,T1-33,Airbus A320,64,
+I5765,AirAsia India,Kochi,COK,Hyderabad,HYD,6:59 PM,8:51 PM,On Time,T3-17,Airbus A320,112,
+QP7740,Akasa Air,Chandigarh,IXC,Bengaluru,BLR,1:21 AM,2:45 AM,Departed,T1-40,ATR 72-600,84,20
+IX8137,Air India Express,Bhubaneswar,BBI,Pune,PNQ,6:46 PM,9:02 PM,On Time,T3-21,Boeing 737 MAX,136,
+UK3112,Vistara,Goa,GOI,Mumbai,BOM,5:14 PM,6:39 PM,On Time,T3-26,Airbus A320,85,
+QP3724,Akasa Air,Thiruvananthapuram,TRV,Chennai,MAA,10:38 PM,12:47 AM,On Time,T2-14,Boeing 737 MAX,129,
+G89296,Go First,Nagpur,NAG,Bhubaneswar,BBI,10:09 PM,10:56 PM,On Time,T2-29,Airbus A321,47,
+UK753,Vistara,Lucknow,LKO,Kolkata,CCU,1:01 PM,2:15 PM,On Time,T3-19,Airbus A320,74,
+QP8526,Akasa Air,Bhubaneswar,BBI,Goa,GOI,3:12 PM,6:01 PM,On Time,T3-13,Airbus A320neo,169,
+AI1672,Air India,Bengaluru,BLR,Bhubaneswar,BBI,6:21 PM,7:07 PM,On Time,T1-14,ATR 72-600,46,
+I51802,AirAsia India,Chennai,MAA,Goa,GOI,11:59 PM,2:35 AM,On Time,T1-10,Airbus A320,156,
+G85534,Go First,Delhi,DEL,Mumbai,BOM,2:30 AM,3:28 AM,On Time,T2-36,Airbus A320,58,
+UK4337,Vistara,Kochi,COK,Thiruvananthapuram,TRV,3:23 PM,5:51 PM,On Time,T1-25,ATR 72-600,148,
+AI8862,Air India,Delhi,DEL,Lucknow,LKO,9:06 PM,10:07 PM,Delayed,T1-5,Airbus A320neo,61,50
+AI4848,Air India,Bhubaneswar,BBI,Lucknow,LKO,10:17 AM,11:24 AM,On Time,T2-25,Boeing 737-800,67,
+6E7865,IndiGo,Bengaluru,BLR,Goa,GOI,7:30 AM,8:49 AM,Delayed,T3-19,ATR 72-600,79,90
+SG4983,SpiceJet,Lucknow,LKO,Bhubaneswar,BBI,10:06 PM,12:26 AM,Cancelled,T1-36,Boeing 737 MAX,140,
+SG2119,SpiceJet,Delhi,DEL,Thiruvananthapuram,TRV,7:32 PM,9:57 PM,On Time,T1-20,Airbus A321,145,
+QP3569,Akasa Air,Kochi,COK,Lucknow,LKO,5:29 PM,6:50 PM,On Time,T1-40,Airbus A320neo,81,
+UK1977,Vistara,Bengaluru,BLR,Lucknow,LKO,7:21 PM,8:19 PM,Departed,T2-36,Airbus A320,58,20
+IX1203,Air India Express,Hyderabad,HYD,Mumbai,BOM,6:44 AM,9:33 AM,Cancelled,T2-9,ATR 72-600,169,
+UK1739,Vistara,Hyderabad,HYD,Pune,PNQ,2:22 AM,3:56 AM,On Time,T2-22,Boeing 737 MAX,94,
+IX9671,Air India Express,Bengaluru,BLR,Pune,PNQ,7:20 PM,9:38 PM,Delayed,T1-1,Airbus A320neo,138,35
+UK3729,Vistara,Chandigarh,IXC,Thiruvananthapuram,TRV,9:52 PM,12:28 AM,On Time,T2-9,ATR 72-600,156,
+QP7963,Akasa Air,Ahmedabad,AMD,Thiruvananthapuram,TRV,12:14 PM,2:17 PM,On Time,T1-12,ATR 72-600,123,
+AI4697,Air India,Nagpur,NAG,Thiruvananthapuram,TRV,4:46 AM,6:21 AM,On Time,T3-5,ATR 72-600,95,
+AI405,Air India,Nagpur,NAG,Goa,GOI,9:33 PM,10:25 PM,Delayed,T2-38,Airbus A321,52,50
+6E9137,IndiGo,Hyderabad,HYD,Goa,GOI,6:25 PM,9:10 PM,Delayed,T2-26,Airbus A321,165,15
+IX2293,Air India Express,Ahmedabad,AMD,Goa,GOI,5:25 PM,6:33 PM,On Time,T3-1,ATR 72-600,68,
+UK2817,Vistara,Bhubaneswar,BBI,Goa,GOI,4:47 AM,7:26 AM,On Time,T3-37,ATR 72-600,159,
+SG8021,SpiceJet,Kolkata,CCU,Delhi,DEL,7:28 AM,10:17 AM,On Time,T2-24,Airbus A321,169,
+6E3487,IndiGo,Goa,GOI,Bhubaneswar,BBI,12:19 PM,2:43 PM,On Time,T2-3,Airbus A320,144,
+QP1791,Akasa Air,Chandigarh,IXC,Goa,GOI,9:37 PM,11:32 PM,Delayed,T3-35,Boeing 737 MAX,115,25
+SG6271,SpiceJet,Lucknow,LKO,Kochi,COK,12:28 PM,1:32 PM,On Time,T2-15,Boeing 737 MAX,64,
+I55881,AirAsia India,Nagpur,NAG,Thiruvananthapuram,TRV,11:46 AM,2:35 PM,Delayed,T3-1,Boeing 737 MAX,169,120
+SG7307,SpiceJet,Bengaluru,BLR,Chennai,MAA,2:37 AM,5:33 AM,On Time,T1-10,Airbus A321,176,
+SG6034,SpiceJet,Pune,PNQ,Chandigarh,IXC,4:02 AM,5:45 AM,On Time,T2-8,Boeing 737-800,103,
+G87948,Go First,Chennai,MAA,Pune,PNQ,5:30 AM,8:00 AM,On Time,T1-9,Boeing 737 MAX,150,
+SG2307,SpiceJet,Lucknow,LKO,Goa,GOI,1:20 AM,2:42 AM,On Time,T2-12,Boeing 737 MAX,82,
+I59919,AirAsia India,Pune,PNQ,Lucknow,LKO,12:38 AM,2:35 AM,Departed,T2-39,Boeing 737-800,117,5
+G82894,Go First,Chennai,MAA,Nagpur,NAG,2:01 PM,3:22 PM,Delayed,T1-40,ATR 72-600,81,105
+IX2847,Air India Express,Chandigarh,IXC,Lucknow,LKO,11:41 AM,2:22 PM,On Time,T1-15,Boeing 737-800,161,
+I52266,AirAsia India,Mumbai,BOM,Delhi,DEL,6:54 AM,9:52 AM,Departed,T3-27,Airbus A321,178,20
+AI3006,Air India,Ahmedabad,AMD,Pune,PNQ,8:28 PM,9:22 PM,Departed,T3-8,Airbus A320,54,20
+G82235,Go First,Thiruvananthapuram,TRV,Pune,PNQ,6:24 PM,7:09 PM,Departed,T3-27,Airbus A320neo,45,15
+6E8780,IndiGo,Kochi,COK,Chennai,MAA,4:27 PM,6:49 PM,On Time,T3-37,Airbus A320,142,
+I52293,AirAsia India,Hyderabad,HYD,Ahmedabad,AMD,7:56 AM,9:02 AM,On Time,T3-27,Airbus A320neo,66,
+UK189,Vistara,Chandigarh,IXC,Thiruvananthapuram,TRV,12:14 AM,3:12 AM,On Time,T1-25,ATR 72-600,178,
+UK5275,Vistara,Kochi,COK,Kolkata,CCU,3:38 AM,5:02 AM,On Time,T3-17,Airbus A320neo,84,
+I59351,AirAsia India,Kolkata,CCU,Pune,PNQ,9:24 AM,11:50 AM,Delayed,T3-36,Boeing 737-800,146,35
+SG6165,SpiceJet,Goa,GOI,Thiruvananthapuram,TRV,4:30 PM,6:19 PM,Cancelled,T3-23,ATR 72-600,109,
+I52362,AirAsia India,Nagpur,NAG,Thiruvananthapuram,TRV,10:30 PM,11:45 PM,Delayed,T3-11,Airbus A320,75,40
+UK8428,Vistara,Kochi,COK,Bhubaneswar,BBI,11:33 AM,12:31 PM,On Time,T3-1,Airbus A320,58,
+SG7827,SpiceJet,Thiruvananthapuram,TRV,Pune,PNQ,2:51 PM,3:58 PM,On Time,T1-24,Airbus A320,67,
+6E6396,IndiGo,Thiruvananthapuram,TRV,Kochi,COK,8:57 PM,11:55 PM,On Time,T3-4,Airbus A321,178,
+G87292,Go First,Delhi,DEL,Chennai,MAA,10:25 PM,1:22 AM,On Time,T1-39,Boeing 737 MAX,177,
+UK2876,Vistara,Lucknow,LKO,Delhi,DEL,12:16 PM,2:02 PM,Delayed,T1-18,Boeing 737-800,106,15
+QP6574,Akasa Air,Kochi,COK,Pune,PNQ,6:50 AM,9:47 AM,On Time,T3-5,Airbus A320,177,
+IX9260,Air India Express,Thiruvananthapuram,TRV,Pune,PNQ,11:52 AM,2:05 PM,Cancelled,T2-15,Boeing 737 MAX,133,
+UK7550,Vistara,Thiruvananthapuram,TRV,Kochi,COK,7:37 PM,8:23 PM,On Time,T2-33,Airbus A320,46,
+AI8343,Air India,Hyderabad,HYD,Kolkata,CCU,3:59 AM,6:55 AM,Cancelled,T3-37,Airbus A320neo,176,
+G86278,Go First,Pune,PNQ,Ahmedabad,AMD,8:18 AM,10:29 AM,Cancelled,T2-30,Boeing 737 MAX,131,
+6E7996,IndiGo,Mumbai,BOM,Hyderabad,HYD,2:18 AM,4:40 AM,On Time,T1-15,Airbus A320neo,142,
+I55885,AirAsia India,Goa,GOI,Thiruvananthapuram,TRV,12:19 AM,2:11 AM,On Time,T1-26,ATR 72-600,112,
+QP1345,Akasa Air,Goa,GOI,Bengaluru,BLR,4:15 PM,6:20 PM,On Time,T3-18,Airbus A321,125,
+UK8275,Vistara,Chandigarh,IXC,Chennai,MAA,8:00 AM,9:46 AM,Departed,T1-13,Airbus A321,106,5
+QP2655,Akasa Air,Bhubaneswar,BBI,Mumbai,BOM,4:05 AM,5:10 AM,Delayed,T2-40,Airbus A320,65,60
+6E8001,IndiGo,Kolkata,CCU,Pune,PNQ,10:45 AM,1:36 PM,Departed,T2-32,Airbus A321,171,20
+IX6618,Air India Express,Chennai,MAA,Bhubaneswar,BBI,7:41 PM,8:58 PM,On Time,T2-31,Boeing 737 MAX,77,
+6E8332,IndiGo,Kolkata,CCU,Kochi,COK,11:25 PM,12:54 AM,On Time,T1-34,Boeing 737-800,89,
+QP237,Akasa Air,Delhi,DEL,Lucknow,LKO,7:11 AM,9:33 AM,On Time,T2-24,Boeing 737 MAX,142,
+IX3166,Air India Express,Goa,GOI,Hyderabad,HYD,8:05 AM,9:58 AM,On Time,T3-22,Airbus A320neo,113,
+SG8271,SpiceJet,Kochi,COK,Chennai,MAA,2:18 PM,4:38 PM,On Time,T2-18,Boeing 737-800,140,
+SG9461,SpiceJet,Bengaluru,BLR,Pune,PNQ,11:24 PM,1:07 AM,Delayed,T2-16,Boeing 737 MAX,103,75
+I56340,AirAsia India,Chennai,MAA,Bengaluru,BLR,5:06 AM,7:52 AM,Delayed,T2-32,Airbus A321,166,15
+QP8072,Akasa Air,Hyderabad,HYD,Thiruvananthapuram,TRV,7:11 PM,8:08 PM,On Time,T3-11,Airbus A320,57,
+UK4266,Vistara,Ahmedabad,AMD,Nagpur,NAG,9:29 PM,10:38 PM,On Time,T2-17,Airbus A320neo,69,
+QP9280,Akasa Air,Goa,GOI,Bhubaneswar,BBI,8:47 AM,11:00 AM,On Time,T1-23,ATR 72-600,133,
+UK9551,Vistara,Pune,PNQ,Lucknow,LKO,10:09 PM,11:38 PM,Cancelled,T2-23,Airbus A320neo,89,
+G87422,Go First,Thiruvananthapuram,TRV,Mumbai,BOM,1:00 PM,2:58 PM,On Time,T1-11,ATR 72-600,118,
+QP7011,Akasa Air,Lucknow,LKO,Pune,PNQ,7:30 PM,9:58 PM,Delayed,T1-11,Airbus A320neo,148,10
+UK5236,Vistara,Kolkata,CCU,Lucknow,LKO,9:56 AM,11:49 AM,On Time,T2-18,Boeing 737-800,113,
+QP9716,Akasa Air,Goa,GOI,Ahmedabad,AMD,2:07 PM,3:34 PM,On Time,T1-9,ATR 72-600,87,
+UK4222,Vistara,Chandigarh,IXC,Thiruvananthapuram,TRV,2:43 AM,4:21 AM,On Time,T1-7,Airbus A320,98,
+G89085,Go First,Delhi,DEL,Thiruvananthapuram,TRV,1:33 PM,4:32 PM,Delayed,T1-17,Boeing 737 MAX,179,10
+SG1481,SpiceJet,Lucknow,LKO,Kochi,COK,10:33 AM,12:16 PM,On Time,T2-29,ATR 72-600,103,
+SG2250,SpiceJet,Goa,GOI,Nagpur,NAG,5:49 AM,6:41 AM,On Time,T2-21,Boeing 737-800,52,
+G88956,Go First,Thiruvananthapuram,TRV,Hyderabad,HYD,6:43 PM,9:21 PM,On Time,T3-35,Airbus A321,158,
+G89340,Go First,Kochi,COK,Goa,GOI,9:50 PM,11:54 PM,Departed,T3-15,Airbus A320,124,15
+G85144,Go First,Kolkata,CCU,Kochi,COK,8:52 AM,10:16 AM,On Time,T1-34,Airbus A321,84,
+QP4798,Akasa Air,Ahmedabad,AMD,Goa,GOI,12:17 AM,3:07 AM,Departed,T2-1,Boeing 737-800,170,15
+IX9881,Air India Express,Chennai,MAA,Bhubaneswar,BBI,12:14 AM,2:34 AM,On Time,T3-28,Boeing 737-800,140,
+UK2775,Vistara,Chandigarh,IXC,Thiruvananthapuram,TRV,10:02 PM,12:26 AM,Delayed,T2-6,Boeing 737-800,144,20
+UK8564,Vistara,Bhubaneswar,BBI,Thiruvananthapuram,TRV,8:55 PM,10:49 PM,On Time,T3-35,Airbus A320neo,114,
+I53180,AirAsia India,Nagpur,NAG,Mumbai,BOM,6:13 AM,7:32 AM,On Time,T3-30,Boeing 737 MAX,79,
+G84558,Go First,Chandigarh,IXC,Pune,PNQ,4:47 PM,6:20 PM,On Time,T1-4,Boeing 737 MAX,93,
+6E3146,IndiGo,Mumbai,BOM,Hyderabad,HYD,9:11 AM,10:28 AM,Delayed,T1-15,Airbus A320,77,75
+SG341,SpiceJet,Ahmedabad,AMD,Chennai,MAA,11:40 AM,2:12 PM,On Time,T2-24,Boeing 737-800,152,
+6E5510,IndiGo,Mumbai,BOM,Nagpur,NAG,4:59 AM,5:58 AM,On Time,T2-5,Boeing 737 MAX,59,
+G83075,Go First,Chennai,MAA,Nagpur,NAG,8:32 AM,10:54 AM,Delayed,T3-16,Boeing 737-800,142,10
+G84149,Go First,Chandigarh,IXC,Delhi,DEL,6:47 AM,9:29 AM,Delayed,T3-14,Boeing 737-800,162,10
+I55213,AirAsia India,Thiruvananthapuram,TRV,Kolkata,CCU,5:24 AM,6:19 AM,Delayed,T3-8,Airbus A320neo,55,45
+G84995,Go First,Chennai,MAA,Kolkata,CCU,1:46 AM,3:26 AM,Cancelled,T1-28,Airbus A320neo,100,
+6E2842,IndiGo,Bhubaneswar,BBI,Hyderabad,HYD,7:57 PM,9:12 PM,On Time,T1-1,Airbus A320,75,
+G89868,Go First,Bengaluru,BLR,Kolkata,CCU,3:03 AM,4:51 AM,On Time,T1-40,Airbus A320neo,108,
+6E1079,IndiGo,Kolkata,CCU,Lucknow,LKO,5:15 AM,6:27 AM,On Time,T1-21,Boeing 737 MAX,72,
+QP7287,Akasa Air,Chandigarh,IXC,Chennai,MAA,12:43 AM,3:04 AM,On Time,T1-17,Airbus A320,141,
+G87268,Go First,Goa,GOI,Hyderabad,HYD,6:31 PM,9:21 PM,On Time,T1-35,Airbus A320neo,170,
+QP7774,Akasa Air,Hyderabad,HYD,Nagpur,NAG,8:26 PM,9:52 PM,On Time,T1-29,Airbus A320neo,86,
+IX8973,Air India Express,Kolkata,CCU,Ahmedabad,AMD,12:01 AM,2:55 AM,On Time,T1-2,Boeing 737 MAX,174,
+QP4012,Akasa Air,Kolkata,CCU,Chandigarh,IXC,2:09 AM,4:33 AM,On Time,T3-32,Boeing 737 MAX,144,
+SG4738,SpiceJet,Kolkata,CCU,Kochi,COK,9:52 PM,11:59 PM,On Time,T3-5,Airbus A320,127,
+SG3026,SpiceJet,Nagpur,NAG,Delhi,DEL,6:53 AM,8:05 AM,On Time,T1-3,Boeing 737 MAX,72,
+I58126,AirAsia India,Goa,GOI,Pune,PNQ,11:56 PM,1:46 AM,On Time,T1-39,ATR 72-600,110,
+AI314,Air India,Thiruvananthapuram,TRV,Chennai,MAA,10:22 PM,1:12 AM,Departed,T2-4,Airbus A320neo,170,
+I56146,AirAsia India,Bhubaneswar,BBI,Chandigarh,IXC,1:59 AM,3:52 AM,On Time,T3-5,Airbus A320neo,113,
+AI3637,Air India,Goa,GOI,Mumbai,BOM,3:27 AM,5:11 AM,On Time,T1-13,Boeing 737 MAX,104,
+UK9439,Vistara,Lucknow,LKO,Bengaluru,BLR,7:03 PM,9:34 PM,Delayed,T3-37,Airbus A320neo,151,90
+G87097,Go First,Thiruvananthapuram,TRV,Mumbai,BOM,5:41 AM,7:12 AM,On Time,T3-22,ATR 72-600,91,
+SG8847,SpiceJet,Pune,PNQ,Ahmedabad,AMD,12:01 PM,2:06 PM,On Time,T2-24,Boeing 737-800,125,
+I55399,AirAsia India,Pune,PNQ,Chennai,MAA,7:13 PM,8:52 PM,On Time,T3-17,Airbus A320neo,99,
+G87431,Go First,Kochi,COK,Delhi,DEL,1:10 AM,3:07 AM,On Time,T3-9,Airbus A320neo,117,
+6E5020,IndiGo,Chennai,MAA,Thiruvananthapuram,TRV,10:44 AM,11:34 AM,Delayed,T2-36,Boeing 737 MAX,50,75
+SG1644,SpiceJet,Delhi,DEL,Ahmedabad,AMD,12:08 PM,1:32 PM,On Time,T2-38,Airbus A321,84,
+UK4298,Vistara,Bhubaneswar,BBI,Hyderabad,HYD,3:08 AM,5:35 AM,On Time,T1-5,ATR 72-600,147,
+QP8005,Akasa Air,Bengaluru,BLR,Ahmedabad,AMD,11:32 PM,12:41 AM,On Time,T2-3,ATR 72-600,69,
+I51385,AirAsia India,Bhubaneswar,BBI,Delhi,DEL,11:24 AM,1:38 PM,Departed,T2-8,Airbus A321,134,15
+6E6366,IndiGo,Delhi,DEL,Hyderabad,HYD,5:53 PM,6:48 PM,On Time,T3-10,Airbus A320neo,55,
+UK2609,Vistara,Delhi,DEL,Lucknow,LKO,1:24 PM,4:03 PM,Delayed,T3-6,Airbus A321,159,50
+I54847,AirAsia India,Bhubaneswar,BBI,Kochi,COK,5:03 AM,6:21 AM,On Time,T2-37,ATR 72-600,78,
+6E9080,IndiGo,Kochi,COK,Hyderabad,HYD,2:54 AM,5:21 AM,On Time,T3-9,Airbus A321,147,
+G89263,Go First,Chennai,MAA,Ahmedabad,AMD,1:29 PM,3:04 PM,On Time,T3-34,Airbus A321,95,
+UK1273,Vistara,Hyderabad,HYD,Bhubaneswar,BBI,2:40 PM,4:47 PM,Delayed,T1-8,ATR 72-600,127,50
+I57039,AirAsia India,Kolkata,CCU,Thiruvananthapuram,TRV,6:30 AM,8:37 AM,On Time,T3-2,Airbus A320neo,127,
+SG5829,SpiceJet,Pune,PNQ,Nagpur,NAG,3:05 PM,4:27 PM,On Time,T1-13,ATR 72-600,82,
+AI1941,Air India,Chandigarh,IXC,Delhi,DEL,8:17 AM,9:39 AM,Departed,T1-22,ATR 72-600,82,10
+AI5099,Air India,Ahmedabad,AMD,Thiruvananthapuram,TRV,12:46 AM,2:55 AM,On Time,T3-14,Airbus A321,129,
+IX9091,Air India Express,Ahmedabad,AMD,Pune,PNQ,4:49 AM,5:38 AM,On Time,T3-34,Airbus A320,49,
+IX2890,Air India Express,Delhi,DEL,Hyderabad,HYD,6:51 AM,8:45 AM,On Time,T3-1,Airbus A320,114,
+I54545,AirAsia India,Lucknow,LKO,Nagpur,NAG,10:31 PM,12:48 AM,Departed,T2-25,Airbus A321,137,
+AI5268,Air India,Ahmedabad,AMD,Nagpur,NAG,8:22 PM,9:29 PM,On Time,T3-30,Boeing 737 MAX,67,
+6E751,IndiGo,Chennai,MAA,Goa,GOI,10:24 AM,12:34 PM,On Time,T3-11,Airbus A320,130,
+QP5865,Akasa Air,Kolkata,CCU,Lucknow,LKO,10:19 AM,12:04 PM,Cancelled,T3-18,Airbus A320,105,
+IX6443,Air India Express,Thiruvananthapuram,TRV,Nagpur,NAG,1:00 AM,2:56 AM,On Time,T2-26,ATR 72-600,116,
+SG1538,SpiceJet,Chandigarh,IXC,Kochi,COK,5:46 PM,7:29 PM,On Time,T3-10,Boeing 737-800,103,
+IX5495,Air India Express,Ahmedabad,AMD,Goa,GOI,4:29 AM,6:06 AM,Delayed,T3-13,Airbus A321,97,50
+IX8682,Air India Express,Thiruvananthapuram,TRV,Bengaluru,BLR,2:40 PM,4:02 PM,Delayed,T1-21,Airbus A320,82,50
+AI3116,Air India,Kolkata,CCU,Nagpur,NAG,4:58 AM,5:50 AM,Delayed,T2-27,Airbus A320neo,52,120
+G84585,Go First,Bengaluru,BLR,Bhubaneswar,BBI,6:24 AM,7:36 AM,On Time,T1-40,Boeing 737 MAX,72,
+IX9390,Air India Express,Pune,PNQ,Chennai,MAA,8:21 PM,10:05 PM,On Time,T1-23,Airbus A320,104,
+G82296,Go First,Goa,GOI,Nagpur,NAG,8:38 PM,11:23 PM,Delayed,T1-25,Boeing 737-800,165,30
+G82353,Go First,Bengaluru,BLR,Chennai,MAA,7:43 AM,8:36 AM,On Time,T1-18,Boeing 737-800,53,
+UK3423,Vistara,Bhubaneswar,BBI,Chennai,MAA,2:15 AM,3:45 AM,Departed,T3-32,ATR 72-600,90,15
+QP7596,Akasa Air,Thiruvananthapuram,TRV,Chennai,MAA,2:35 PM,5:03 PM,Delayed,T3-25,ATR 72-600,148,50
+QP6557,Akasa Air,Pune,PNQ,Chandigarh,IXC,7:31 PM,10:30 PM,On Time,T3-3,Boeing 737 MAX,179,
+AI7499,Air India,Ahmedabad,AMD,Nagpur,NAG,1:26 AM,3:13 AM,On Time,T2-3,Boeing 737 MAX,107,
+I58556,AirAsia India,Bhubaneswar,BBI,Lucknow,LKO,1:40 AM,3:13 AM,On Time,T2-20,Airbus A320neo,93,
+G82827,Go First,Kochi,COK,Hyderabad,HYD,8:55 PM,9:53 PM,Delayed,T1-30,ATR 72-600,58,120
+G81581,Go First,Chandigarh,IXC,Goa,GOI,3:51 AM,5:22 AM,Delayed,T3-35,Airbus A321,91,120
+I56875,AirAsia India,Kolkata,CCU,Ahmedabad,AMD,12:51 AM,2:21 AM,On Time,T3-13,Boeing 737-800,90,
+AI4197,Air India,Kolkata,CCU,Chandigarh,IXC,10:08 PM,11:34 PM,Delayed,T1-8,ATR 72-600,86,10
+G86046,Go First,Mumbai,BOM,Goa,GOI,1:06 PM,4:01 PM,On Time,T1-25,Boeing 737 MAX,175,
+I5819,AirAsia India,Bhubaneswar,BBI,Bengaluru,BLR,11:26 AM,12:49 PM,On Time,T1-12,ATR 72-600,83,
+6E6974,IndiGo,Hyderabad,HYD,Thiruvananthapuram,TRV,3:13 PM,5:11 PM,On Time,T1-9,Airbus A321,118,
+6E4246,IndiGo,Delhi,DEL,Ahmedabad,AMD,4:59 PM,7:51 PM,On Time,T1-39,Boeing 737-800,172,
+UK3653,Vistara,Pune,PNQ,Lucknow,LKO,4:14 PM,6:55 PM,On Time,T1-39,Boeing 737 MAX,161,
+IX9234,Air India Express,Nagpur,NAG,Thiruvananthapuram,TRV,7:05 AM,8:02 AM,On Time,T1-23,Airbus A320,57,
+SG631,SpiceJet,Lucknow,LKO,Pune,PNQ,8:35 PM,10:36 PM,On Time,T1-4,Airbus A320,121,
+I53020,AirAsia India,Bengaluru,BLR,Lucknow,LKO,9:42 AM,11:12 AM,Cancelled,T3-38,Airbus A320neo,90,
+6E1625,IndiGo,Bhubaneswar,BBI,Hyderabad,HYD,11:01 AM,1:20 PM,Departed,T2-36,Airbus A320,139,
+IX7813,Air India Express,Bengaluru,BLR,Mumbai,BOM,11:42 PM,1:37 AM,On Time,T2-34,Airbus A321,115,
+UK1053,Vistara,Mumbai,BOM,Pune,PNQ,9:28 PM,12:28 AM,Cancelled,T2-39,ATR 72-600,180,
+IX7096,Air India Express,Pune,PNQ,Nagpur,NAG,10:48 AM,12:39 PM,On Time,T3-23,Airbus A321,111,
+G88614,Go First,Chandigarh,IXC,Lucknow,LKO,4:59 PM,7:50 PM,Delayed,T3-15,ATR 72-600,171,120
+IX3271,Air India Express,Delhi,DEL,Mumbai,BOM,12:49 AM,3:33 AM,On Time,T1-14,Boeing 737 MAX,164,
+I56883,AirAsia India,Delhi,DEL,Kolkata,CCU,11:56 AM,1:35 PM,On Time,T1-19,Airbus A320neo,99,
+AI5142,Air India,Hyderabad,HYD,Goa,GOI,6:46 PM,8:53 PM,Delayed,T3-22,Airbus A320neo,127,10
+I59421,AirAsia India,Pune,PNQ,Delhi,DEL,5:59 AM,7:33 AM,On Time,T2-31,Boeing 737-800,94,
+6E2324,IndiGo,Ahmedabad,AMD,Bengaluru,BLR,9:24 PM,12:06 AM,Departed,T2-30,Boeing 737-800,162,20
+6E8637,IndiGo,Hyderabad,HYD,Pune,PNQ,11:08 PM,1:13 AM,On Time,T1-14,Boeing 737 MAX,125,
+QP5893,Akasa Air,Mumbai,BOM,Bengaluru,BLR,9:34 AM,10:26 AM,On Time,T2-35,Airbus A321,52,
+I53170,AirAsia India,Pune,PNQ,Mumbai,BOM,10:31 AM,12:36 PM,Delayed,T2-6,Boeing 737-800,125,25
+UK6188,Vistara,Ahmedabad,AMD,Nagpur,NAG,10:19 AM,11:59 AM,On Time,T1-8,Airbus A320neo,100,
+6E3411,IndiGo,Thiruvananthapuram,TRV,Mumbai,BOM,3:08 PM,6:02 PM,On Time,T2-33,Airbus A321,174,
+UK5672,Vistara,Thiruvananthapuram,TRV,Ahmedabad,AMD,5:52 PM,7:56 PM,Delayed,T1-34,ATR 72-600,124,15
+SG3461,SpiceJet,Chandigarh,IXC,Delhi,DEL,3:40 PM,6:04 PM,Delayed,T1-1,Airbus A320neo,144,45
+6E9836,IndiGo,Nagpur,NAG,Mumbai,BOM,11:22 AM,2:06 PM,Departed,T3-20,Airbus A320,164,
+IX3538,Air India Express,Kolkata,CCU,Chennai,MAA,6:34 AM,8:32 AM,On Time,T2-29,ATR 72-600,118,
+AI4567,Air India,Bengaluru,BLR,Thiruvananthapuram,TRV,9:20 AM,10:34 AM,On Time,T3-36,Boeing 737 MAX,74,
+AI3484,Air India,Goa,GOI,Kolkata,CCU,6:45 PM,8:51 PM,On Time,T3-19,Boeing 737 MAX,126,
+UK2906,Vistara,Mumbai,BOM,Hyderabad,HYD,8:55 PM,11:06 PM,On Time,T1-9,Airbus A320,131,
+G8926,Go First,Mumbai,BOM,Kochi,COK,1:50 AM,2:57 AM,On Time,T1-39,Boeing 737 MAX,67,
+G85926,Go First,Hyderabad,HYD,Kolkata,CCU,6:45 AM,7:50 AM,Cancelled,T2-37,Airbus A321,65,
+AI7772,Air India,Mumbai,BOM,Ahmedabad,AMD,10:35 AM,1:19 PM,On Time,T1-10,Boeing 737 MAX,164,
+IX6054,Air India Express,Kochi,COK,Bengaluru,BLR,11:52 PM,2:01 AM,Delayed,T2-30,Boeing 737-800,129,120
+6E1170,IndiGo,Ahmedabad,AMD,Mumbai,BOM,11:59 AM,2:46 PM,On Time,T1-19,Airbus A320neo,167,
+SG8422,SpiceJet,Mumbai,BOM,Kochi,COK,3:39 AM,5:47 AM,On Time,T1-20,Boeing 737 MAX,128,
+G86666,Go First,Pune,PNQ,Kochi,COK,8:08 AM,9:55 AM,On Time,T2-25,Airbus A320,107,
+QP3511,Akasa Air,Nagpur,NAG,Chandigarh,IXC,8:10 PM,10:45 PM,Delayed,T3-22,Boeing 737 MAX,155,35
+UK2935,Vistara,Lucknow,LKO,Thiruvananthapuram,TRV,2:39 AM,5:28 AM,On Time,T3-30,Airbus A320neo,169,
+AI7394,Air India,Bengaluru,BLR,Hyderabad,HYD,1:51 PM,2:53 PM,On Time,T3-39,Boeing 737-800,62,
+QP8198,Akasa Air,Lucknow,LKO,Thiruvananthapuram,TRV,2:05 AM,3:13 AM,On Time,T1-38,ATR 72-600,68,
+6E2503,IndiGo,Lucknow,LKO,Bengaluru,BLR,3:27 PM,5:26 PM,On Time,T3-29,Airbus A321,119,
+UK5287,Vistara,Hyderabad,HYD,Pune,PNQ,11:11 PM,1:13 AM,Departed,T3-23,Airbus A320,122,15
+6E8462,IndiGo,Kochi,COK,Nagpur,NAG,4:21 AM,6:21 AM,On Time,T3-4,Airbus A320,120,
+QP1897,Akasa Air,Nagpur,NAG,Hyderabad,HYD,1:03 AM,2:48 AM,On Time,T3-26,ATR 72-600,105,
+QP6371,Akasa Air,Kochi,COK,Thiruvananthapuram,TRV,2:51 PM,4:30 PM,Delayed,T1-13,Boeing 737 MAX,99,40
+I56002,AirAsia India,Nagpur,NAG,Kochi,COK,5:15 AM,7:13 AM,Cancelled,T3-9,Airbus A321,118,
+6E1275,IndiGo,Lucknow,LKO,Delhi,DEL,4:54 AM,7:43 AM,Delayed,T1-9,ATR 72-600,169,15
+I57571,AirAsia India,Thiruvananthapuram,TRV,Bhubaneswar,BBI,11:44 PM,2:17 AM,On Time,T2-33,Boeing 737-800,153,
+G86403,Go First,Kolkata,CCU,Chennai,MAA,6:20 AM,8:53 AM,On Time,T3-32,ATR 72-600,153,
+UK8320,Vistara,Hyderabad,HYD,Kochi,COK,6:38 PM,8:56 PM,On Time,T1-37,Boeing 737-800,138,
+QP1954,Akasa Air,Pune,PNQ,Ahmedabad,AMD,11:34 PM,12:39 AM,On Time,T3-34,Airbus A320neo,65,
+G88569,Go First,Mumbai,BOM,Goa,GOI,8:49 PM,9:56 PM,On Time,T3-5,ATR 72-600,67,
+IX964,Air India Express,Thiruvananthapuram,TRV,Kolkata,CCU,6:15 PM,7:02 PM,On Time,T3-31,Boeing 737 MAX,47,
+QP6997,Akasa Air,Kolkata,CCU,Bhubaneswar,BBI,10:03 AM,12:02 PM,On Time,T3-39,ATR 72-600,119,
+IX9335,Air India Express,Hyderabad,HYD,Delhi,DEL,9:28 PM,12:14 AM,On Time,T3-4,ATR 72-600,166,
+IX547,Air India Express,Hyderabad,HYD,Ahmedabad,AMD,2:48 AM,4:05 AM,On Time,T2-17,Airbus A321,77,
+IX4609,Air India Express,Nagpur,NAG,Hyderabad,HYD,12:29 AM,1:42 AM,On Time,T3-10,ATR 72-600,73,
+G86158,Go First,Bhubaneswar,BBI,Bengaluru,BLR,8:55 AM,10:40 AM,On Time,T3-3,Airbus A320neo,105,
+AI2476,Air India,Pune,PNQ,Nagpur,NAG,5:15 AM,8:06 AM,Delayed,T2-16,ATR 72-600,171,35
+G82840,Go First,Chennai,MAA,Pune,PNQ,11:46 AM,12:44 PM,On Time,T1-4,Airbus A321,58,
+G86633,Go First,Ahmedabad,AMD,Hyderabad,HYD,4:15 PM,5:59 PM,On Time,T3-25,Boeing 737-800,104,
+IX2478,Air India Express,Goa,GOI,Nagpur,NAG,2:50 PM,3:38 PM,On Time,T2-25,ATR 72-600,48,
+QP8787,Akasa Air,Lucknow,LKO,Delhi,DEL,3:19 AM,5:34 AM,Cancelled,T2-40,ATR 72-600,135,
+IX5588,Air India Express,Hyderabad,HYD,Thiruvananthapuram,TRV,3:21 AM,5:11 AM,Delayed,T2-16,ATR 72-600,110,35
+UK8618,Vistara,Kolkata,CCU,Lucknow,LKO,11:33 PM,1:04 AM,On Time,T1-1,Airbus A320,91,
+6E6837,IndiGo,Mumbai,BOM,Goa,GOI,3:32 AM,6:11 AM,On Time,T3-19,Airbus A320neo,159,
+UK657,Vistara,Delhi,DEL,Pune,PNQ,3:08 AM,4:07 AM,Departed,T3-8,ATR 72-600,59,5
+AI1515,Air India,Nagpur,NAG,Pune,PNQ,4:26 AM,6:47 AM,Delayed,T3-37,Airbus A321,141,120
+AI3118,Air India,Hyderabad,HYD,Thiruvananthapuram,TRV,3:56 PM,5:00 PM,On Time,T2-28,ATR 72-600,64,
+QP4316,Akasa Air,Bengaluru,BLR,Bhubaneswar,BBI,2:31 AM,4:26 AM,Delayed,T2-22,Airbus A320,115,35
+IX4436,Air India Express,Bengaluru,BLR,Ahmedabad,AMD,2:22 AM,5:12 AM,Cancelled,T1-40,Boeing 737-800,170,
+SG8161,SpiceJet,Mumbai,BOM,Bengaluru,BLR,6:27 PM,9:02 PM,On Time,T3-7,Boeing 737-800,155,
+IX1792,Air India Express,Delhi,DEL,Mumbai,BOM,2:24 AM,4:13 AM,Delayed,T2-10,ATR 72-600,109,5
+6E719,IndiGo,Lucknow,LKO,Kochi,COK,9:05 AM,10:28 AM,Delayed,T2-37,Airbus A320,83,120
+G87933,Go First,Kochi,COK,Thiruvananthapuram,TRV,2:23 AM,4:05 AM,On Time,T3-31,Airbus A320,102,
+QP5563,Akasa Air,Lucknow,LKO,Hyderabad,HYD,1:40 PM,2:39 PM,On Time,T3-6,Airbus A320neo,59,
+QP1418,Akasa Air,Nagpur,NAG,Ahmedabad,AMD,9:53 AM,11:29 AM,On Time,T1-25,ATR 72-600,96,
+UK4996,Vistara,Chandigarh,IXC,Kochi,COK,3:38 AM,5:54 AM,On Time,T3-29,ATR 72-600,136,
+UK2392,Vistara,Delhi,DEL,Chennai,MAA,12:51 AM,2:37 AM,On Time,T1-35,ATR 72-600,106,
+IX8286,Air India Express,Goa,GOI,Nagpur,NAG,3:20 PM,4:09 PM,On Time,T1-22,ATR 72-600,49,
+6E6743,IndiGo,Mumbai,BOM,Chennai,MAA,10:19 PM,1:17 AM,On Time,T3-35,Airbus A321,178,
+UK1280,Vistara,Delhi,DEL,Chandigarh,IXC,4:49 AM,7:39 AM,Delayed,T3-3,Airbus A321,170,40
+SG335,SpiceJet,Bengaluru,BLR,Lucknow,LKO,1:42 AM,3:45 AM,Delayed,T2-40,Airbus A321,123,10
+AI1842,Air India,Mumbai,BOM,Ahmedabad,AMD,8:18 PM,9:59 PM,On Time,T1-28,Airbus A320neo,101,
+I55412,AirAsia India,Mumbai,BOM,Lucknow,LKO,7:39 PM,8:59 PM,On Time,T1-3,Boeing 737 MAX,80,
+SG5596,SpiceJet,Mumbai,BOM,Thiruvananthapuram,TRV,9:20 AM,10:41 AM,Delayed,T3-24,Boeing 737 MAX,81,15
+SG7287,SpiceJet,Chennai,MAA,Pune,PNQ,1:23 AM,2:42 AM,On Time,T3-40,Boeing 737-800,79,
+SG356,SpiceJet,Thiruvananthapuram,TRV,Ahmedabad,AMD,2:45 AM,3:31 AM,On Time,T1-38,Airbus A320neo,46,
+I57898,AirAsia India,Chandigarh,IXC,Bengaluru,BLR,7:02 AM,8:23 AM,On Time,T3-29,Boeing 737-800,81,
+UK2959,Vistara,Pune,PNQ,Chandigarh,IXC,1:17 AM,2:48 AM,Delayed,T1-20,Airbus A320neo,91,50
+I5174,AirAsia India,Goa,GOI,Chennai,MAA,6:33 AM,7:48 AM,Cancelled,T1-40,Airbus A320neo,75,
+UK7705,Vistara,Bhubaneswar,BBI,Lucknow,LKO,10:30 PM,12:08 AM,On Time,T1-8,Airbus A321,98,
+G88251,Go First,Bengaluru,BLR,Thiruvananthapuram,TRV,10:52 PM,11:48 PM,On Time,T2-19,Airbus A321,56,
+I54218,AirAsia India,Kolkata,CCU,Pune,PNQ,3:28 PM,4:24 PM,On Time,T1-35,Airbus A321,56,
+SG576,SpiceJet,Ahmedabad,AMD,Goa,GOI,3:57 AM,5:00 AM,Departed,T3-38,Airbus A320neo,63,15
+I53356,AirAsia India,Chandigarh,IXC,Lucknow,LKO,11:07 AM,12:50 PM,Delayed,T1-7,Airbus A321,103,30
+I53376,AirAsia India,Kochi,COK,Chennai,MAA,2:30 AM,5:15 AM,On Time,T1-28,Airbus A321,165,
+UK7554,Vistara,Bengaluru,BLR,Kochi,COK,12:44 PM,2:03 PM,On Time,T1-23,Airbus A320neo,79,
+UK5603,Vistara,Bengaluru,BLR,Delhi,DEL,11:37 PM,12:37 AM,On Time,T1-30,Boeing 737-800,60,
+I52904,AirAsia India,Bhubaneswar,BBI,Kolkata,CCU,7:30 AM,9:30 AM,On Time,T3-40,Airbus A321,120,
+UK1516,Vistara,Kochi,COK,Nagpur,NAG,5:48 PM,8:38 PM,Departed,T3-31,Boeing 737-800,170,5
+IX337,Air India Express,Chandigarh,IXC,Kochi,COK,8:25 AM,10:13 AM,On Time,T3-15,Boeing 737 MAX,108,
+SG9499,SpiceJet,Thiruvananthapuram,TRV,Delhi,DEL,2:15 PM,3:11 PM,On Time,T2-33,Airbus A320,56,
+I58801,AirAsia India,Kochi,COK,Ahmedabad,AMD,11:46 PM,12:56 AM,On Time,T1-6,Boeing 737 MAX,70,
+6E6762,IndiGo,Chennai,MAA,Bengaluru,BLR,12:14 PM,2:14 PM,On Time,T1-2,Boeing 737-800,120,
+IX2750,Air India Express,Chandigarh,IXC,Ahmedabad,AMD,7:28 PM,8:19 PM,Cancelled,T2-9,ATR 72-600,51,
+I53130,AirAsia India,Bhubaneswar,BBI,Nagpur,NAG,12:38 PM,3:21 PM,Delayed,T3-5,Boeing 737-800,163,5
+QP8798,Akasa Air,Delhi,DEL,Hyderabad,HYD,2:32 PM,4:26 PM,Delayed,T3-37,Airbus A321,114,50
+AI5600,Air India,Chandigarh,IXC,Delhi,DEL,5:34 PM,7:52 PM,Departed,T2-24,Boeing 737-800,138,
+6E6089,IndiGo,Kolkata,CCU,Bengaluru,BLR,10:07 PM,11:09 PM,On Time,T1-9,Airbus A320neo,62,
+UK8941,Vistara,Mumbai,BOM,Lucknow,LKO,4:19 PM,5:57 PM,Delayed,T1-21,Airbus A320neo,98,90
+IX8350,Air India Express,Lucknow,LKO,Kochi,COK,9:27 AM,10:25 AM,On Time,T2-29,Boeing 737-800,58,
+AI7803,Air India,Chandigarh,IXC,Goa,GOI,11:09 PM,1:08 AM,On Time,T2-5,Airbus A321,119,
+G81530,Go First,Mumbai,BOM,Kochi,COK,6:06 AM,8:04 AM,Cancelled,T1-7,Airbus A321,118,
+IX1935,Air India Express,Chandigarh,IXC,Bengaluru,BLR,4:56 PM,6:19 PM,Departed,T3-2,Airbus A320neo,83,20
+I58970,AirAsia India,Thiruvananthapuram,TRV,Bengaluru,BLR,4:10 PM,6:23 PM,On Time,T3-2,Airbus A320neo,133,
+UK1131,Vistara,Delhi,DEL,Nagpur,NAG,7:55 AM,10:53 AM,On Time,T2-38,Airbus A320neo,178,
+QP8065,Akasa Air,Pune,PNQ,Lucknow,LKO,11:47 PM,2:47 AM,Delayed,T2-20,Boeing 737 MAX,180,40
+SG5121,SpiceJet,Bengaluru,BLR,Bhubaneswar,BBI,8:52 AM,10:35 AM,On Time,T2-4,Airbus A321,103,
+QP4759,Akasa Air,Ahmedabad,AMD,Bengaluru,BLR,9:06 PM,10:32 PM,Delayed,T1-12,ATR 72-600,86,25
+SG2741,SpiceJet,Chennai,MAA,Mumbai,BOM,1:24 AM,3:30 AM,On Time,T2-17,Airbus A320neo,126,
+6E5292,IndiGo,Kolkata,CCU,Bengaluru,BLR,12:43 PM,3:22 PM,On Time,T1-35,Airbus A320neo,159,
+AI508,Air India,Kochi,COK,Ahmedabad,AMD,4:57 AM,7:39 AM,Departed,T1-35,Boeing 737 MAX,162,5
+QP4942,Akasa Air,Ahmedabad,AMD,Hyderabad,HYD,7:34 PM,8:56 PM,Delayed,T2-22,ATR 72-600,82,75
+AI7947,Air India,Thiruvananthapuram,TRV,Delhi,DEL,4:45 AM,5:59 AM,On Time,T2-40,Airbus A321,74,
+G85955,Go First,Mumbai,BOM,Kolkata,CCU,1:52 AM,3:26 AM,On Time,T1-18,Airbus A321,94,
+6E1469,IndiGo,Goa,GOI,Nagpur,NAG,3:12 PM,4:19 PM,Cancelled,T2-13,Boeing 737-800,67,
+QP9982,Akasa Air,Pune,PNQ,Goa,GOI,1:54 AM,4:11 AM,On Time,T3-28,Airbus A320neo,137,
+I56208,AirAsia India,Delhi,DEL,Hyderabad,HYD,11:46 AM,2:00 PM,On Time,T2-36,Airbus A320,134,
+UK7378,Vistara,Chandigarh,IXC,Kochi,COK,3:06 PM,5:04 PM,On Time,T3-28,ATR 72-600,118,
+I52386,AirAsia India,Nagpur,NAG,Pune,PNQ,8:24 PM,9:31 PM,On Time,T2-31,Boeing 737 MAX,67,
+QP1183,Akasa Air,Thiruvananthapuram,TRV,Pune,PNQ,12:49 PM,1:56 PM,On Time,T3-18,Boeing 737-800,67,
+SG9206,SpiceJet,Ahmedabad,AMD,Chandigarh,IXC,7:23 PM,8:43 PM,On Time,T2-19,Boeing 737 MAX,80,
+G8791,Go First,Nagpur,NAG,Thiruvananthapuram,TRV,10:18 AM,12:20 PM,On Time,T3-30,Airbus A321,122,
+6E140,IndiGo,Bengaluru,BLR,Hyderabad,HYD,10:14 AM,12:59 PM,On Time,T3-19,Boeing 737-800,165,
+SG8159,SpiceJet,Thiruvananthapuram,TRV,Chandigarh,IXC,10:00 PM,11:47 PM,On Time,T2-32,Airbus A320,107,
+QP9620,Akasa Air,Ahmedabad,AMD,Pune,PNQ,2:53 PM,4:44 PM,On Time,T2-8,Airbus A320neo,111,
+6E4352,IndiGo,Bengaluru,BLR,Pune,PNQ,1:59 AM,3:21 AM,On Time,T3-9,Airbus A320neo,82,
+SG966,SpiceJet,Hyderabad,HYD,Kolkata,CCU,2:19 PM,4:35 PM,On Time,T2-34,ATR 72-600,136,
+AI8519,Air India,Chennai,MAA,Bhubaneswar,BBI,9:26 PM,10:57 PM,Delayed,T1-35,Airbus A320neo,91,50
+QP5032,Akasa Air,Hyderabad,HYD,Lucknow,LKO,11:49 PM,2:06 AM,On Time,T3-23,Airbus A321,137,
+6E2343,IndiGo,Goa,GOI,Hyderabad,HYD,12:43 PM,3:32 PM,On Time,T1-7,Airbus A321,169,
+SG8347,SpiceJet,Chennai,MAA,Nagpur,NAG,6:25 AM,9:24 AM,Delayed,T3-8,Boeing 737-800,179,75
+G81351,Go First,Mumbai,BOM,Nagpur,NAG,4:28 AM,5:17 AM,On Time,T2-24,Airbus A321,49,
+G89891,Go First,Goa,GOI,Bhubaneswar,BBI,11:40 AM,1:09 PM,Delayed,T3-8,Airbus A321,89,5
+SG2432,SpiceJet,Chandigarh,IXC,Chennai,MAA,10:29 AM,11:46 AM,On Time,T1-28,ATR 72-600,77,
+AI1373,Air India,Delhi,DEL,Bhubaneswar,BBI,4:31 PM,7:06 PM,On Time,T1-3,ATR 72-600,155,
+6E7785,IndiGo,Mumbai,BOM,Hyderabad,HYD,1:28 AM,2:29 AM,On Time,T1-7,Airbus A320,61,
+UK9727,Vistara,Thiruvananthapuram,TRV,Chennai,MAA,6:18 AM,8:32 AM,On Time,T1-18,Boeing 737 MAX,134,
+QP5870,Akasa Air,Bengaluru,BLR,Nagpur,NAG,5:05 PM,6:51 PM,On Time,T1-7,Boeing 737 MAX,106,
+6E8764,IndiGo,Chennai,MAA,Chandigarh,IXC,6:32 AM,8:29 AM,On Time,T3-1,ATR 72-600,117,
+AI3606,Air India,Thiruvananthapuram,TRV,Goa,GOI,4:12 PM,6:30 PM,Delayed,T2-7,Airbus A321,138,15
+QP6319,Akasa Air,Kochi,COK,Chennai,MAA,5:33 PM,7:16 PM,On Time,T2-8,Boeing 737-800,103,
+AI8615,Air India,Bengaluru,BLR,Ahmedabad,AMD,12:19 PM,2:17 PM,On Time,T1-6,Airbus A320neo,118,
+G81995,Go First,Kochi,COK,Hyderabad,HYD,3:35 PM,5:39 PM,Delayed,T2-15,Boeing 737 MAX,124,105
+I54861,AirAsia India,Nagpur,NAG,Kochi,COK,6:26 AM,7:28 AM,Departed,T3-24,Airbus A321,62,15
+6E8155,IndiGo,Lucknow,LKO,Mumbai,BOM,1:31 PM,4:08 PM,On Time,T3-6,Airbus A320,157,
+SG6568,SpiceJet,Kochi,COK,Chandigarh,IXC,8:09 PM,9:20 PM,Delayed,T1-5,Airbus A320neo,71,120
+UK5648,Vistara,Chennai,MAA,Pune,PNQ,1:47 PM,3:03 PM,On Time,T2-32,Airbus A320neo,76,
+IX6657,Air India Express,Kolkata,CCU,Ahmedabad,AMD,10:45 PM,1:13 AM,Cancelled,T3-18,Airbus A321,148,
+G81870,Go First,Mumbai,BOM,Hyderabad,HYD,4:42 PM,7:34 PM,On Time,T1-2,Airbus A320,172,
+6E1217,IndiGo,Ahmedabad,AMD,Lucknow,LKO,12:54 AM,2:24 AM,On Time,T3-21,Airbus A321,90,
+IX1678,Air India Express,Bhubaneswar,BBI,Mumbai,BOM,10:33 PM,1:31 AM,Delayed,T2-13,Airbus A320neo,178,90
+G88132,Go First,Goa,GOI,Hyderabad,HYD,6:30 PM,8:42 PM,Delayed,T3-2,Airbus A320,132,45
+I52051,AirAsia India,Kochi,COK,Ahmedabad,AMD,10:44 AM,1:05 PM,On Time,T1-3,Airbus A321,141,
+IX2789,Air India Express,Ahmedabad,AMD,Kochi,COK,4:35 AM,6:39 AM,Delayed,T1-37,ATR 72-600,124,40
+G89173,Go First,Lucknow,LKO,Goa,GOI,7:31 PM,10:16 PM,On Time,T1-33,Airbus A320,165,
+I54415,AirAsia India,Ahmedabad,AMD,Pune,PNQ,12:53 PM,3:08 PM,Delayed,T2-4,Airbus A320,135,25
+6E2200,IndiGo,Nagpur,NAG,Kolkata,CCU,11:54 AM,12:45 PM,Delayed,T2-25,Airbus A320,51,60
+I55754,AirAsia India,Kolkata,CCU,Kochi,COK,11:59 AM,12:58 PM,Delayed,T1-20,Boeing 737 MAX,59,20
+AI1173,Air India,Nagpur,NAG,Hyderabad,HYD,3:54 AM,6:05 AM,On Time,T3-21,Airbus A320,131,
+G87021,Go First,Pune,PNQ,Goa,GOI,2:22 PM,4:15 PM,On Time,T2-38,Airbus A320,113,
+QP6288,Akasa Air,Pune,PNQ,Kochi,COK,11:00 AM,12:10 PM,Delayed,T3-14,Airbus A320neo,70,10
+G88337,Go First,Bhubaneswar,BBI,Thiruvananthapuram,TRV,10:46 PM,12:57 AM,On Time,T2-24,Boeing 737-800,131,
+UK8242,Vistara,Lucknow,LKO,Nagpur,NAG,2:34 AM,4:13 AM,On Time,T1-20,Boeing 737 MAX,99,
+I53800,AirAsia India,Pune,PNQ,Chandigarh,IXC,3:08 AM,4:17 AM,On Time,T2-5,Boeing 737 MAX,69,
+UK5790,Vistara,Bhubaneswar,BBI,Mumbai,BOM,10:14 PM,12:16 AM,On Time,T2-28,ATR 72-600,122,
+QP3378,Akasa Air,Kochi,COK,Thiruvananthapuram,TRV,8:34 AM,11:30 AM,On Time,T3-12,Airbus A320,176,
+SG9551,SpiceJet,Ahmedabad,AMD,Chennai,MAA,10:33 PM,1:17 AM,On Time,T3-35,Boeing 737 MAX,164,
+I59375,AirAsia India,Chandigarh,IXC,Lucknow,LKO,2:02 AM,5:00 AM,On Time,T2-10,Airbus A321,178,
+SG5019,SpiceJet,Nagpur,NAG,Kochi,COK,2:00 PM,4:06 PM,Departed,T3-14,Boeing 737-800,126,
+IX4802,Air India Express,Lucknow,LKO,Bengaluru,BLR,8:45 AM,10:30 AM,On Time,T1-10,Airbus A321,105,
+6E4123,IndiGo,Bhubaneswar,BBI,Nagpur,NAG,10:35 AM,1:18 PM,On Time,T2-28,ATR 72-600,163,
+6E3409,IndiGo,Bengaluru,BLR,Hyderabad,HYD,4:39 AM,5:31 AM,On Time,T2-36,Airbus A321,52,
+6E8060,IndiGo,Bhubaneswar,BBI,Delhi,DEL,1:53 AM,2:59 AM,On Time,T2-5,Boeing 737-800,66,
+QP1579,Akasa Air,Kochi,COK,Nagpur,NAG,4:47 AM,6:32 AM,On Time,T3-33,Airbus A320,105,
+IX8233,Air India Express,Thiruvananthapuram,TRV,Mumbai,BOM,8:07 AM,9:23 AM,Delayed,T2-38,ATR 72-600,76,30
+I53965,AirAsia India,Thiruvananthapuram,TRV,Kochi,COK,7:26 AM,8:47 AM,On Time,T1-18,Boeing 737-800,81,
+I54266,AirAsia India,Nagpur,NAG,Pune,PNQ,1:54 AM,4:44 AM,On Time,T3-8,Airbus A320neo,170,
+I57880,AirAsia India,Lucknow,LKO,Chennai,MAA,9:28 AM,10:50 AM,On Time,T3-24,Airbus A320neo,82,
+6E670,IndiGo,Nagpur,NAG,Chandigarh,IXC,10:36 PM,11:34 PM,Delayed,T3-16,Airbus A320neo,58,90
+I55167,AirAsia India,Lucknow,LKO,Chandigarh,IXC,12:23 PM,1:39 PM,On Time,T1-29,Boeing 737-800,76,
+6E6538,IndiGo,Thiruvananthapuram,TRV,Hyderabad,HYD,10:16 AM,11:24 AM,Departed,T2-14,Airbus A321,68,5
+G85296,Go First,Thiruvananthapuram,TRV,Bhubaneswar,BBI,9:59 PM,12:28 AM,Delayed,T1-32,Boeing 737-800,149,25
+I55551,AirAsia India,Chandigarh,IXC,Kochi,COK,3:25 AM,4:51 AM,Delayed,T1-23,Boeing 737-800,86,45
+QP7526,Akasa Air,Chandigarh,IXC,Delhi,DEL,1:46 AM,3:18 AM,On Time,T3-9,Airbus A320,92,
+I53378,AirAsia India,Lucknow,LKO,Hyderabad,HYD,10:42 AM,11:48 AM,On Time,T1-34,ATR 72-600,66,
+SG9832,SpiceJet,Lucknow,LKO,Kochi,COK,10:54 AM,1:34 PM,On Time,T3-9,Airbus A320neo,160,
+SG9816,SpiceJet,Nagpur,NAG,Kolkata,CCU,9:37 AM,11:12 AM,On Time,T2-12,Boeing 737-800,95,
+I59445,AirAsia India,Chennai,MAA,Delhi,DEL,12:47 AM,2:30 AM,Departed,T1-17,ATR 72-600,103,15
+SG915,SpiceJet,Kochi,COK,Pune,PNQ,2:38 PM,4:29 PM,On Time,T2-11,Boeing 737 MAX,111,
+AI331,Air India,Chandigarh,IXC,Goa,GOI,2:51 PM,5:32 PM,Delayed,T1-15,ATR 72-600,161,40
+UK3221,Vistara,Nagpur,NAG,Thiruvananthapuram,TRV,9:05 AM,11:03 AM,Delayed,T1-28,Airbus A321,118,35
+UK4736,Vistara,Chandigarh,IXC,Lucknow,LKO,6:27 AM,8:59 AM,On Time,T1-2,Airbus A320neo,152,
+IX3958,Air India Express,Pune,PNQ,Ahmedabad,AMD,8:28 AM,10:47 AM,On Time,T3-30,Airbus A320,139,
+6E7782,IndiGo,Bengaluru,BLR,Nagpur,NAG,11:02 AM,1:28 PM,Delayed,T2-28,ATR 72-600,146,75
+IX1296,Air India Express,Mumbai,BOM,Goa,GOI,2:00 AM,2:58 AM,On Time,T1-31,Airbus A320neo,58,
+6E187,IndiGo,Hyderabad,HYD,Goa,GOI,9:09 PM,11:31 PM,On Time,T2-24,Airbus A321,142,
+6E9610,IndiGo,Bengaluru,BLR,Hyderabad,HYD,5:47 AM,8:40 AM,On Time,T2-30,Airbus A321,173,
+AI5298,Air India,Chandigarh,IXC,Goa,GOI,2:46 PM,4:07 PM,On Time,T2-3,Airbus A321,81,
+G84703,Go First,Chandigarh,IXC,Kolkata,CCU,2:40 PM,4:37 PM,Departed,T3-17,Boeing 737 MAX,117,10
+QP7239,Akasa Air,Thiruvananthapuram,TRV,Bengaluru,BLR,10:46 AM,1:36 PM,Delayed,T3-29,Airbus A320,170,15
+UK2535,Vistara,Delhi,DEL,Chennai,MAA,6:15 AM,7:09 AM,On Time,T1-30,Boeing 737-800,54,
+AI8208,Air India,Delhi,DEL,Ahmedabad,AMD,12:10 PM,2:59 PM,On Time,T1-10,Airbus A320,169,
+QP1633,Akasa Air,Chennai,MAA,Nagpur,NAG,9:41 AM,11:12 AM,Delayed,T3-18,Boeing 737 MAX,91,75
+UK9660,Vistara,Delhi,DEL,Goa,GOI,7:28 PM,8:59 PM,On Time,T1-16,Boeing 737-800,91,
+AI5484,Air India,Delhi,DEL,Hyderabad,HYD,11:15 PM,12:31 AM,On Time,T3-7,Airbus A320neo,76,
+SG573,SpiceJet,Mumbai,BOM,Ahmedabad,AMD,10:30 PM,1:17 AM,On Time,T2-39,ATR 72-600,167,
+6E5497,IndiGo,Delhi,DEL,Lucknow,LKO,9:14 PM,11:54 PM,On Time,T3-37,Airbus A321,160,
+UK897,Vistara,Bhubaneswar,BBI,Lucknow,LKO,9:39 AM,11:46 AM,Delayed,T1-36,Boeing 737 MAX,127,75
+I51616,AirAsia India,Kochi,COK,Hyderabad,HYD,6:04 AM,7:50 AM,Cancelled,T2-6,Airbus A320,106,
+UK2769,Vistara,Kochi,COK,Bhubaneswar,BBI,1:44 PM,3:41 PM,On Time,T3-10,Airbus A320,117,
+IX8142,Air India Express,Bhubaneswar,BBI,Kochi,COK,10:35 AM,11:53 AM,On Time,T1-24,Boeing 737 MAX,78,
+UK8121,Vistara,Ahmedabad,AMD,Kochi,COK,4:15 PM,6:08 PM,On Time,T2-6,Boeing 737-800,113,
+QP3153,Akasa Air,Kochi,COK,Lucknow,LKO,2:32 PM,3:40 PM,On Time,T2-30,ATR 72-600,68,
+UK2640,Vistara,Thiruvananthapuram,TRV,Ahmedabad,AMD,5:59 PM,8:58 PM,On Time,T2-28,Airbus A320,179,
+G85021,Go First,Bengaluru,BLR,Thiruvananthapuram,TRV,11:21 PM,1:22 AM,Delayed,T2-19,Boeing 737 MAX,121,45
+6E9127,IndiGo,Mumbai,BOM,Delhi,DEL,5:31 PM,6:43 PM,On Time,T2-7,Boeing 737-800,72,
+IX5923,Air India Express,Hyderabad,HYD,Pune,PNQ,2:47 AM,5:40 AM,On Time,T3-30,Airbus A321,173,
+SG6538,SpiceJet,Delhi,DEL,Mumbai,BOM,2:12 PM,4:13 PM,On Time,T3-30,ATR 72-600,121,
+G84442,Go First,Kolkata,CCU,Nagpur,NAG,6:23 AM,8:02 AM,On Time,T3-39,Airbus A320neo,99,
+AI7207,Air India,Goa,GOI,Delhi,DEL,12:11 AM,2:37 AM,On Time,T1-31,Boeing 737-800,146,
+I59961,AirAsia India,Chandigarh,IXC,Ahmedabad,AMD,10:20 AM,12:37 PM,Delayed,T3-26,Airbus A320neo,137,75
+AI2149,Air India,Bengaluru,BLR,Delhi,DEL,6:30 AM,7:43 AM,Delayed,T1-2,Airbus A321,73,75
+G82478,Go First,Lucknow,LKO,Chennai,MAA,2:52 PM,4:25 PM,On Time,T2-10,Boeing 737-800,93,
+I5457,AirAsia India,Mumbai,BOM,Bengaluru,BLR,5:12 AM,7:50 AM,Cancelled,T2-2,Boeing 737-800,158,
+UK3398,Vistara,Hyderabad,HYD,Pune,PNQ,1:22 PM,2:20 PM,On Time,T1-28,Boeing 737-800,58,
+G89580,Go First,Pune,PNQ,Chandigarh,IXC,6:55 PM,8:54 PM,On Time,T2-32,Boeing 737 MAX,119,
+G83899,Go First,Chandigarh,IXC,Delhi,DEL,6:01 PM,6:50 PM,On Time,T2-36,Airbus A320,49,
+IX6934,Air India Express,Thiruvananthapuram,TRV,Ahmedabad,AMD,3:59 AM,6:50 AM,On Time,T3-23,Boeing 737-800,171,
+I5440,AirAsia India,Bengaluru,BLR,Hyderabad,HYD,6:33 AM,9:18 AM,On Time,T1-33,Airbus A321,165,
+QP9964,Akasa Air,Nagpur,NAG,Thiruvananthapuram,TRV,10:25 PM,1:09 AM,On Time,T2-25,Boeing 737-800,164,
+QP7838,Akasa Air,Bhubaneswar,BBI,Nagpur,NAG,5:31 AM,7:09 AM,On Time,T3-6,ATR 72-600,98,
+G82215,Go First,Bengaluru,BLR,Chennai,MAA,5:20 AM,8:10 AM,On Time,T2-32,Airbus A320neo,170,
+UK3531,Vistara,Goa,GOI,Delhi,DEL,12:37 AM,2:53 AM,Departed,T3-11,Airbus A321,136,10
+6E1143,IndiGo,Kolkata,CCU,Kochi,COK,3:53 AM,5:36 AM,On Time,T1-32,Airbus A320neo,103,
+QP5920,Akasa Air,Bhubaneswar,BBI,Delhi,DEL,7:00 PM,8:53 PM,Departed,T3-7,ATR 72-600,113,20
+6E7273,IndiGo,Bhubaneswar,BBI,Ahmedabad,AMD,3:47 AM,4:59 AM,Delayed,T1-36,Airbus A320,72,50
+AI2836,Air India,Lucknow,LKO,Mumbai,BOM,7:00 AM,9:17 AM,On Time,T2-29,Boeing 737 MAX,137,
+G81726,Go First,Bengaluru,BLR,Lucknow,LKO,12:24 PM,2:34 PM,Delayed,T1-29,Boeing 737-800,130,10
+6E4119,IndiGo,Nagpur,NAG,Bhubaneswar,BBI,4:10 PM,6:22 PM,On Time,T1-6,Airbus A320neo,132,
+QP6899,Akasa Air,Kolkata,CCU,Lucknow,LKO,10:41 PM,12:28 AM,On Time,T3-27,Airbus A321,107,
+SG7125,SpiceJet,Kochi,COK,Thiruvananthapuram,TRV,3:39 PM,6:36 PM,Delayed,T1-29,Airbus A321,177,30
+6E8576,IndiGo,Mumbai,BOM,Thiruvananthapuram,TRV,11:32 AM,1:37 PM,On Time,T1-28,Airbus A320,125,
+I5707,AirAsia India,Lucknow,LKO,Thiruvananthapuram,TRV,5:09 AM,6:08 AM,Cancelled,T3-34,Airbus A320neo,59,
+I56686,AirAsia India,Thiruvananthapuram,TRV,Lucknow,LKO,11:55 PM,1:57 AM,Delayed,T2-1,Airbus A320neo,122,30
+SG6718,SpiceJet,Ahmedabad,AMD,Lucknow,LKO,7:00 AM,9:38 AM,Delayed,T3-26,Airbus A321,158,120
+6E8905,IndiGo,Kolkata,CCU,Kochi,COK,4:18 AM,7:16 AM,Cancelled,T2-14,Airbus A320,178,
+IX8641,Air India Express,Kolkata,CCU,Bhubaneswar,BBI,9:41 PM,11:06 PM,On Time,T3-38,Airbus A320neo,85,
+UK5079,Vistara,Chandigarh,IXC,Kochi,COK,5:14 PM,6:27 PM,Delayed,T2-17,ATR 72-600,73,105
+QP2128,Akasa Air,Delhi,DEL,Bhubaneswar,BBI,10:13 PM,11:29 PM,On Time,T3-1,Boeing 737-800,76,
+QP3968,Akasa Air,Bhubaneswar,BBI,Chandigarh,IXC,7:51 PM,9:35 PM,On Time,T2-37,ATR 72-600,104,
+SG6287,SpiceJet,Goa,GOI,Chandigarh,IXC,8:27 AM,9:38 AM,On Time,T3-13,Airbus A320neo,71,
+G81705,Go First,Bengaluru,BLR,Chandigarh,IXC,2:31 PM,5:01 PM,On Time,T1-28,Airbus A321,150,
+G83619,Go First,Ahmedabad,AMD,Mumbai,BOM,12:36 PM,3:35 PM,On Time,T3-34,Boeing 737-800,179,
+IX9673,Air India Express,Ahmedabad,AMD,Lucknow,LKO,2:27 PM,5:04 PM,Delayed,T3-27,Airbus A321,157,40
+SG8386,SpiceJet,Bengaluru,BLR,Ahmedabad,AMD,3:37 PM,4:55 PM,Cancelled,T3-34,Airbus A320,78,
+UK7561,Vistara,Ahmedabad,AMD,Delhi,DEL,5:21 AM,7:40 AM,Departed,T3-27,Airbus A320,139,
+AI6155,Air India,Pune,PNQ,Hyderabad,HYD,1:22 AM,4:20 AM,On Time,T2-20,Airbus A320neo,178,
+IX4916,Air India Express,Ahmedabad,AMD,Delhi,DEL,4:52 AM,6:13 AM,Delayed,T1-20,Airbus A320neo,81,35
+UK3099,Vistara,Nagpur,NAG,Chandigarh,IXC,4:41 PM,5:26 PM,On Time,T2-5,Airbus A320,45,
+I57983,AirAsia India,Pune,PNQ,Hyderabad,HYD,7:18 PM,9:58 PM,Departed,T2-39,Airbus A321,160,15
+SG8370,SpiceJet,Lucknow,LKO,Ahmedabad,AMD,3:21 PM,6:00 PM,On Time,T3-21,Airbus A320,159,
+I56444,AirAsia India,Chennai,MAA,Kochi,COK,11:34 AM,12:30 PM,Cancelled,T2-18,ATR 72-600,56,
+AI2813,Air India,Chandigarh,IXC,Delhi,DEL,7:31 PM,9:35 PM,On Time,T1-36,Airbus A320,124,
+UK8977,Vistara,Pune,PNQ,Bhubaneswar,BBI,1:48 AM,4:46 AM,On Time,T2-33,Airbus A320,178,
+AI8813,Air India,Bengaluru,BLR,Delhi,DEL,9:23 AM,11:00 AM,On Time,T3-38,Boeing 737-800,97,
+AI8841,Air India,Pune,PNQ,Kolkata,CCU,1:42 PM,2:38 PM,On Time,T1-22,Boeing 737-800,56,
+SG6898,SpiceJet,Delhi,DEL,Nagpur,NAG,6:01 PM,8:07 PM,On Time,T1-8,Airbus A320,126,
+SG4775,SpiceJet,Bengaluru,BLR,Thiruvananthapuram,TRV,8:43 AM,9:50 AM,On Time,T2-11,Airbus A320,67,
+QP3073,Akasa Air,Delhi,DEL,Chandigarh,IXC,1:59 AM,4:00 AM,On Time,T2-10,Boeing 737-800,121,
+QP4325,Akasa Air,Kochi,COK,Nagpur,NAG,4:07 AM,5:05 AM,On Time,T3-38,Airbus A321,58,
+G88433,Go First,Bhubaneswar,BBI,Goa,GOI,1:08 PM,2:22 PM,On Time,T2-30,Boeing 737 MAX,74,
+I51172,AirAsia India,Ahmedabad,AMD,Delhi,DEL,1:54 PM,3:38 PM,Departed,T2-36,Boeing 737 MAX,104,
+AI4135,Air India,Bhubaneswar,BBI,Goa,GOI,10:14 PM,11:31 PM,On Time,T2-29,Airbus A320,77,
+UK2432,Vistara,Kolkata,CCU,Goa,GOI,5:44 AM,7:31 AM,On Time,T2-36,Boeing 737-800,107,
+6E116,IndiGo,Nagpur,NAG,Ahmedabad,AMD,9:11 PM,11:10 PM,Delayed,T1-4,Boeing 737-800,119,15
+IX9895,Air India Express,Hyderabad,HYD,Nagpur,NAG,11:12 PM,1:34 AM,Cancelled,T3-14,Boeing 737 MAX,142,
+IX845,Air India Express,Bengaluru,BLR,Chandigarh,IXC,6:13 PM,7:15 PM,On Time,T2-8,Airbus A321,62,
+IX7177,Air India Express,Chennai,MAA,Pune,PNQ,5:13 PM,7:19 PM,Departed,T3-17,ATR 72-600,126,10
+G84573,Go First,Chennai,MAA,Lucknow,LKO,10:58 AM,1:10 PM,On Time,T3-22,Airbus A320,132,
+SG133,SpiceJet,Pune,PNQ,Ahmedabad,AMD,12:08 AM,12:55 AM,Delayed,T3-32,Boeing 737-800,47,35
+AI1370,Air India,Goa,GOI,Delhi,DEL,10:55 PM,1:33 AM,Delayed,T2-39,Airbus A320neo,158,30
+I53003,AirAsia India,Nagpur,NAG,Bhubaneswar,BBI,11:47 PM,12:34 AM,On Time,T2-13,Boeing 737-800,47,
+6E3729,IndiGo,Chandigarh,IXC,Delhi,DEL,9:35 AM,11:51 AM,On Time,T3-20,ATR 72-600,136,
+UK3938,Vistara,Ahmedabad,AMD,Kolkata,CCU,1:15 AM,3:11 AM,On Time,T3-39,Airbus A321,116,
+6E3312,IndiGo,Nagpur,NAG,Lucknow,LKO,1:31 PM,2:44 PM,Departed,T3-32,Airbus A321,73,20
+UK9368,Vistara,Lucknow,LKO,Thiruvananthapuram,TRV,8:34 PM,10:03 PM,On Time,T1-5,Airbus A321,89,
+IX9437,Air India Express,Nagpur,NAG,Chennai,MAA,5:51 PM,7:46 PM,On Time,T3-2,ATR 72-600,115,
+IX9276,Air India Express,Thiruvananthapuram,TRV,Ahmedabad,AMD,12:04 AM,2:38 AM,On Time,T3-4,Airbus A320neo,154,
+I56766,AirAsia India,Hyderabad,HYD,Mumbai,BOM,11:12 PM,2:09 AM,On Time,T2-34,Airbus A320,177,
+UK869,Vistara,Hyderabad,HYD,Kochi,COK,6:10 PM,8:49 PM,On Time,T2-13,Airbus A320neo,159,
+AI9468,Air India,Bhubaneswar,BBI,Delhi,DEL,7:42 AM,10:15 AM,Cancelled,T1-13,Airbus A321,153,
+QP5192,Akasa Air,Mumbai,BOM,Lucknow,LKO,9:20 PM,10:29 PM,On Time,T2-2,Boeing 737 MAX,69,
+UK1866,Vistara,Ahmedabad,AMD,Chennai,MAA,11:37 AM,12:35 PM,Delayed,T1-5,Boeing 737 MAX,58,45
+G81667,Go First,Lucknow,LKO,Ahmedabad,AMD,7:45 PM,9:01 PM,On Time,T1-3,Boeing 737-800,76,
+QP1165,Akasa Air,Bhubaneswar,BBI,Bengaluru,BLR,2:06 AM,4:44 AM,On Time,T3-28,Airbus A320,158,
+AI1014,Air India,Goa,GOI,Delhi,DEL,10:03 AM,12:25 PM,On Time,T3-27,Airbus A321,142,
+6E7528,IndiGo,Kochi,COK,Ahmedabad,AMD,2:36 PM,3:46 PM,On Time,T3-2,Boeing 737-800,70,
+QP9730,Akasa Air,Chennai,MAA,Mumbai,BOM,3:30 AM,4:18 AM,On Time,T1-38,Airbus A321,48,
+SG8437,SpiceJet,Hyderabad,HYD,Kolkata,CCU,2:22 PM,5:10 PM,Delayed,T1-16,Airbus A321,168,40
+6E1091,IndiGo,Bengaluru,BLR,Hyderabad,HYD,7:57 PM,10:33 PM,On Time,T3-23,Airbus A320neo,156,
+SG2515,SpiceJet,Ahmedabad,AMD,Hyderabad,HYD,8:35 PM,10:47 PM,On Time,T1-34,Boeing 737 MAX,132,
+SG1039,SpiceJet,Chennai,MAA,Goa,GOI,7:05 PM,8:03 PM,On Time,T1-13,ATR 72-600,58,
+UK1220,Vistara,Kolkata,CCU,Chennai,MAA,10:47 PM,1:33 AM,Delayed,T3-22,Boeing 737 MAX,166,40
+QP5009,Akasa Air,Kochi,COK,Kolkata,CCU,5:32 AM,6:43 AM,On Time,T1-32,Airbus A321,71,
+6E3754,IndiGo,Chandigarh,IXC,Chennai,MAA,3:55 PM,5:34 PM,On Time,T3-22,ATR 72-600,99,
+I53463,AirAsia India,Kochi,COK,Bengaluru,BLR,12:13 AM,2:30 AM,On Time,T2-2,Boeing 737 MAX,137,
+AI2433,Air India,Hyderabad,HYD,Ahmedabad,AMD,6:38 AM,8:55 AM,On Time,T1-13,Airbus A321,137,
+IX2953,Air India Express,Chennai,MAA,Hyderabad,HYD,5:56 AM,8:07 AM,Delayed,T1-13,Airbus A320,131,20
+SG4389,SpiceJet,Thiruvananthapuram,TRV,Mumbai,BOM,12:42 AM,2:02 AM,On Time,T1-22,Airbus A321,80,
+IX7574,Air India Express,Chennai,MAA,Kolkata,CCU,12:42 PM,2:10 PM,Departed,T2-5,Airbus A320,88,20
+SG2242,SpiceJet,Bhubaneswar,BBI,Chennai,MAA,6:32 AM,8:53 AM,Delayed,T3-28,ATR 72-600,141,30
+UK856,Vistara,Bhubaneswar,BBI,Pune,PNQ,8:02 PM,9:35 PM,Departed,T1-21,Airbus A321,93,10
+6E4688,IndiGo,Nagpur,NAG,Bengaluru,BLR,5:20 PM,8:10 PM,On Time,T1-31,ATR 72-600,170,
+AI2843,Air India,Goa,GOI,Kochi,COK,10:01 PM,12:56 AM,On Time,T3-30,Airbus A321,175,
+QP6225,Akasa Air,Goa,GOI,Chandigarh,IXC,4:29 PM,7:20 PM,On Time,T3-26,ATR 72-600,171,
+6E3494,IndiGo,Chennai,MAA,Thiruvananthapuram,TRV,3:25 PM,5:10 PM,On Time,T2-28,Boeing 737-800,105,
+SG6229,SpiceJet,Hyderabad,HYD,Goa,GOI,2:53 AM,4:12 AM,Delayed,T2-34,Airbus A320neo,79,25
+UK9667,Vistara,Delhi,DEL,Ahmedabad,AMD,5:29 PM,7:40 PM,On Time,T2-28,Boeing 737-800,131,
+QP8251,Akasa Air,Kolkata,CCU,Hyderabad,HYD,1:03 PM,1:54 PM,On Time,T1-17,ATR 72-600,51,
+AI5983,Air India,Thiruvananthapuram,TRV,Mumbai,BOM,10:03 AM,12:56 PM,On Time,T3-6,Airbus A320neo,173,
+UK1712,Vistara,Mumbai,BOM,Thiruvananthapuram,TRV,12:17 PM,1:11 PM,On Time,T2-13,ATR 72-600,54,
+QP4196,Akasa Air,Hyderabad,HYD,Chandigarh,IXC,11:19 PM,1:14 AM,On Time,T3-9,ATR 72-600,115,
+IX239,Air India Express,Bhubaneswar,BBI,Hyderabad,HYD,9:37 AM,11:50 AM,Delayed,T2-38,ATR 72-600,133,35
+6E7833,IndiGo,Lucknow,LKO,Goa,GOI,5:05 AM,7:31 AM,On Time,T3-14,Boeing 737-800,146,
+UK8551,Vistara,Pune,PNQ,Bhubaneswar,BBI,6:51 PM,9:35 PM,Delayed,T2-6,Airbus A320neo,164,40
+UK7125,Vistara,Bhubaneswar,BBI,Chandigarh,IXC,2:15 PM,3:53 PM,On Time,T3-2,Airbus A320neo,98,
+SG9561,SpiceJet,Nagpur,NAG,Bengaluru,BLR,10:25 AM,11:12 AM,On Time,T3-23,Airbus A320neo,47,
+UK6967,Vistara,Kochi,COK,Lucknow,LKO,1:46 PM,3:47 PM,On Time,T1-37,Airbus A320,121,
+SG2618,SpiceJet,Kolkata,CCU,Pune,PNQ,9:29 PM,11:54 PM,Cancelled,T1-26,Airbus A320,145,
+I53185,AirAsia India,Ahmedabad,AMD,Mumbai,BOM,11:13 AM,1:53 PM,On Time,T2-6,Airbus A321,160,
+AI9158,Air India,Bengaluru,BLR,Delhi,DEL,11:31 PM,2:21 AM,On Time,T1-5,Boeing 737-800,170,
+IX3473,Air India Express,Chennai,MAA,Hyderabad,HYD,10:30 PM,1:29 AM,On Time,T1-24,Boeing 737 MAX,179,
+6E2915,IndiGo,Kolkata,CCU,Nagpur,NAG,2:01 PM,4:26 PM,On Time,T1-9,Boeing 737 MAX,145,
+I57935,AirAsia India,Chandigarh,IXC,Mumbai,BOM,1:16 PM,2:53 PM,On Time,T1-20,Boeing 737-800,97,
+G82701,Go First,Pune,PNQ,Thiruvananthapuram,TRV,10:35 AM,12:11 PM,On Time,T3-30,Airbus A320neo,96,
+UK221,Vistara,Bengaluru,BLR,Ahmedabad,AMD,2:11 AM,4:38 AM,On Time,T1-34,Airbus A320neo,147,
+G87639,Go First,Ahmedabad,AMD,Pune,PNQ,1:20 AM,2:28 AM,On Time,T2-23,ATR 72-600,68,
+IX6507,Air India Express,Pune,PNQ,Nagpur,NAG,5:58 AM,8:29 AM,On Time,T3-28,Boeing 737-800,151,
+I53105,AirAsia India,Chandigarh,IXC,Pune,PNQ,3:15 AM,5:40 AM,Delayed,T1-11,Airbus A320neo,145,5
+IX1193,Air India Express,Chandigarh,IXC,Thiruvananthapuram,TRV,7:24 AM,10:15 AM,On Time,T3-8,Airbus A320neo,171,
+AI1823,Air India,Goa,GOI,Bhubaneswar,BBI,11:07 AM,1:36 PM,On Time,T2-14,Boeing 737 MAX,149,
+6E7672,IndiGo,Delhi,DEL,Mumbai,BOM,9:48 PM,12:31 AM,On Time,T3-26,Airbus A321,163,
+I5718,AirAsia India,Delhi,DEL,Hyderabad,HYD,3:54 AM,5:13 AM,On Time,T3-30,Boeing 737-800,79,
+G81217,Go First,Mumbai,BOM,Goa,GOI,10:25 PM,12:12 AM,Delayed,T1-31,Airbus A320neo,107,40
+SG2894,SpiceJet,Nagpur,NAG,Delhi,DEL,8:43 PM,9:53 PM,On Time,T1-35,ATR 72-600,70,
+I52859,AirAsia India,Mumbai,BOM,Lucknow,LKO,12:22 AM,2:16 AM,On Time,T2-12,Airbus A321,114,
+6E8821,IndiGo,Chennai,MAA,Ahmedabad,AMD,11:46 PM,12:43 AM,Delayed,T3-7,Boeing 737-800,57,90
+IX7374,Air India Express,Delhi,DEL,Pune,PNQ,12:09 AM,1:06 AM,Delayed,T1-16,Airbus A320neo,57,90
+UK3376,Vistara,Mumbai,BOM,Delhi,DEL,2:23 PM,3:15 PM,Cancelled,T2-13,ATR 72-600,52,
+AI3713,Air India,Thiruvananthapuram,TRV,Mumbai,BOM,10:40 PM,12:07 AM,Delayed,T2-33,Airbus A320,87,5
+QP5386,Akasa Air,Goa,GOI,Lucknow,LKO,6:28 AM,8:06 AM,Departed,T2-8,Airbus A321,98,15
+UK1834,Vistara,Kolkata,CCU,Thiruvananthapuram,TRV,5:55 AM,6:43 AM,On Time,T2-1,Boeing 737-800,48,
+UK7616,Vistara,Chennai,MAA,Mumbai,BOM,10:27 PM,12:23 AM,On Time,T2-3,Airbus A320,116,
+UK6835,Vistara,Hyderabad,HYD,Bhubaneswar,BBI,8:26 PM,11:18 PM,Cancelled,T1-35,Boeing 737 MAX,172,
+SG4227,SpiceJet,Mumbai,BOM,Pune,PNQ,11:04 AM,1:28 PM,Delayed,T3-9,Airbus A320neo,144,90
+SG5309,SpiceJet,Nagpur,NAG,Lucknow,LKO,4:27 PM,5:29 PM,On Time,T3-38,Boeing 737-800,62,
+I58472,AirAsia India,Lucknow,LKO,Chandigarh,IXC,7:56 AM,10:49 AM,On Time,T1-15,Airbus A320,173,
+AI5160,Air India,Chennai,MAA,Chandigarh,IXC,2:37 PM,4:24 PM,On Time,T1-9,Airbus A320neo,107,
+G84959,Go First,Chennai,MAA,Bengaluru,BLR,12:49 PM,2:26 PM,On Time,T1-39,Boeing 737-800,97,
+QP2299,Akasa Air,Hyderabad,HYD,Kolkata,CCU,9:58 PM,10:53 PM,On Time,T2-19,Airbus A320,55,
+UK5527,Vistara,Kolkata,CCU,Chennai,MAA,7:01 AM,7:59 AM,Departed,T3-15,Boeing 737 MAX,58,5
+I58643,AirAsia India,Kolkata,CCU,Bengaluru,BLR,3:05 PM,3:51 PM,On Time,T2-5,Airbus A321,46,
+6E2418,IndiGo,Chennai,MAA,Bengaluru,BLR,3:07 AM,4:36 AM,On Time,T1-16,Boeing 737 MAX,89,
+AI7083,Air India,Chandigarh,IXC,Ahmedabad,AMD,10:37 AM,12:04 PM,Delayed,T2-12,Boeing 737 MAX,87,20
+UK5066,Vistara,Hyderabad,HYD,Pune,PNQ,3:18 PM,4:54 PM,On Time,T2-6,Airbus A320neo,96,
+I56288,AirAsia India,Bengaluru,BLR,Ahmedabad,AMD,3:03 PM,5:36 PM,On Time,T3-28,Airbus A321,153,
+G8424,Go First,Bhubaneswar,BBI,Kochi,COK,2:35 PM,3:41 PM,Delayed,T2-39,Boeing 737 MAX,66,120
+SG9157,SpiceJet,Chandigarh,IXC,Bengaluru,BLR,8:46 AM,11:08 AM,On Time,T2-19,Boeing 737-800,142,
+G81278,Go First,Kolkata,CCU,Bengaluru,BLR,4:01 PM,5:36 PM,On Time,T1-1,Airbus A320,95,
+QP8151,Akasa Air,Kochi,COK,Thiruvananthapuram,TRV,1:28 PM,3:48 PM,On Time,T2-38,Airbus A320,140,
+I5736,AirAsia India,Thiruvananthapuram,TRV,Mumbai,BOM,1:08 PM,2:34 PM,On Time,T2-17,ATR 72-600,86,
+QP8449,Akasa Air,Chandigarh,IXC,Ahmedabad,AMD,9:40 PM,11:59 PM,Delayed,T2-28,ATR 72-600,139,60
+UK4070,Vistara,Ahmedabad,AMD,Delhi,DEL,12:20 PM,1:12 PM,Delayed,T1-17,Boeing 737 MAX,52,60
+G82514,Go First,Hyderabad,HYD,Chennai,MAA,8:33 PM,9:59 PM,On Time,T1-25,Boeing 737-800,86,
+AI8595,Air India,Thiruvananthapuram,TRV,Chennai,MAA,2:26 PM,3:53 PM,Delayed,T3-20,Boeing 737 MAX,87,25
+I59702,AirAsia India,Hyderabad,HYD,Chandigarh,IXC,2:02 PM,3:09 PM,On Time,T3-23,Airbus A321,67,
+IX3532,Air India Express,Thiruvananthapuram,TRV,Chandigarh,IXC,1:35 PM,3:38 PM,On Time,T1-32,Airbus A320,123,
+AI1244,Air India,Bhubaneswar,BBI,Chandigarh,IXC,2:15 PM,5:14 PM,On Time,T2-28,Airbus A321,179,
+SG6238,SpiceJet,Bengaluru,BLR,Chandigarh,IXC,4:35 AM,6:10 AM,On Time,T3-8,Boeing 737-800,95,
+UK3141,Vistara,Chennai,MAA,Delhi,DEL,6:14 AM,7:48 AM,On Time,T2-29,ATR 72-600,94,
+AI2821,Air India,Mumbai,BOM,Hyderabad,HYD,2:55 AM,5:16 AM,On Time,T1-22,Airbus A320,141,
+UK7929,Vistara,Ahmedabad,AMD,Lucknow,LKO,3:26 AM,4:13 AM,On Time,T1-38,Airbus A320,47,
+AI3558,Air India,Goa,GOI,Bhubaneswar,BBI,12:14 AM,2:35 AM,On Time,T2-32,Boeing 737-800,141,
+QP7136,Akasa Air,Kolkata,CCU,Thiruvananthapuram,TRV,11:16 PM,1:28 AM,Cancelled,T1-24,ATR 72-600,132,
+I56300,AirAsia India,Pune,PNQ,Delhi,DEL,12:09 PM,2:18 PM,Delayed,T2-26,ATR 72-600,129,5
+SG520,SpiceJet,Pune,PNQ,Mumbai,BOM,6:06 PM,8:02 PM,Cancelled,T1-24,Boeing 737-800,116,
+G88536,Go First,Kochi,COK,Lucknow,LKO,6:24 AM,7:09 AM,Cancelled,T2-2,ATR 72-600,45,
+QP849,Akasa Air,Bhubaneswar,BBI,Chandigarh,IXC,11:06 AM,1:44 PM,On Time,T2-26,ATR 72-600,158,
+AI5807,Air India,Kochi,COK,Ahmedabad,AMD,10:28 PM,11:38 PM,Delayed,T3-13,ATR 72-600,70,25
+SG8620,SpiceJet,Thiruvananthapuram,TRV,Pune,PNQ,5:13 PM,6:06 PM,On Time,T1-20,ATR 72-600,53,
+G82853,Go First,Thiruvananthapuram,TRV,Ahmedabad,AMD,3:56 AM,6:44 AM,Delayed,T1-14,Airbus A321,168,20
+AI1828,Air India,Kochi,COK,Chandigarh,IXC,12:59 AM,2:25 AM,Departed,T2-18,Airbus A321,86,10
+IX7903,Air India Express,Thiruvananthapuram,TRV,Lucknow,LKO,4:12 AM,5:31 AM,Departed,T1-22,Airbus A321,79,15
+AI5723,Air India,Kochi,COK,Chandigarh,IXC,1:01 PM,3:37 PM,Delayed,T2-8,Airbus A320neo,156,20
+AI1924,Air India,Mumbai,BOM,Kolkata,CCU,8:12 PM,9:45 PM,Delayed,T3-24,Airbus A321,93,10
+QP6329,Akasa Air,Pune,PNQ,Chandigarh,IXC,12:03 AM,2:07 AM,On Time,T3-13,Boeing 737-800,124,
+I55337,AirAsia India,Bhubaneswar,BBI,Kolkata,CCU,11:11 PM,12:28 AM,On Time,T3-38,Airbus A321,77,
+AI6576,Air India,Delhi,DEL,Goa,GOI,3:43 PM,5:48 PM,On Time,T2-15,Boeing 737-800,125,
+G82515,Go First,Pune,PNQ,Hyderabad,HYD,4:58 AM,5:51 AM,On Time,T2-33,ATR 72-600,53,
+AI4580,Air India,Nagpur,NAG,Chandigarh,IXC,7:35 PM,10:22 PM,On Time,T1-32,Airbus A320neo,167,
+I51063,AirAsia India,Bhubaneswar,BBI,Kolkata,CCU,5:12 AM,6:50 AM,Delayed,T1-4,Airbus A321,98,120
+G86519,Go First,Hyderabad,HYD,Nagpur,NAG,10:30 PM,11:55 PM,Cancelled,T3-26,Airbus A320neo,85,
+I57856,AirAsia India,Kolkata,CCU,Bhubaneswar,BBI,1:21 PM,3:46 PM,On Time,T3-19,Airbus A320neo,145,
+UK9078,Vistara,Kochi,COK,Mumbai,BOM,4:28 AM,6:35 AM,Delayed,T1-20,Boeing 737-800,127,50
+SG9556,SpiceJet,Bengaluru,BLR,Ahmedabad,AMD,11:45 PM,2:33 AM,On Time,T1-14,Airbus A321,168,
+UK249,Vistara,Kolkata,CCU,Chandigarh,IXC,7:38 PM,8:49 PM,Delayed,T1-25,Boeing 737-800,71,105
+SG1022,SpiceJet,Mumbai,BOM,Kolkata,CCU,4:10 PM,5:40 PM,Departed,T3-22,Boeing 737 MAX,90,
+I52534,AirAsia India,Lucknow,LKO,Chandigarh,IXC,1:47 PM,3:34 PM,On Time,T1-26,Boeing 737-800,107,
+IX9867,Air India Express,Bengaluru,BLR,Lucknow,LKO,12:48 PM,1:55 PM,Delayed,T3-25,Airbus A320neo,67,105
+G86118,Go First,Delhi,DEL,Mumbai,BOM,3:58 AM,5:04 AM,On Time,T3-33,Airbus A321,66,
+6E9714,IndiGo,Pune,PNQ,Thiruvananthapuram,TRV,4:22 PM,6:17 PM,Delayed,T3-12,Boeing 737-800,115,10
+G87205,Go First,Hyderabad,HYD,Pune,PNQ,4:16 AM,5:26 AM,On Time,T3-35,Airbus A321,70,
+I5423,AirAsia India,Kochi,COK,Goa,GOI,6:18 PM,9:18 PM,On Time,T3-38,Boeing 737 MAX,180,
+AI3499,Air India,Lucknow,LKO,Mumbai,BOM,6:10 AM,7:41 AM,On Time,T2-21,Airbus A320,91,
+6E2210,IndiGo,Pune,PNQ,Chennai,MAA,10:16 PM,11:42 PM,On Time,T2-3,Airbus A320,86,
+AI8392,Air India,Hyderabad,HYD,Kolkata,CCU,6:34 PM,8:02 PM,On Time,T3-1,Airbus A321,88,
+IX856,Air India Express,Goa,GOI,Bhubaneswar,BBI,10:00 AM,12:38 PM,On Time,T2-21,Boeing 737 MAX,158,
+QP8918,Akasa Air,Goa,GOI,Chennai,MAA,11:28 PM,12:38 AM,Delayed,T1-3,Airbus A321,70,5
+SG5010,SpiceJet,Nagpur,NAG,Thiruvananthapuram,TRV,7:20 AM,8:39 AM,On Time,T1-38,Airbus A320neo,79,
+IX2205,Air India Express,Chandigarh,IXC,Pune,PNQ,2:24 PM,3:28 PM,On Time,T2-25,ATR 72-600,64,
+SG6654,SpiceJet,Ahmedabad,AMD,Mumbai,BOM,8:40 AM,11:13 AM,Departed,T3-14,Airbus A320,153,5
+IX3256,Air India Express,Chandigarh,IXC,Kolkata,CCU,7:14 PM,10:09 PM,On Time,T2-10,Airbus A320neo,175,
+I56308,AirAsia India,Delhi,DEL,Pune,PNQ,8:26 AM,9:30 AM,On Time,T3-8,ATR 72-600,64,
+I51180,AirAsia India,Kolkata,CCU,Lucknow,LKO,3:02 AM,5:19 AM,Departed,T1-15,Airbus A320neo,137,10
+6E1704,IndiGo,Kochi,COK,Chennai,MAA,12:55 PM,2:06 PM,Delayed,T1-34,ATR 72-600,71,10
+IX9747,Air India Express,Nagpur,NAG,Bhubaneswar,BBI,4:42 PM,5:51 PM,On Time,T3-37,Airbus A320neo,69,
+IX1723,Air India Express,Thiruvananthapuram,TRV,Delhi,DEL,5:49 AM,7:55 AM,Departed,T1-23,ATR 72-600,126,15
+I57912,AirAsia India,Pune,PNQ,Bengaluru,BLR,8:50 AM,9:37 AM,Delayed,T1-9,Airbus A321,47,75
+I59398,AirAsia India,Chandigarh,IXC,Hyderabad,HYD,1:48 AM,4:07 AM,Delayed,T3-39,Boeing 737-800,139,20
+G83099,Go First,Ahmedabad,AMD,Kolkata,CCU,3:59 PM,6:52 PM,On Time,T2-34,ATR 72-600,173,
+UK5100,Vistara,Lucknow,LKO,Nagpur,NAG,2:58 AM,5:01 AM,On Time,T2-6,ATR 72-600,123,
+AI1356,Air India,Chandigarh,IXC,Chennai,MAA,3:11 AM,4:38 AM,On Time,T1-19,Boeing 737 MAX,87,
+G8275,Go First,Kochi,COK,Lucknow,LKO,5:21 PM,6:40 PM,On Time,T3-35,ATR 72-600,79,
+AI6743,Air India,Delhi,DEL,Pune,PNQ,6:29 AM,7:15 AM,Delayed,T3-23,Airbus A321,46,75
+6E7450,IndiGo,Bengaluru,BLR,Lucknow,LKO,5:52 PM,7:34 PM,On Time,T2-9,Boeing 737 MAX,102,
+QP934,Akasa Air,Kochi,COK,Ahmedabad,AMD,12:56 PM,2:24 PM,On Time,T1-22,ATR 72-600,88,
+UK8932,Vistara,Nagpur,NAG,Bhubaneswar,BBI,4:01 AM,6:00 AM,On Time,T2-17,Airbus A321,119,
+6E9419,IndiGo,Kochi,COK,Chennai,MAA,10:24 AM,1:20 PM,Delayed,T2-40,Boeing 737-800,176,5
+6E5928,IndiGo,Delhi,DEL,Pune,PNQ,3:42 PM,5:51 PM,On Time,T1-1,Airbus A320neo,129,
+SG6687,SpiceJet,Kolkata,CCU,Delhi,DEL,3:27 AM,6:02 AM,On Time,T1-34,Boeing 737 MAX,155,
+SG6829,SpiceJet,Mumbai,BOM,Ahmedabad,AMD,12:14 AM,1:38 AM,Delayed,T1-31,Boeing 737-800,84,25
+QP5003,Akasa Air,Kolkata,CCU,Kochi,COK,6:13 AM,8:06 AM,On Time,T2-29,Airbus A321,113,
+SG5895,SpiceJet,Chandigarh,IXC,Kochi,COK,12:11 AM,2:27 AM,Departed,T1-13,Airbus A320neo,136,5
+6E2290,IndiGo,Kochi,COK,Thiruvananthapuram,TRV,11:18 AM,12:11 PM,On Time,T1-31,ATR 72-600,53,
+IX2046,Air India Express,Kochi,COK,Ahmedabad,AMD,6:46 PM,9:37 PM,Delayed,T1-21,Boeing 737-800,171,75
+I52253,AirAsia India,Mumbai,BOM,Thiruvananthapuram,TRV,12:43 AM,2:00 AM,On Time,T3-1,ATR 72-600,77,
+UK952,Vistara,Lucknow,LKO,Nagpur,NAG,11:40 AM,2:14 PM,Cancelled,T3-1,Boeing 737-800,154,
+G84842,Go First,Hyderabad,HYD,Ahmedabad,AMD,2:49 AM,5:23 AM,On Time,T1-33,Airbus A321,154,
+UK4706,Vistara,Bhubaneswar,BBI,Mumbai,BOM,8:59 AM,10:47 AM,Delayed,T1-31,ATR 72-600,108,35
+AI8330,Air India,Pune,PNQ,Bengaluru,BLR,6:26 AM,7:49 AM,On Time,T1-26,Airbus A320,83,
+IX3248,Air India Express,Thiruvananthapuram,TRV,Bengaluru,BLR,2:33 PM,3:22 PM,On Time,T1-4,Boeing 737-800,49,
+I58701,AirAsia India,Hyderabad,HYD,Chandigarh,IXC,9:37 PM,11:21 PM,On Time,T2-31,Airbus A320,104,
+I5946,AirAsia India,Hyderabad,HYD,Mumbai,BOM,9:11 AM,11:29 AM,On Time,T2-27,Airbus A321,138,
+QP879,Akasa Air,Bengaluru,BLR,Delhi,DEL,12:01 AM,12:59 AM,Delayed,T1-19,Boeing 737-800,58,30
+IX1750,Air India Express,Kochi,COK,Bengaluru,BLR,8:36 AM,11:26 AM,On Time,T2-8,Airbus A320,170,
+6E9140,IndiGo,Bhubaneswar,BBI,Nagpur,NAG,4:26 AM,6:35 AM,On Time,T2-38,Boeing 737 MAX,129,
+QP4003,Akasa Air,Lucknow,LKO,Hyderabad,HYD,7:10 AM,9:33 AM,On Time,T1-9,ATR 72-600,143,
+AI772,Air India,Pune,PNQ,Lucknow,LKO,6:30 AM,8:04 AM,Delayed,T1-5,Boeing 737 MAX,94,120
+QP5039,Akasa Air,Chandigarh,IXC,Ahmedabad,AMD,6:53 AM,8:17 AM,On Time,T1-27,Boeing 737 MAX,84,
+IX9280,Air India Express,Kolkata,CCU,Thiruvananthapuram,TRV,3:18 PM,4:33 PM,Departed,T2-27,Boeing 737 MAX,75,
+6E2835,IndiGo,Pune,PNQ,Hyderabad,HYD,11:46 PM,1:04 AM,On Time,T3-4,ATR 72-600,78,
+UK6612,Vistara,Ahmedabad,AMD,Lucknow,LKO,6:10 PM,9:06 PM,Cancelled,T1-29,Boeing 737 MAX,176,
+I59315,AirAsia India,Bhubaneswar,BBI,Kochi,COK,1:40 PM,3:34 PM,On Time,T1-11,Boeing 737 MAX,114,
+UK9801,Vistara,Chandigarh,IXC,Delhi,DEL,5:30 PM,8:11 PM,On Time,T3-34,Airbus A320neo,161,
+IX3709,Air India Express,Hyderabad,HYD,Chandigarh,IXC,9:09 AM,10:24 AM,On Time,T1-35,Airbus A321,75,
+IX740,Air India Express,Lucknow,LKO,Bengaluru,BLR,9:28 AM,10:47 AM,On Time,T1-16,Airbus A321,79,
+AI122,Air India,Lucknow,LKO,Kolkata,CCU,9:35 PM,11:54 PM,On Time,T3-36,Airbus A320neo,139,
+SG6790,SpiceJet,Thiruvananthapuram,TRV,Pune,PNQ,10:03 AM,12:11 PM,Cancelled,T3-1,Airbus A320neo,128,
+UK4682,Vistara,Bengaluru,BLR,Hyderabad,HYD,12:32 AM,1:44 AM,Delayed,T2-17,ATR 72-600,72,75
+UK7344,Vistara,Chennai,MAA,Kolkata,CCU,9:10 AM,10:47 AM,On Time,T2-10,Boeing 737-800,97,
+UK7209,Vistara,Kolkata,CCU,Bengaluru,BLR,4:21 PM,5:29 PM,On Time,T2-12,Airbus A321,68,
+UK9433,Vistara,Ahmedabad,AMD,Chandigarh,IXC,6:09 AM,8:06 AM,On Time,T1-12,Boeing 737-800,117,
+UK1237,Vistara,Bengaluru,BLR,Mumbai,BOM,2:33 PM,4:20 PM,On Time,T3-26,Airbus A320,107,
+SG293,SpiceJet,Pune,PNQ,Mumbai,BOM,12:53 PM,3:16 PM,On Time,T1-3,Airbus A321,143,
+UK1469,Vistara,Hyderabad,HYD,Bengaluru,BLR,9:24 PM,10:12 PM,Delayed,T1-35,ATR 72-600,48,5
+QP1492,Akasa Air,Chennai,MAA,Bengaluru,BLR,4:23 PM,7:01 PM,Delayed,T2-31,Airbus A321,158,25
+UK1015,Vistara,Goa,GOI,Chandigarh,IXC,9:07 AM,10:23 AM,On Time,T1-7,Boeing 737 MAX,76,
+IX1780,Air India Express,Goa,GOI,Nagpur,NAG,2:10 PM,3:31 PM,On Time,T1-2,Airbus A321,81,
+I56414,AirAsia India,Bengaluru,BLR,Kolkata,CCU,10:22 PM,12:20 AM,On Time,T3-25,ATR 72-600,118,
+AI8157,Air India,Bengaluru,BLR,Mumbai,BOM,7:39 AM,8:50 AM,Cancelled,T2-23,Airbus A320,71,
+QP2039,Akasa Air,Kolkata,CCU,Mumbai,BOM,1:28 AM,2:51 AM,On Time,T3-22,Boeing 737 MAX,83,
+SG7067,SpiceJet,Bengaluru,BLR,Lucknow,LKO,11:27 PM,1:29 AM,On Time,T2-23,Airbus A320,122,
+IX8279,Air India Express,Lucknow,LKO,Kolkata,CCU,9:03 AM,10:07 AM,Delayed,T1-10,Airbus A320neo,64,105
+SG6499,SpiceJet,Ahmedabad,AMD,Chandigarh,IXC,4:19 PM,5:21 PM,On Time,T2-18,Airbus A321,62,
+AI5392,Air India,Bengaluru,BLR,Thiruvananthapuram,TRV,1:08 PM,3:23 PM,On Time,T2-31,ATR 72-600,135,
+I59958,AirAsia India,Bhubaneswar,BBI,Lucknow,LKO,11:22 AM,12:42 PM,Delayed,T1-25,Boeing 737-800,80,60
+G88926,Go First,Goa,GOI,Ahmedabad,AMD,6:10 PM,7:53 PM,On Time,T3-27,Boeing 737 MAX,103,
+UK1529,Vistara,Chennai,MAA,Kolkata,CCU,12:05 AM,1:42 AM,Cancelled,T1-24,Boeing 737 MAX,97,
+G82288,Go First,Thiruvananthapuram,TRV,Mumbai,BOM,2:02 AM,4:16 AM,On Time,T1-19,Boeing 737-800,134,
+SG9135,SpiceJet,Thiruvananthapuram,TRV,Kochi,COK,8:16 AM,9:54 AM,Delayed,T3-9,Airbus A320,98,5
+SG6284,SpiceJet,Chandigarh,IXC,Delhi,DEL,11:45 PM,2:18 AM,On Time,T3-7,ATR 72-600,153,
+AI7912,Air India,Nagpur,NAG,Pune,PNQ,5:23 AM,6:15 AM,On Time,T1-6,Airbus A321,52,
+AI304,Air India,Pune,PNQ,Nagpur,NAG,2:12 PM,3:35 PM,Delayed,T3-9,ATR 72-600,83,40
+IX7803,Air India Express,Kochi,COK,Chandigarh,IXC,11:30 AM,2:08 PM,Delayed,T1-19,Airbus A320,158,75
+SG1083,SpiceJet,Thiruvananthapuram,TRV,Lucknow,LKO,1:05 AM,2:34 AM,On Time,T1-26,Boeing 737-800,89,
+G89179,Go First,Chandigarh,IXC,Nagpur,NAG,8:48 AM,11:41 AM,On Time,T1-28,Airbus A321,173,
+IX1606,Air India Express,Goa,GOI,Kochi,COK,4:16 AM,5:55 AM,On Time,T1-15,Boeing 737-800,99,
+SG9263,SpiceJet,Pune,PNQ,Nagpur,NAG,2:38 AM,5:22 AM,On Time,T3-26,Boeing 737-800,164,
+SG995,SpiceJet,Bhubaneswar,BBI,Kolkata,CCU,10:04 PM,12:37 AM,On Time,T1-7,Airbus A320,153,
+QP559,Akasa Air,Chennai,MAA,Hyderabad,HYD,5:33 AM,6:45 AM,On Time,T3-1,Airbus A320neo,72,
+UK9138,Vistara,Chennai,MAA,Lucknow,LKO,1:06 AM,2:52 AM,On Time,T3-37,Airbus A320,106,
+G8848,Go First,Delhi,DEL,Kolkata,CCU,3:10 AM,5:14 AM,On Time,T2-19,Boeing 737-800,124,
+UK5252,Vistara,Bhubaneswar,BBI,Kochi,COK,12:08 PM,1:26 PM,Delayed,T2-27,ATR 72-600,78,10
+AI8327,Air India,Bhubaneswar,BBI,Thiruvananthapuram,TRV,5:07 AM,5:58 AM,On Time,T2-31,Boeing 737 MAX,51,
+6E4853,IndiGo,Bengaluru,BLR,Thiruvananthapuram,TRV,11:17 PM,2:00 AM,On Time,T3-6,ATR 72-600,163,
+UK3633,Vistara,Bhubaneswar,BBI,Lucknow,LKO,10:19 PM,11:40 PM,Delayed,T3-34,ATR 72-600,81,15
+QP7431,Akasa Air,Bhubaneswar,BBI,Bengaluru,BLR,11:34 AM,1:33 PM,On Time,T2-3,ATR 72-600,119,
+I54017,AirAsia India,Chennai,MAA,Pune,PNQ,8:42 PM,9:46 PM,Cancelled,T3-32,Airbus A320,64,
+6E2436,IndiGo,Bhubaneswar,BBI,Nagpur,NAG,10:33 AM,11:40 AM,On Time,T2-21,Airbus A321,67,
+IX2745,Air India Express,Mumbai,BOM,Hyderabad,HYD,7:40 PM,9:58 PM,On Time,T1-12,ATR 72-600,138,
+G84326,Go First,Ahmedabad,AMD,Hyderabad,HYD,3:05 PM,4:25 PM,Departed,T2-3,Airbus A320neo,80,20
+IX6668,Air India Express,Kochi,COK,Nagpur,NAG,9:09 PM,10:27 PM,On Time,T3-40,Airbus A320neo,78,
+QP1467,Akasa Air,Lucknow,LKO,Kochi,COK,5:16 PM,7:56 PM,On Time,T3-3,Boeing 737 MAX,160,
+6E4111,IndiGo,Chandigarh,IXC,Nagpur,NAG,7:08 PM,7:55 PM,On Time,T1-19,Boeing 737-800,47,
+SG9441,SpiceJet,Kochi,COK,Nagpur,NAG,2:29 AM,4:11 AM,On Time,T2-6,Airbus A320neo,102,
+G87775,Go First,Lucknow,LKO,Goa,GOI,3:52 PM,5:04 PM,On Time,T3-7,Boeing 737-800,72,
+I53368,AirAsia India,Kochi,COK,Kolkata,CCU,2:12 AM,4:18 AM,On Time,T3-32,Airbus A321,126,
+G81973,Go First,Hyderabad,HYD,Ahmedabad,AMD,1:18 AM,2:42 AM,Departed,T3-14,Airbus A320neo,84,5
+6E9948,IndiGo,Bhubaneswar,BBI,Kochi,COK,2:07 AM,4:24 AM,Delayed,T1-4,Airbus A321,137,40
+6E7029,IndiGo,Hyderabad,HYD,Thiruvananthapuram,TRV,9:41 PM,11:11 PM,On Time,T1-18,Boeing 737-800,90,
+AI4987,Air India,Nagpur,NAG,Chandigarh,IXC,3:24 PM,5:56 PM,On Time,T3-17,Airbus A321,152,
+6E1614,IndiGo,Thiruvananthapuram,TRV,Kochi,COK,11:40 AM,1:41 PM,On Time,T2-27,Boeing 737-800,121,
+G88873,Go First,Chandigarh,IXC,Bhubaneswar,BBI,5:29 AM,8:05 AM,On Time,T3-37,Boeing 737-800,156,
+6E9289,IndiGo,Bhubaneswar,BBI,Pune,PNQ,6:46 AM,7:50 AM,Delayed,T3-10,Airbus A320neo,64,50
+QP332,Akasa Air,Bengaluru,BLR,Ahmedabad,AMD,5:02 AM,7:54 AM,Departed,T3-27,Airbus A320neo,172,
+6E7481,IndiGo,Nagpur,NAG,Thiruvananthapuram,TRV,4:17 AM,6:57 AM,On Time,T3-7,Airbus A320,160,
+UK3174,Vistara,Kochi,COK,Chandigarh,IXC,6:38 PM,8:05 PM,On Time,T1-23,Airbus A321,87,
+UK9550,Vistara,Delhi,DEL,Kolkata,CCU,12:25 PM,1:14 PM,On Time,T2-33,Airbus A320,49,
+G87571,Go First,Kochi,COK,Thiruvananthapuram,TRV,12:00 PM,2:15 PM,Delayed,T3-22,Airbus A320,135,35
+SG7617,SpiceJet,Kochi,COK,Kolkata,CCU,6:02 AM,7:28 AM,On Time,T2-19,ATR 72-600,86,
+I54740,AirAsia India,Chandigarh,IXC,Pune,PNQ,3:23 AM,4:30 AM,Delayed,T1-2,Boeing 737 MAX,67,10
+I51798,AirAsia India,Ahmedabad,AMD,Chandigarh,IXC,9:17 PM,10:27 PM,On Time,T3-38,Airbus A320,70,
+IX6991,Air India Express,Chennai,MAA,Thiruvananthapuram,TRV,3:31 PM,5:53 PM,On Time,T2-8,Airbus A320neo,142,
+G86865,Go First,Thiruvananthapuram,TRV,Nagpur,NAG,10:00 PM,12:26 AM,On Time,T2-15,Boeing 737 MAX,146,
+IX4484,Air India Express,Thiruvananthapuram,TRV,Lucknow,LKO,9:01 AM,11:04 AM,Delayed,T2-16,Airbus A320,123,90
+I5635,AirAsia India,Delhi,DEL,Thiruvananthapuram,TRV,5:14 AM,7:34 AM,Delayed,T3-39,Airbus A320neo,140,45
+QP2892,Akasa Air,Pune,PNQ,Kochi,COK,8:15 AM,10:40 AM,On Time,T3-26,Airbus A320,145,
+I52211,AirAsia India,Lucknow,LKO,Kochi,COK,5:55 AM,8:23 AM,Departed,T1-28,Airbus A321,148,20
+AI2169,Air India,Goa,GOI,Mumbai,BOM,9:33 PM,11:58 PM,Delayed,T2-36,Airbus A321,145,60
+QP3438,Akasa Air,Mumbai,BOM,Thiruvananthapuram,TRV,12:52 AM,3:28 AM,On Time,T3-10,Airbus A320,156,
+I5514,AirAsia India,Chandigarh,IXC,Thiruvananthapuram,TRV,4:27 AM,7:08 AM,On Time,T2-12,Airbus A321,161,
+UK4964,Vistara,Chennai,MAA,Goa,GOI,8:22 AM,10:43 AM,Delayed,T1-18,Airbus A320,141,60
+SG479,SpiceJet,Lucknow,LKO,Pune,PNQ,3:31 AM,4:44 AM,On Time,T3-8,Airbus A320,73,
+SG4727,SpiceJet,Hyderabad,HYD,Bengaluru,BLR,3:10 AM,4:14 AM,On Time,T2-14,Boeing 737-800,64,
+AI8145,Air India,Bhubaneswar,BBI,Delhi,DEL,2:07 PM,3:10 PM,On Time,T3-5,Airbus A321,63,
+I56248,AirAsia India,Thiruvananthapuram,TRV,Kolkata,CCU,9:37 PM,12:17 AM,Delayed,T2-1,Airbus A321,160,15
+6E2020,IndiGo,Kolkata,CCU,Thiruvananthapuram,TRV,4:31 PM,5:17 PM,On Time,T3-17,Airbus A320,46,
+UK584,Vistara,Goa,GOI,Delhi,DEL,5:40 PM,8:36 PM,Delayed,T2-8,Airbus A321,176,20
+6E5466,IndiGo,Bengaluru,BLR,Chennai,MAA,2:50 AM,4:07 AM,On Time,T2-13,Airbus A320,77,
+QP9135,Akasa Air,Lucknow,LKO,Hyderabad,HYD,3:56 PM,6:47 PM,On Time,T2-13,Airbus A320neo,171,
+SG3342,SpiceJet,Lucknow,LKO,Nagpur,NAG,9:35 AM,12:00 PM,On Time,T3-20,Airbus A321,145,
+UK8092,Vistara,Kochi,COK,Ahmedabad,AMD,2:27 PM,4:21 PM,Delayed,T1-39,Boeing 737-800,114,50
+I53372,AirAsia India,Pune,PNQ,Kolkata,CCU,12:45 PM,1:46 PM,On Time,T1-33,Airbus A320neo,61,
+I54908,AirAsia India,Pune,PNQ,Nagpur,NAG,10:01 PM,1:01 AM,On Time,T1-8,Airbus A321,180,
+QP7135,Akasa Air,Bhubaneswar,BBI,Bengaluru,BLR,12:12 PM,1:59 PM,On Time,T3-24,Airbus A320neo,107,
+SG5251,SpiceJet,Mumbai,BOM,Delhi,DEL,10:52 AM,11:39 AM,Delayed,T2-37,Airbus A320neo,47,20
+UK9301,Vistara,Mumbai,BOM,Kochi,COK,9:40 AM,11:19 AM,On Time,T1-36,Airbus A320neo,99,
+AI9503,Air India,Thiruvananthapuram,TRV,Lucknow,LKO,2:23 PM,4:59 PM,On Time,T2-13,Airbus A321,156,
+6E8192,IndiGo,Ahmedabad,AMD,Delhi,DEL,9:22 AM,11:54 AM,On Time,T2-11,Boeing 737 MAX,152,
+QP9785,Akasa Air,Kochi,COK,Chennai,MAA,7:40 PM,8:30 PM,On Time,T3-37,Airbus A320,50,
+G84759,Go First,Bengaluru,BLR,Nagpur,NAG,1:44 PM,2:38 PM,Departed,T1-22,ATR 72-600,54,20
+6E1237,IndiGo,Ahmedabad,AMD,Mumbai,BOM,2:10 PM,4:12 PM,On Time,T2-26,Airbus A320,122,
+QP8190,Akasa Air,Pune,PNQ,Delhi,DEL,1:25 PM,3:26 PM,Delayed,T2-8,Airbus A320neo,121,40
+AI579,Air India,Chennai,MAA,Delhi,DEL,12:21 AM,1:41 AM,On Time,T2-28,Airbus A321,80,
+SG1542,SpiceJet,Chennai,MAA,Chandigarh,IXC,12:35 PM,1:21 PM,Departed,T2-3,Airbus A320,46,
+6E5085,IndiGo,Mumbai,BOM,Hyderabad,HYD,11:14 AM,1:36 PM,On Time,T1-9,Boeing 737 MAX,142,
+G82064,Go First,Bengaluru,BLR,Kolkata,CCU,5:03 AM,7:33 AM,On Time,T3-8,Boeing 737 MAX,150,
+UK9568,Vistara,Ahmedabad,AMD,Lucknow,LKO,4:43 PM,6:39 PM,On Time,T3-31,Airbus A321,116,
+AI4422,Air India,Bhubaneswar,BBI,Hyderabad,HYD,2:49 AM,5:04 AM,On Time,T1-14,ATR 72-600,135,
+AI1331,Air India,Ahmedabad,AMD,Delhi,DEL,7:15 AM,8:03 AM,Delayed,T2-13,Boeing 737-800,48,40
+AI5677,Air India,Chennai,MAA,Nagpur,NAG,8:09 PM,11:09 PM,On Time,T2-20,ATR 72-600,180,
+G82623,Go First,Nagpur,NAG,Goa,GOI,3:36 AM,4:54 AM,On Time,T2-25,Boeing 737-800,78,
+UK6656,Vistara,Chennai,MAA,Mumbai,BOM,9:29 AM,12:02 PM,On Time,T2-37,ATR 72-600,153,
+AI2513,Air India,Ahmedabad,AMD,Mumbai,BOM,3:45 AM,5:31 AM,On Time,T2-12,Airbus A320neo,106,
+6E7902,IndiGo,Lucknow,LKO,Goa,GOI,3:27 PM,5:42 PM,On Time,T3-6,Airbus A320neo,135,
+I53574,AirAsia India,Bengaluru,BLR,Kochi,COK,5:08 PM,7:43 PM,On Time,T1-29,Airbus A320neo,155,
+QP1702,Akasa Air,Delhi,DEL,Lucknow,LKO,1:03 PM,3:36 PM,On Time,T1-26,Airbus A321,153,
+IX8776,Air India Express,Pune,PNQ,Ahmedabad,AMD,5:42 PM,8:17 PM,On Time,T1-16,Airbus A320,155,
+UK1987,Vistara,Delhi,DEL,Thiruvananthapuram,TRV,7:38 PM,9:31 PM,On Time,T3-7,Airbus A320neo,113,
+UK6728,Vistara,Kochi,COK,Thiruvananthapuram,TRV,3:27 AM,5:08 AM,Delayed,T3-18,Boeing 737-800,101,120
+UK2902,Vistara,Bhubaneswar,BBI,Chennai,MAA,11:51 AM,1:49 PM,Delayed,T3-1,Airbus A320,118,25
+SG8345,SpiceJet,Thiruvananthapuram,TRV,Chandigarh,IXC,9:14 PM,12:01 AM,Delayed,T3-16,Airbus A321,167,105
+QP1237,Akasa Air,Bengaluru,BLR,Thiruvananthapuram,TRV,11:20 AM,2:01 PM,On Time,T1-31,Boeing 737-800,161,
+QP441,Akasa Air,Bengaluru,BLR,Hyderabad,HYD,2:37 AM,4:05 AM,Delayed,T1-39,Airbus A320neo,88,105
+G89654,Go First,Delhi,DEL,Ahmedabad,AMD,8:26 AM,11:11 AM,On Time,T1-37,ATR 72-600,165,
+IX3840,Air India Express,Goa,GOI,Thiruvananthapuram,TRV,5:42 AM,7:04 AM,Delayed,T2-22,Boeing 737-800,82,10
+G85847,Go First,Goa,GOI,Hyderabad,HYD,10:38 PM,1:27 AM,On Time,T2-1,Airbus A320neo,169,
+IX5567,Air India Express,Thiruvananthapuram,TRV,Goa,GOI,10:39 PM,1:27 AM,On Time,T3-34,ATR 72-600,168,
+6E2523,IndiGo,Kochi,COK,Nagpur,NAG,7:31 AM,8:52 AM,On Time,T1-16,Boeing 737 MAX,81,
+I55988,AirAsia India,Chennai,MAA,Chandigarh,IXC,3:02 AM,4:36 AM,Departed,T3-7,Airbus A320neo,94,15
+G88732,Go First,Bengaluru,BLR,Hyderabad,HYD,11:10 PM,1:24 AM,Departed,T3-27,Airbus A320neo,134,15
+IX3222,Air India Express,Delhi,DEL,Pune,PNQ,5:45 PM,7:57 PM,Delayed,T2-30,Boeing 737 MAX,132,10
+QP4825,Akasa Air,Mumbai,BOM,Delhi,DEL,5:01 PM,6:23 PM,On Time,T1-34,Airbus A320neo,82,
+SG5074,SpiceJet,Ahmedabad,AMD,Hyderabad,HYD,2:12 AM,4:12 AM,On Time,T1-14,Airbus A320neo,120,
+AI971,Air India,Ahmedabad,AMD,Hyderabad,HYD,12:10 AM,2:45 AM,On Time,T1-4,Airbus A320neo,155,
+SG5837,SpiceJet,Thiruvananthapuram,TRV,Hyderabad,HYD,5:08 PM,6:32 PM,Cancelled,T3-18,Airbus A321,84,
+UK7178,Vistara,Pune,PNQ,Mumbai,BOM,9:55 AM,11:36 AM,On Time,T2-16,ATR 72-600,101,
+I57023,AirAsia India,Kochi,COK,Mumbai,BOM,8:55 AM,10:57 AM,On Time,T1-37,Boeing 737-800,122,
+QP9572,Akasa Air,Bengaluru,BLR,Lucknow,LKO,6:48 AM,8:37 AM,On Time,T3-13,Airbus A320neo,109,
+IX1502,Air India Express,Hyderabad,HYD,Pune,PNQ,9:26 PM,12:09 AM,On Time,T2-28,Airbus A320,163,
+SG8727,SpiceJet,Ahmedabad,AMD,Chandigarh,IXC,10:41 AM,1:34 PM,Departed,T2-23,Boeing 737-800,173,10
+G86989,Go First,Kochi,COK,Ahmedabad,AMD,12:56 AM,1:47 AM,Cancelled,T2-6,Airbus A321,51,
+IX4075,Air India Express,Pune,PNQ,Goa,GOI,12:44 PM,2:01 PM,On Time,T3-19,Airbus A320,77,
+I52163,AirAsia India,Kochi,COK,Lucknow,LKO,12:12 AM,2:55 AM,Delayed,T3-30,Airbus A320,163,105
+AI996,Air India,Hyderabad,HYD,Nagpur,NAG,10:10 PM,11:22 PM,On Time,T1-19,Boeing 737 MAX,72,
+G85528,Go First,Nagpur,NAG,Delhi,DEL,4:08 AM,7:03 AM,Delayed,T3-14,Boeing 737 MAX,175,5
+SG9308,SpiceJet,Chandigarh,IXC,Ahmedabad,AMD,4:39 AM,6:21 AM,Departed,T2-20,ATR 72-600,102,5
+6E8045,IndiGo,Pune,PNQ,Chandigarh,IXC,6:51 AM,8:05 AM,On Time,T1-39,Airbus A320,74,
+AI4150,Air India,Chennai,MAA,Mumbai,BOM,4:10 PM,5:01 PM,Delayed,T2-4,Airbus A320,51,40
+IX6728,Air India Express,Ahmedabad,AMD,Bengaluru,BLR,8:01 AM,9:52 AM,Delayed,T2-40,Airbus A320,111,60
+I52496,AirAsia India,Lucknow,LKO,Delhi,DEL,6:18 AM,7:39 AM,Delayed,T1-11,Boeing 737 MAX,81,60
+UK7901,Vistara,Ahmedabad,AMD,Hyderabad,HYD,9:52 AM,11:02 AM,Cancelled,T2-24,ATR 72-600,70,
+IX6509,Air India Express,Kochi,COK,Chandigarh,IXC,3:39 AM,6:22 AM,On Time,T2-10,Airbus A320,163,
+IX7588,Air India Express,Mumbai,BOM,Pune,PNQ,1:17 PM,2:04 PM,On Time,T1-40,Boeing 737-800,47,
+6E5911,IndiGo,Bengaluru,BLR,Ahmedabad,AMD,3:38 PM,5:33 PM,On Time,T1-23,Boeing 737 MAX,115,
+UK5815,Vistara,Thiruvananthapuram,TRV,Chandigarh,IXC,5:55 PM,8:19 PM,On Time,T1-10,Airbus A320neo,144,
+QP7628,Akasa Air,Chandigarh,IXC,Nagpur,NAG,4:46 AM,6:42 AM,Delayed,T2-26,Airbus A320,116,60
+G86268,Go First,Ahmedabad,AMD,Pune,PNQ,10:29 PM,12:00 AM,On Time,T3-34,Airbus A320neo,91,
+SG5409,SpiceJet,Pune,PNQ,Thiruvananthapuram,TRV,11:52 AM,2:20 PM,On Time,T1-11,Airbus A321,148,
+AI1840,Air India,Ahmedabad,AMD,Lucknow,LKO,4:15 PM,6:22 PM,Delayed,T3-16,Airbus A320,127,90
+SG6392,SpiceJet,Bhubaneswar,BBI,Kochi,COK,2:11 AM,3:11 AM,On Time,T1-3,ATR 72-600,60,
+AI7334,Air India,Bhubaneswar,BBI,Kolkata,CCU,8:42 PM,9:34 PM,Departed,T1-29,Boeing 737-800,52,10
+SG9500,SpiceJet,Goa,GOI,Chennai,MAA,6:40 AM,8:29 AM,On Time,T3-19,Airbus A321,109,
+UK2755,Vistara,Kochi,COK,Nagpur,NAG,6:02 PM,7:36 PM,On Time,T1-7,Airbus A321,94,
+6E2402,IndiGo,Thiruvananthapuram,TRV,Delhi,DEL,12:16 PM,2:45 PM,On Time,T1-22,Airbus A321,149,
+G83215,Go First,Nagpur,NAG,Chennai,MAA,7:28 PM,10:14 PM,On Time,T2-40,Boeing 737 MAX,166,
+SG1200,SpiceJet,Ahmedabad,AMD,Kochi,COK,9:20 PM,11:41 PM,Departed,T1-9,Boeing 737 MAX,141,20
+IX1753,Air India Express,Mumbai,BOM,Ahmedabad,AMD,7:52 AM,8:50 AM,On Time,T2-2,Airbus A321,58,
+IX4218,Air India Express,Kochi,COK,Chandigarh,IXC,12:12 PM,1:14 PM,Departed,T2-5,Boeing 737 MAX,62,5
+UK8582,Vistara,Thiruvananthapuram,TRV,Pune,PNQ,5:04 PM,7:08 PM,On Time,T1-35,ATR 72-600,124,
+AI9648,Air India,Ahmedabad,AMD,Hyderabad,HYD,10:17 PM,11:09 PM,On Time,T2-17,Airbus A321,52,
+QP1073,Akasa Air,Bengaluru,BLR,Chennai,MAA,6:40 PM,8:49 PM,Departed,T1-32,Airbus A320,129,
+6E5766,IndiGo,Mumbai,BOM,Kochi,COK,8:25 PM,9:30 PM,Departed,T1-18,ATR 72-600,65,15
+6E1804,IndiGo,Delhi,DEL,Ahmedabad,AMD,5:19 PM,7:01 PM,Delayed,T2-20,Airbus A321,102,35
+6E1006,IndiGo,Delhi,DEL,Bhubaneswar,BBI,6:41 AM,9:03 AM,Delayed,T1-36,Boeing 737-800,142,75
+6E6442,IndiGo,Bhubaneswar,BBI,Kochi,COK,11:44 PM,1:01 AM,On Time,T2-36,Airbus A321,77,
+AI7275,Air India,Mumbai,BOM,Pune,PNQ,12:33 PM,2:48 PM,On Time,T2-4,Airbus A321,135,
+UK1607,Vistara,Pune,PNQ,Delhi,DEL,7:45 AM,10:15 AM,Delayed,T3-37,Airbus A320,150,120
+6E4194,IndiGo,Nagpur,NAG,Delhi,DEL,2:36 AM,3:35 AM,On Time,T1-19,Airbus A320,59,
+QP5828,Akasa Air,Pune,PNQ,Lucknow,LKO,8:20 AM,10:19 AM,On Time,T2-31,ATR 72-600,119,
+AI1358,Air India,Mumbai,BOM,Hyderabad,HYD,6:33 PM,8:10 PM,On Time,T3-23,Airbus A321,97,
+G85059,Go First,Kolkata,CCU,Bhubaneswar,BBI,6:49 PM,8:48 PM,Departed,T3-18,Airbus A320neo,119,5
+AI984,Air India,Kolkata,CCU,Kochi,COK,9:13 PM,12:02 AM,On Time,T1-9,Boeing 737 MAX,169,
+UK5096,Vistara,Chandigarh,IXC,Goa,GOI,7:11 AM,8:27 AM,On Time,T1-3,Airbus A321,76,
+G87534,Go First,Mumbai,BOM,Delhi,DEL,5:01 PM,5:54 PM,On Time,T3-25,Airbus A320neo,53,
+AI1078,Air India,Hyderabad,HYD,Nagpur,NAG,8:48 PM,11:11 PM,On Time,T2-25,Boeing 737-800,143,
+6E3777,IndiGo,Chennai,MAA,Kochi,COK,6:17 AM,8:52 AM,On Time,T3-20,Airbus A320,155,
+QP525,Akasa Air,Thiruvananthapuram,TRV,Pune,PNQ,11:28 AM,1:20 PM,Delayed,T1-2,Airbus A320neo,112,50
+I57104,AirAsia India,Bhubaneswar,BBI,Chandigarh,IXC,1:56 AM,3:08 AM,On Time,T3-19,Boeing 737 MAX,72,
+G87044,Go First,Pune,PNQ,Chandigarh,IXC,7:23 PM,10:20 PM,On Time,T2-30,ATR 72-600,177,
+UK2260,Vistara,Thiruvananthapuram,TRV,Delhi,DEL,9:34 AM,11:29 AM,On Time,T1-35,Airbus A320neo,115,
+QP9456,Akasa Air,Kochi,COK,Delhi,DEL,9:00 PM,10:55 PM,On Time,T3-17,ATR 72-600,115,
+6E2136,IndiGo,Hyderabad,HYD,Pune,PNQ,10:33 PM,12:40 AM,Delayed,T1-29,Boeing 737-800,127,105
+6E7307,IndiGo,Delhi,DEL,Ahmedabad,AMD,1:15 AM,3:31 AM,On Time,T3-14,Boeing 737-800,136,
+6E9595,IndiGo,Mumbai,BOM,Hyderabad,HYD,8:49 PM,10:54 PM,Cancelled,T2-12,Airbus A320neo,125,
+IX4352,Air India Express,Nagpur,NAG,Ahmedabad,AMD,4:20 AM,6:03 AM,On Time,T1-40,ATR 72-600,103,
+6E3912,IndiGo,Mumbai,BOM,Lucknow,LKO,1:18 AM,2:50 AM,Delayed,T2-38,Airbus A320neo,92,105
+6E9167,IndiGo,Chandigarh,IXC,Chennai,MAA,2:04 AM,3:55 AM,Cancelled,T1-23,Boeing 737 MAX,111,
+6E9939,IndiGo,Chennai,MAA,Kolkata,CCU,3:43 AM,4:47 AM,On Time,T1-33,Airbus A320,64,
+UK3443,Vistara,Kolkata,CCU,Pune,PNQ,12:40 PM,3:11 PM,On Time,T2-19,Airbus A321,151,
+6E5450,IndiGo,Pune,PNQ,Bhubaneswar,BBI,12:17 PM,2:27 PM,Cancelled,T3-24,Boeing 737-800,130,
+IX610,Air India Express,Bengaluru,BLR,Kolkata,CCU,1:31 AM,3:30 AM,Departed,T1-7,Boeing 737 MAX,119,20
+UK5229,Vistara,Goa,GOI,Chandigarh,IXC,5:20 PM,7:33 PM,Departed,T3-3,ATR 72-600,133,15
+SG6343,SpiceJet,Bhubaneswar,BBI,Lucknow,LKO,2:40 AM,3:44 AM,Cancelled,T1-37,Boeing 737 MAX,64,
+I58930,AirAsia India,Chandigarh,IXC,Mumbai,BOM,6:00 PM,6:58 PM,On Time,T3-34,Boeing 737 MAX,58,
+G85292,Go First,Hyderabad,HYD,Chennai,MAA,7:38 PM,9:38 PM,Departed,T1-24,Airbus A321,120,10
+G85257,Go First,Chandigarh,IXC,Mumbai,BOM,11:39 PM,1:25 AM,On Time,T2-24,Airbus A320,106,
+QP9282,Akasa Air,Goa,GOI,Mumbai,BOM,12:21 PM,3:09 PM,On Time,T2-27,Airbus A321,168,
+SG8908,SpiceJet,Chennai,MAA,Bhubaneswar,BBI,1:54 PM,3:14 PM,On Time,T2-22,Airbus A320neo,80,
+AI1435,Air India,Kochi,COK,Thiruvananthapuram,TRV,5:14 PM,6:36 PM,On Time,T3-13,Airbus A321,82,
+G8354,Go First,Bengaluru,BLR,Mumbai,BOM,2:17 PM,4:09 PM,Delayed,T2-7,Airbus A321,112,75
+6E7168,IndiGo,Delhi,DEL,Chandigarh,IXC,5:41 AM,6:44 AM,On Time,T3-25,Boeing 737-800,63,
+QP2188,Akasa Air,Kochi,COK,Chandigarh,IXC,7:00 PM,8:46 PM,Delayed,T2-22,Boeing 737 MAX,106,10
+AI841,Air India,Mumbai,BOM,Chandigarh,IXC,12:06 PM,2:45 PM,Departed,T3-28,Airbus A320neo,159,15
+G82305,Go First,Chandigarh,IXC,Bengaluru,BLR,8:07 PM,11:02 PM,On Time,T1-38,Boeing 737 MAX,175,
+QP7530,Akasa Air,Kochi,COK,Kolkata,CCU,2:58 PM,4:28 PM,On Time,T3-18,Airbus A320,90,
+UK4971,Vistara,Ahmedabad,AMD,Kolkata,CCU,1:38 AM,4:35 AM,Departed,T3-28,Airbus A320neo,177,20
+QP6392,Akasa Air,Kolkata,CCU,Bhubaneswar,BBI,6:05 AM,7:26 AM,On Time,T3-14,Boeing 737-800,81,
+IX9523,Air India Express,Thiruvananthapuram,TRV,Pune,PNQ,10:43 AM,11:53 AM,On Time,T1-8,Airbus A320neo,70,
+IX8073,Air India Express,Ahmedabad,AMD,Chennai,MAA,5:46 AM,7:44 AM,Departed,T3-7,Airbus A321,118,10
+IX2410,Air India Express,Mumbai,BOM,Chennai,MAA,6:50 PM,9:45 PM,Delayed,T3-3,Boeing 737 MAX,175,5
+UK209,Vistara,Ahmedabad,AMD,Nagpur,NAG,12:52 AM,3:11 AM,On Time,T3-28,ATR 72-600,139,
+G88634,Go First,Bengaluru,BLR,Nagpur,NAG,3:29 PM,5:29 PM,Departed,T2-28,Boeing 737-800,120,
+IX1523,Air India Express,Nagpur,NAG,Bengaluru,BLR,9:30 AM,10:44 AM,Cancelled,T1-15,ATR 72-600,74,
+AI5459,Air India,Bengaluru,BLR,Goa,GOI,11:26 AM,1:21 PM,On Time,T3-33,ATR 72-600,115,
+AI5257,Air India,Thiruvananthapuram,TRV,Delhi,DEL,2:47 PM,3:57 PM,Departed,T2-13,Boeing 737 MAX,70,20
+6E230,IndiGo,Chennai,MAA,Bengaluru,BLR,8:00 PM,10:21 PM,Departed,T3-13,Airbus A320neo,141,5
+G82581,Go First,Ahmedabad,AMD,Nagpur,NAG,6:23 AM,9:15 AM,On Time,T1-6,Boeing 737 MAX,172,
+UK152,Vistara,Kochi,COK,Mumbai,BOM,4:44 PM,6:22 PM,Delayed,T2-17,Boeing 737 MAX,98,5
+I59666,AirAsia India,Chennai,MAA,Lucknow,LKO,11:54 AM,2:42 PM,On Time,T1-20,Airbus A321,168,
+IX8047,Air India Express,Ahmedabad,AMD,Bhubaneswar,BBI,9:30 PM,11:55 PM,On Time,T3-31,Airbus A320neo,145,
+AI3686,Air India,Mumbai,BOM,Bhubaneswar,BBI,9:48 AM,12:20 PM,Cancelled,T2-16,ATR 72-600,152,
+I51997,AirAsia India,Bengaluru,BLR,Ahmedabad,AMD,10:53 AM,12:07 PM,On Time,T2-9,Boeing 737-800,74,
+G89947,Go First,Kochi,COK,Lucknow,LKO,8:00 AM,8:52 AM,On Time,T3-14,Boeing 737-800,52,
+6E9312,IndiGo,Bhubaneswar,BBI,Kolkata,CCU,8:55 AM,11:01 AM,On Time,T2-28,Boeing 737-800,126,
+IX995,Air India Express,Hyderabad,HYD,Ahmedabad,AMD,7:28 AM,9:39 AM,On Time,T1-20,Boeing 737-800,131,
+I53725,AirAsia India,Pune,PNQ,Bengaluru,BLR,6:17 PM,7:54 PM,Delayed,T3-40,Airbus A320neo,97,10
+SG8943,SpiceJet,Delhi,DEL,Chandigarh,IXC,12:43 AM,3:05 AM,On Time,T3-22,Airbus A320neo,142,
+AI906,Air India,Goa,GOI,Chennai,MAA,12:21 PM,1:56 PM,Cancelled,T3-26,ATR 72-600,95,
+UK4854,Vistara,Bhubaneswar,BBI,Bengaluru,BLR,12:45 PM,2:54 PM,On Time,T3-16,Airbus A320,129,
+6E428,IndiGo,Bhubaneswar,BBI,Goa,GOI,3:29 AM,6:22 AM,On Time,T2-3,Airbus A321,173,
+IX5039,Air India Express,Delhi,DEL,Chennai,MAA,9:33 PM,11:21 PM,On Time,T3-8,Boeing 737-800,108,
+I52249,AirAsia India,Nagpur,NAG,Chandigarh,IXC,9:12 AM,10:18 AM,On Time,T3-27,Airbus A320,66,
+6E8975,IndiGo,Pune,PNQ,Bengaluru,BLR,3:15 AM,5:40 AM,On Time,T3-20,Airbus A320neo,145,
+I58494,AirAsia India,Chandigarh,IXC,Delhi,DEL,10:18 AM,12:13 PM,On Time,T1-17,ATR 72-600,115,
+G86269,Go First,Hyderabad,HYD,Kochi,COK,3:10 AM,4:51 AM,Cancelled,T3-18,Boeing 737-800,101,
+IX8836,Air India Express,Goa,GOI,Chennai,MAA,1:03 PM,1:52 PM,Cancelled,T3-26,Airbus A320neo,49,
+AI7509,Air India,Chennai,MAA,Pune,PNQ,12:50 AM,3:16 AM,Delayed,T2-31,Boeing 737 MAX,146,40
+AI5189,Air India,Kolkata,CCU,Bengaluru,BLR,9:30 PM,10:36 PM,On Time,T1-14,Boeing 737-800,66,
+UK1474,Vistara,Bengaluru,BLR,Kochi,COK,9:02 PM,11:48 PM,On Time,T3-15,Airbus A320,166,
+G84229,Go First,Kochi,COK,Hyderabad,HYD,11:31 AM,12:54 PM,On Time,T3-37,Boeing 737 MAX,83,
+I5191,AirAsia India,Hyderabad,HYD,Chandigarh,IXC,7:08 AM,9:58 AM,On Time,T2-16,Airbus A320neo,170,
+G88013,Go First,Goa,GOI,Thiruvananthapuram,TRV,2:46 AM,3:57 AM,On Time,T1-25,Airbus A321,71,
+6E2755,IndiGo,Goa,GOI,Chandigarh,IXC,4:08 AM,5:35 AM,On Time,T1-3,Boeing 737-800,87,
+G82897,Go First,Lucknow,LKO,Bhubaneswar,BBI,5:54 PM,8:43 PM,On Time,T3-27,Boeing 737-800,169,
+6E4961,IndiGo,Mumbai,BOM,Kochi,COK,10:02 AM,11:56 AM,On Time,T3-24,Boeing 737 MAX,114,
+SG2418,SpiceJet,Hyderabad,HYD,Goa,GOI,11:22 PM,12:59 AM,Delayed,T2-34,Boeing 737 MAX,97,75
+IX7835,Air India Express,Ahmedabad,AMD,Chennai,MAA,11:16 AM,12:35 PM,On Time,T3-31,Airbus A320,79,
+QP6920,Akasa Air,Bengaluru,BLR,Thiruvananthapuram,TRV,4:03 PM,5:05 PM,Cancelled,T1-20,ATR 72-600,62,
+UK3364,Vistara,Chandigarh,IXC,Mumbai,BOM,6:21 PM,9:03 PM,On Time,T1-40,Boeing 737-800,162,
+SG1193,SpiceJet,Kolkata,CCU,Lucknow,LKO,7:05 PM,8:47 PM,On Time,T1-13,Airbus A320neo,102,
+IX7082,Air India Express,Pune,PNQ,Chandigarh,IXC,10:26 AM,12:45 PM,On Time,T2-17,Boeing 737 MAX,139,
+UK1369,Vistara,Pune,PNQ,Bengaluru,BLR,3:30 AM,5:10 AM,On Time,T2-37,Airbus A320,100,
+SG8657,SpiceJet,Pune,PNQ,Lucknow,LKO,1:04 PM,3:13 PM,On Time,T3-39,Airbus A320neo,129,
+G83529,Go First,Bengaluru,BLR,Delhi,DEL,7:54 AM,9:34 AM,On Time,T3-10,Airbus A321,100,
+SG7890,SpiceJet,Nagpur,NAG,Delhi,DEL,11:02 AM,12:06 PM,Departed,T1-33,Boeing 737-800,64,
+I57828,AirAsia India,Kolkata,CCU,Hyderabad,HYD,5:04 PM,6:19 PM,On Time,T2-25,Boeing 737-800,75,
+G85916,Go First,Hyderabad,HYD,Nagpur,NAG,5:49 PM,7:55 PM,On Time,T3-14,Airbus A321,126,
+IX2441,Air India Express,Nagpur,NAG,Kochi,COK,7:07 PM,9:45 PM,On Time,T2-8,Boeing 737 MAX,158,
+I55804,AirAsia India,Bengaluru,BLR,Delhi,DEL,12:28 PM,3:12 PM,Delayed,T3-28,Airbus A321,164,30
+UK6366,Vistara,Kolkata,CCU,Bengaluru,BLR,12:21 AM,1:56 AM,On Time,T3-13,Airbus A320,95,
+IX5481,Air India Express,Mumbai,BOM,Kolkata,CCU,8:39 AM,11:32 AM,Departed,T2-3,ATR 72-600,173,20
+IX7943,Air India Express,Kochi,COK,Delhi,DEL,11:44 PM,1:33 AM,On Time,T1-37,Airbus A320,109,
+G87546,Go First,Ahmedabad,AMD,Bengaluru,BLR,4:09 PM,5:20 PM,On Time,T1-40,ATR 72-600,71,
+SG2998,SpiceJet,Nagpur,NAG,Thiruvananthapuram,TRV,4:29 AM,5:35 AM,On Time,T1-4,Boeing 737-800,66,
+6E5248,IndiGo,Mumbai,BOM,Nagpur,NAG,6:34 PM,8:30 PM,Cancelled,T1-40,ATR 72-600,116,
+6E5550,IndiGo,Nagpur,NAG,Lucknow,LKO,10:48 AM,12:16 PM,Departed,T3-24,Boeing 737 MAX,88,20
+6E6705,IndiGo,Kochi,COK,Nagpur,NAG,10:47 PM,11:47 PM,On Time,T3-10,ATR 72-600,60,
+IX1475,Air India Express,Bengaluru,BLR,Ahmedabad,AMD,1:31 AM,3:26 AM,On Time,T3-33,Boeing 737-800,115,
+SG152,SpiceJet,Hyderabad,HYD,Thiruvananthapuram,TRV,7:08 PM,9:22 PM,On Time,T2-37,ATR 72-600,134,
+AI9376,Air India,Thiruvananthapuram,TRV,Ahmedabad,AMD,3:00 AM,4:14 AM,Departed,T3-6,Airbus A321,74,5
+6E2874,IndiGo,Bhubaneswar,BBI,Delhi,DEL,7:25 AM,9:45 AM,On Time,T3-16,Airbus A320neo,140,
+UK2274,Vistara,Hyderabad,HYD,Delhi,DEL,12:56 PM,2:54 PM,On Time,T1-37,Airbus A320neo,118,
+I53802,AirAsia India,Nagpur,NAG,Chennai,MAA,9:18 AM,10:54 AM,On Time,T2-17,ATR 72-600,96,
+G84434,Go First,Mumbai,BOM,Ahmedabad,AMD,12:07 PM,2:25 PM,On Time,T3-34,Boeing 737-800,138,
+SG701,SpiceJet,Nagpur,NAG,Pune,PNQ,1:09 PM,2:33 PM,On Time,T1-28,Airbus A320neo,84,
+IX3498,Air India Express,Kolkata,CCU,Chandigarh,IXC,5:11 PM,7:04 PM,On Time,T1-17,Airbus A321,113,
+G84373,Go First,Delhi,DEL,Mumbai,BOM,5:38 PM,7:10 PM,On Time,T2-38,Airbus A320neo,92,
+QP9336,Akasa Air,Kochi,COK,Lucknow,LKO,8:05 PM,8:58 PM,On Time,T1-23,Airbus A320,53,
+SG7004,SpiceJet,Ahmedabad,AMD,Kolkata,CCU,11:29 AM,12:39 PM,On Time,T2-20,Airbus A321,70,
+G89058,Go First,Bengaluru,BLR,Bhubaneswar,BBI,12:44 AM,3:21 AM,Delayed,T3-37,ATR 72-600,157,40
+I56642,AirAsia India,Ahmedabad,AMD,Nagpur,NAG,8:18 AM,10:07 AM,Delayed,T2-31,ATR 72-600,109,50
+I55018,AirAsia India,Delhi,DEL,Chennai,MAA,5:18 PM,6:30 PM,On Time,T2-37,Boeing 737-800,72,
+6E2787,IndiGo,Goa,GOI,Bengaluru,BLR,10:15 AM,1:14 PM,On Time,T3-9,Airbus A321,179,
+QP981,Akasa Air,Mumbai,BOM,Hyderabad,HYD,4:49 AM,7:02 AM,On Time,T1-30,Airbus A320,133,
+SG3383,SpiceJet,Thiruvananthapuram,TRV,Bengaluru,BLR,10:17 AM,12:20 PM,On Time,T1-14,Boeing 737-800,123,
+AI4109,Air India,Bengaluru,BLR,Lucknow,LKO,6:57 PM,9:17 PM,On Time,T1-23,Airbus A320,140,
+G89108,Go First,Lucknow,LKO,Kochi,COK,11:51 PM,1:30 AM,Departed,T2-16,Airbus A320,99,15
+I52205,AirAsia India,Kolkata,CCU,Bhubaneswar,BBI,4:33 AM,7:00 AM,Delayed,T2-28,Boeing 737 MAX,147,120
+I58850,AirAsia India,Mumbai,BOM,Kolkata,CCU,4:40 PM,5:31 PM,On Time,T3-12,Airbus A321,51,
+QP6035,Akasa Air,Kolkata,CCU,Goa,GOI,12:03 AM,2:29 AM,Departed,T1-32,Airbus A321,146,5
+6E3560,IndiGo,Hyderabad,HYD,Kochi,COK,3:10 AM,5:21 AM,On Time,T1-28,Airbus A321,131,
+IX5196,Air India Express,Kochi,COK,Lucknow,LKO,4:24 PM,5:17 PM,On Time,T2-12,Airbus A321,53,
+I58576,AirAsia India,Nagpur,NAG,Mumbai,BOM,3:52 PM,4:58 PM,On Time,T3-7,ATR 72-600,66,
+I5300,AirAsia India,Bengaluru,BLR,Kolkata,CCU,4:23 AM,7:17 AM,On Time,T2-1,Boeing 737-800,174,
+I57021,AirAsia India,Bhubaneswar,BBI,Delhi,DEL,10:20 AM,12:53 PM,On Time,T3-8,Boeing 737 MAX,153,
+G88325,Go First,Kolkata,CCU,Bhubaneswar,BBI,4:09 PM,6:19 PM,Delayed,T1-12,Boeing 737-800,130,30
+I51410,AirAsia India,Bengaluru,BLR,Delhi,DEL,11:30 AM,1:21 PM,On Time,T3-30,Boeing 737-800,111,
+6E7714,IndiGo,Hyderabad,HYD,Delhi,DEL,4:08 AM,6:58 AM,On Time,T1-39,ATR 72-600,170,
+QP4234,Akasa Air,Kochi,COK,Kolkata,CCU,11:02 PM,1:02 AM,Delayed,T3-18,Airbus A321,120,5
+IX5947,Air India Express,Kochi,COK,Delhi,DEL,3:14 PM,5:22 PM,On Time,T1-39,Airbus A320,128,
+QP699,Akasa Air,Goa,GOI,Chandigarh,IXC,1:31 PM,3:19 PM,On Time,T3-7,Airbus A321,108,
+SG8184,SpiceJet,Kochi,COK,Hyderabad,HYD,11:47 AM,2:29 PM,Delayed,T3-34,Boeing 737 MAX,162,20
+G8765,Go First,Mumbai,BOM,Kolkata,CCU,12:43 PM,1:37 PM,On Time,T3-7,Boeing 737-800,54,
+AI5634,Air India,Thiruvananthapuram,TRV,Lucknow,LKO,10:18 AM,12:51 PM,On Time,T1-17,ATR 72-600,153,
+AI7201,Air India,Mumbai,BOM,Bhubaneswar,BBI,6:32 AM,8:23 AM,Cancelled,T3-33,Boeing 737 MAX,111,
+UK900,Vistara,Kolkata,CCU,Pune,PNQ,4:08 PM,5:48 PM,Delayed,T2-12,Airbus A320neo,100,35
+6E6631,IndiGo,Thiruvananthapuram,TRV,Bengaluru,BLR,11:08 PM,1:05 AM,On Time,T2-14,Airbus A320,117,
+I52226,AirAsia India,Hyderabad,HYD,Thiruvananthapuram,TRV,3:47 PM,5:53 PM,On Time,T1-2,ATR 72-600,126,
+QP3721,Akasa Air,Mumbai,BOM,Pune,PNQ,9:49 AM,12:31 PM,On Time,T3-39,Airbus A320neo,162,
+I57892,AirAsia India,Thiruvananthapuram,TRV,Goa,GOI,12:25 AM,2:37 AM,On Time,T2-29,Airbus A321,132,
+G88275,Go First,Chennai,MAA,Goa,GOI,11:48 PM,1:16 AM,Delayed,T2-3,ATR 72-600,88,25
+AI8071,Air India,Goa,GOI,Kolkata,CCU,2:50 AM,4:28 AM,Delayed,T2-20,Airbus A320neo,98,45
+QP7497,Akasa Air,Lucknow,LKO,Ahmedabad,AMD,1:00 AM,2:24 AM,On Time,T1-40,Airbus A320neo,84,
+I56905,AirAsia India,Bhubaneswar,BBI,Delhi,DEL,9:41 AM,12:31 PM,Cancelled,T2-35,Airbus A321,170,
+I52123,AirAsia India,Mumbai,BOM,Kochi,COK,7:27 AM,9:06 AM,Cancelled,T3-19,Airbus A321,99,
+SG6671,SpiceJet,Goa,GOI,Kochi,COK,12:00 PM,1:40 PM,On Time,T3-18,Airbus A320neo,100,
+QP1830,Akasa Air,Lucknow,LKO,Thiruvananthapuram,TRV,9:36 PM,11:42 PM,On Time,T3-26,Airbus A321,126,
+I58207,AirAsia India,Bhubaneswar,BBI,Ahmedabad,AMD,9:46 AM,12:26 PM,On Time,T1-26,Airbus A320neo,160,
+6E8827,IndiGo,Nagpur,NAG,Kolkata,CCU,3:50 PM,5:19 PM,Delayed,T2-38,ATR 72-600,89,10
+I56952,AirAsia India,Kochi,COK,Chennai,MAA,9:43 PM,10:35 PM,On Time,T1-40,Boeing 737 MAX,52,
+AI9923,Air India,Pune,PNQ,Chandigarh,IXC,1:57 PM,2:47 PM,On Time,T1-11,Boeing 737 MAX,50,
+G81590,Go First,Kolkata,CCU,Delhi,DEL,8:31 PM,10:55 PM,On Time,T1-11,Boeing 737-800,144,
+QP4020,Akasa Air,Bengaluru,BLR,Ahmedabad,AMD,6:49 AM,8:56 AM,On Time,T1-2,Airbus A321,127,
+G87623,Go First,Chennai,MAA,Lucknow,LKO,8:35 PM,11:13 PM,Cancelled,T1-30,Boeing 737 MAX,158,
+AI9996,Air India,Nagpur,NAG,Kolkata,CCU,5:26 AM,7:13 AM,On Time,T1-1,ATR 72-600,107,
+6E6757,IndiGo,Nagpur,NAG,Goa,GOI,4:02 PM,6:25 PM,On Time,T2-17,ATR 72-600,143,
+AI8851,Air India,Chandigarh,IXC,Delhi,DEL,2:58 PM,5:46 PM,Delayed,T2-26,ATR 72-600,168,5
+6E6053,IndiGo,Kochi,COK,Chandigarh,IXC,5:27 PM,8:04 PM,On Time,T1-7,Airbus A321,157,
+IX9599,Air India Express,Bhubaneswar,BBI,Thiruvananthapuram,TRV,3:48 AM,5:16 AM,On Time,T3-22,Airbus A321,88,
+UK8006,Vistara,Chennai,MAA,Hyderabad,HYD,3:18 AM,5:27 AM,On Time,T1-30,ATR 72-600,129,
+G84109,Go First,Bhubaneswar,BBI,Hyderabad,HYD,11:41 AM,1:41 PM,Delayed,T2-17,Boeing 737 MAX,120,30
+IX9839,Air India Express,Delhi,DEL,Bhubaneswar,BBI,4:46 AM,6:08 AM,On Time,T1-15,Airbus A320neo,82,
+QP4871,Akasa Air,Hyderabad,HYD,Chandigarh,IXC,5:24 AM,7:27 AM,On Time,T2-19,Airbus A321,123,
+SG2500,SpiceJet,Pune,PNQ,Hyderabad,HYD,1:06 PM,2:56 PM,On Time,T1-14,Boeing 737 MAX,110,
+IX2530,Air India Express,Pune,PNQ,Delhi,DEL,8:51 AM,11:09 AM,Delayed,T3-26,Boeing 737-800,138,75
+SG5739,SpiceJet,Lucknow,LKO,Bengaluru,BLR,8:02 PM,10:55 PM,On Time,T2-25,Boeing 737-800,173,
+SG8705,SpiceJet,Ahmedabad,AMD,Bengaluru,BLR,4:31 PM,6:53 PM,On Time,T1-22,Airbus A321,142,
+IX3482,Air India Express,Chennai,MAA,Bengaluru,BLR,9:29 AM,10:44 AM,On Time,T2-32,Boeing 737-800,75,
+6E8687,IndiGo,Thiruvananthapuram,TRV,Chennai,MAA,6:54 AM,9:12 AM,Delayed,T3-7,Airbus A320neo,138,35
+AI4547,Air India,Goa,GOI,Thiruvananthapuram,TRV,6:21 PM,7:26 PM,Cancelled,T1-29,Boeing 737 MAX,65,
+UK4109,Vistara,Hyderabad,HYD,Bhubaneswar,BBI,6:14 AM,8:01 AM,On Time,T3-30,Airbus A321,107,
+6E4454,IndiGo,Goa,GOI,Hyderabad,HYD,3:07 AM,4:40 AM,Delayed,T1-9,Boeing 737 MAX,93,120
+IX1097,Air India Express,Chennai,MAA,Thiruvananthapuram,TRV,8:19 AM,11:06 AM,On Time,T3-4,Airbus A320neo,167,
+AI3318,Air India,Ahmedabad,AMD,Mumbai,BOM,3:05 PM,4:11 PM,On Time,T1-35,Boeing 737 MAX,66,
+UK9902,Vistara,Ahmedabad,AMD,Hyderabad,HYD,7:25 PM,8:12 PM,On Time,T1-29,ATR 72-600,47,
+UK9749,Vistara,Bhubaneswar,BBI,Lucknow,LKO,8:58 PM,11:39 PM,Cancelled,T2-27,Boeing 737 MAX,161,
+IX8170,Air India Express,Lucknow,LKO,Bengaluru,BLR,11:13 AM,2:07 PM,On Time,T2-20,Airbus A320neo,174,
+UK5689,Vistara,Hyderabad,HYD,Lucknow,LKO,7:09 PM,10:02 PM,On Time,T2-8,Airbus A321,173,
+G8206,Go First,Kolkata,CCU,Goa,GOI,4:03 PM,6:54 PM,On Time,T1-28,ATR 72-600,171,
+IX1649,Air India Express,Thiruvananthapuram,TRV,Nagpur,NAG,3:07 PM,5:19 PM,On Time,T3-12,Airbus A321,132,
+AI3897,Air India,Chennai,MAA,Hyderabad,HYD,5:07 PM,7:10 PM,On Time,T3-31,Airbus A320,123,
+IX3545,Air India Express,Pune,PNQ,Lucknow,LKO,5:16 AM,7:23 AM,On Time,T2-11,Airbus A321,127,
+SG5435,SpiceJet,Goa,GOI,Ahmedabad,AMD,10:18 PM,12:49 AM,Delayed,T1-17,Boeing 737-800,151,25
+IX6175,Air India Express,Bengaluru,BLR,Hyderabad,HYD,11:23 AM,1:38 PM,Delayed,T2-20,Boeing 737-800,135,30
+I56934,AirAsia India,Delhi,DEL,Bhubaneswar,BBI,1:47 PM,2:46 PM,Cancelled,T2-9,Boeing 737-800,59,
+IX419,Air India Express,Nagpur,NAG,Chandigarh,IXC,6:54 AM,8:32 AM,Delayed,T2-24,Airbus A320,98,25
+QP7104,Akasa Air,Bhubaneswar,BBI,Kochi,COK,11:07 AM,12:43 PM,Delayed,T3-29,Airbus A320neo,96,50
+AI1319,Air India,Chennai,MAA,Bengaluru,BLR,11:06 AM,1:53 PM,Departed,T2-3,ATR 72-600,167,20
+I58079,AirAsia India,Chennai,MAA,Hyderabad,HYD,8:42 PM,11:03 PM,On Time,T1-22,Airbus A320neo,141,
+QP7278,Akasa Air,Thiruvananthapuram,TRV,Hyderabad,HYD,3:47 AM,6:32 AM,On Time,T3-5,Airbus A320neo,165,
+I52586,AirAsia India,Nagpur,NAG,Bengaluru,BLR,8:07 PM,10:08 PM,On Time,T3-6,Boeing 737-800,121,
+UK5471,Vistara,Pune,PNQ,Goa,GOI,10:33 PM,12:24 AM,On Time,T2-2,Airbus A321,111,
+AI5243,Air India,Nagpur,NAG,Kolkata,CCU,3:13 PM,4:52 PM,On Time,T2-15,Boeing 737-800,99,
+QP5556,Akasa Air,Chennai,MAA,Lucknow,LKO,8:50 AM,10:40 AM,On Time,T1-9,Airbus A320,110,
+I57101,AirAsia India,Kochi,COK,Bhubaneswar,BBI,4:36 PM,5:33 PM,Delayed,T3-24,Airbus A320,57,5
+I5625,AirAsia India,Goa,GOI,Nagpur,NAG,11:09 AM,1:59 PM,On Time,T2-5,ATR 72-600,170,
+AI9361,Air India,Mumbai,BOM,Goa,GOI,3:50 AM,5:15 AM,Delayed,T1-37,Boeing 737-800,85,105
+UK1297,Vistara,Bhubaneswar,BBI,Lucknow,LKO,2:42 PM,4:37 PM,On Time,T3-10,ATR 72-600,115,
+QP1296,Akasa Air,Bengaluru,BLR,Lucknow,LKO,7:38 PM,9:49 PM,On Time,T3-28,Airbus A320,131,
+I59516,AirAsia India,Hyderabad,HYD,Delhi,DEL,9:17 PM,11:41 PM,On Time,T1-21,Boeing 737-800,144,
+SG4341,SpiceJet,Nagpur,NAG,Chennai,MAA,7:56 PM,10:04 PM,On Time,T3-13,Boeing 737 MAX,128,
+QP9551,Akasa Air,Bengaluru,BLR,Chennai,MAA,5:03 AM,6:40 AM,On Time,T1-2,Boeing 737 MAX,97,
+6E2186,IndiGo,Goa,GOI,Kolkata,CCU,2:21 AM,4:29 AM,Departed,T3-14,Airbus A321,128,5
+IX2775,Air India Express,Kochi,COK,Hyderabad,HYD,7:57 AM,9:37 AM,Delayed,T1-29,Airbus A320,100,5
+I5516,AirAsia India,Ahmedabad,AMD,Nagpur,NAG,7:07 AM,9:29 AM,On Time,T2-26,Airbus A321,142,
+UK6334,Vistara,Pune,PNQ,Nagpur,NAG,4:15 AM,5:23 AM,Cancelled,T3-38,ATR 72-600,68,
+AI2768,Air India,Bhubaneswar,BBI,Chennai,MAA,4:06 AM,6:56 AM,Delayed,T3-21,Boeing 737-800,170,30
+UK3546,Vistara,Mumbai,BOM,Bhubaneswar,BBI,5:18 PM,7:35 PM,On Time,T3-8,Boeing 737-800,137,
+6E218,IndiGo,Kochi,COK,Bhubaneswar,BBI,2:20 PM,4:47 PM,Cancelled,T1-23,Airbus A320neo,147,
+IX1169,Air India Express,Kochi,COK,Nagpur,NAG,10:15 PM,12:16 AM,On Time,T3-6,ATR 72-600,121,
+I57822,AirAsia India,Delhi,DEL,Hyderabad,HYD,10:05 PM,12:12 AM,On Time,T1-12,Boeing 737 MAX,127,
+6E2196,IndiGo,Goa,GOI,Bengaluru,BLR,4:47 AM,7:32 AM,Delayed,T3-14,ATR 72-600,165,5
+IX6189,Air India Express,Pune,PNQ,Kochi,COK,5:22 AM,7:54 AM,On Time,T3-10,ATR 72-600,152,
+SG6081,SpiceJet,Thiruvananthapuram,TRV,Mumbai,BOM,5:32 AM,6:24 AM,On Time,T2-26,ATR 72-600,52,
+QP4444,Akasa Air,Pune,PNQ,Kolkata,CCU,12:58 AM,1:49 AM,On Time,T2-3,ATR 72-600,51,
+SG6779,SpiceJet,Delhi,DEL,Goa,GOI,12:52 PM,3:51 PM,On Time,T1-1,Airbus A320neo,179,
+UK1609,Vistara,Kochi,COK,Mumbai,BOM,3:50 AM,6:36 AM,On Time,T2-35,Boeing 737-800,166,
+SG9983,SpiceJet,Bhubaneswar,BBI,Lucknow,LKO,12:01 AM,2:05 AM,On Time,T2-9,Airbus A320neo,124,
+QP1679,Akasa Air,Ahmedabad,AMD,Thiruvananthapuram,TRV,7:29 PM,9:04 PM,On Time,T3-9,Airbus A321,95,
+UK1446,Vistara,Chandigarh,IXC,Mumbai,BOM,1:47 PM,3:44 PM,Departed,T1-15,Airbus A320neo,117,
+SG5033,SpiceJet,Kolkata,CCU,Chandigarh,IXC,3:46 PM,6:44 PM,On Time,T2-9,Airbus A320neo,178,
+I56240,AirAsia India,Lucknow,LKO,Bengaluru,BLR,7:46 PM,8:39 PM,Delayed,T2-4,Airbus A321,53,90
+SG334,SpiceJet,Bengaluru,BLR,Lucknow,LKO,1:09 AM,2:54 AM,On Time,T2-1,Boeing 737 MAX,105,
+G88027,Go First,Nagpur,NAG,Kolkata,CCU,6:24 AM,8:52 AM,On Time,T1-30,Boeing 737 MAX,148,
+IX9043,Air India Express,Ahmedabad,AMD,Mumbai,BOM,9:32 AM,12:28 PM,Departed,T1-17,Airbus A320neo,176,10
+G89093,Go First,Ahmedabad,AMD,Lucknow,LKO,3:17 AM,5:29 AM,Delayed,T1-24,Boeing 737-800,132,25
+6E9001,IndiGo,Bengaluru,BLR,Mumbai,BOM,7:45 AM,10:27 AM,Delayed,T3-19,Airbus A321,162,10
+QP5130,Akasa Air,Ahmedabad,AMD,Kochi,COK,6:53 PM,7:59 PM,Cancelled,T3-12,Boeing 737-800,66,
+UK2421,Vistara,Nagpur,NAG,Lucknow,LKO,7:34 AM,8:23 AM,On Time,T3-23,Boeing 737 MAX,49,
+SG9322,SpiceJet,Nagpur,NAG,Goa,GOI,5:55 PM,6:52 PM,Delayed,T3-15,ATR 72-600,57,30
+SG6235,SpiceJet,Bengaluru,BLR,Mumbai,BOM,11:13 PM,12:40 AM,On Time,T3-15,ATR 72-600,87,
+SG8960,SpiceJet,Pune,PNQ,Kochi,COK,6:54 AM,8:50 AM,On Time,T2-19,Boeing 737-800,116,
+I57907,AirAsia India,Ahmedabad,AMD,Kolkata,CCU,4:38 AM,6:39 AM,On Time,T2-36,ATR 72-600,121,
+IX3520,Air India Express,Thiruvananthapuram,TRV,Chandigarh,IXC,8:55 PM,9:57 PM,On Time,T2-9,Airbus A321,62,
+G82725,Go First,Bhubaneswar,BBI,Thiruvananthapuram,TRV,8:16 AM,10:41 AM,Delayed,T2-26,Boeing 737 MAX,145,60
+UK4172,Vistara,Nagpur,NAG,Kolkata,CCU,2:24 AM,4:06 AM,Cancelled,T2-9,Boeing 737-800,102,
+AI9699,Air India,Lucknow,LKO,Bengaluru,BLR,7:01 AM,9:39 AM,On Time,T2-21,Airbus A320,158,
+AI8629,Air India,Hyderabad,HYD,Goa,GOI,3:30 AM,6:15 AM,On Time,T2-20,Airbus A320,165,
+G82617,Go First,Mumbai,BOM,Bhubaneswar,BBI,11:39 AM,1:33 PM,Departed,T2-17,Airbus A320,114,
+G87078,Go First,Pune,PNQ,Bengaluru,BLR,11:36 PM,2:25 AM,Delayed,T3-7,Airbus A320,169,20
+QP4053,Akasa Air,Nagpur,NAG,Thiruvananthapuram,TRV,10:41 PM,1:32 AM,Delayed,T2-4,ATR 72-600,171,35
+AI4690,Air India,Nagpur,NAG,Chandigarh,IXC,9:24 AM,11:13 AM,On Time,T2-27,ATR 72-600,109,
+IX5943,Air India Express,Mumbai,BOM,Delhi,DEL,3:27 AM,6:16 AM,On Time,T2-15,Boeing 737 MAX,169,
+I54454,AirAsia India,Mumbai,BOM,Bhubaneswar,BBI,4:39 PM,7:00 PM,On Time,T3-25,Airbus A320,141,
+AI9772,Air India,Nagpur,NAG,Bhubaneswar,BBI,9:56 PM,11:06 PM,On Time,T1-16,Airbus A320neo,70,
+I56551,AirAsia India,Chandigarh,IXC,Thiruvananthapuram,TRV,1:21 AM,3:34 AM,On Time,T2-30,Boeing 737 MAX,133,
+6E6632,IndiGo,Nagpur,NAG,Bhubaneswar,BBI,9:26 PM,12:01 AM,Delayed,T1-37,Airbus A321,155,5
+6E5489,IndiGo,Mumbai,BOM,Hyderabad,HYD,2:04 PM,2:56 PM,Delayed,T2-23,ATR 72-600,52,105
+QP5873,Akasa Air,Chennai,MAA,Hyderabad,HYD,3:13 PM,4:10 PM,On Time,T3-17,Airbus A321,57,
+UK9250,Vistara,Bhubaneswar,BBI,Nagpur,NAG,6:40 PM,8:47 PM,Delayed,T2-12,Boeing 737-800,127,90
+AI5568,Air India,Kolkata,CCU,Pune,PNQ,6:22 PM,8:05 PM,On Time,T2-7,ATR 72-600,103,
+AI6752,Air India,Kolkata,CCU,Pune,PNQ,4:58 PM,6:30 PM,Delayed,T2-32,Airbus A320neo,92,20
+QP7272,Akasa Air,Thiruvananthapuram,TRV,Kolkata,CCU,5:26 AM,6:54 AM,On Time,T1-13,Boeing 737 MAX,88,
+IX8392,Air India Express,Chandigarh,IXC,Lucknow,LKO,7:07 PM,9:07 PM,Delayed,T1-26,Boeing 737 MAX,120,45
+AI3354,Air India,Mumbai,BOM,Thiruvananthapuram,TRV,8:24 PM,10:52 PM,Departed,T3-22,Boeing 737 MAX,148,5
+QP6600,Akasa Air,Bengaluru,BLR,Kochi,COK,3:32 AM,5:32 AM,On Time,T1-21,Airbus A321,120,
+G8768,Go First,Chennai,MAA,Goa,GOI,5:17 AM,7:12 AM,On Time,T1-15,Airbus A321,115,
+UK7314,Vistara,Lucknow,LKO,Bhubaneswar,BBI,7:22 AM,8:44 AM,On Time,T1-2,Boeing 737 MAX,82,
+G87291,Go First,Kochi,COK,Goa,GOI,6:48 PM,8:22 PM,On Time,T3-38,Boeing 737-800,94,
+I54384,AirAsia India,Chandigarh,IXC,Bhubaneswar,BBI,12:25 PM,2:17 PM,On Time,T2-16,Airbus A320neo,112,
+QP1362,Akasa Air,Chandigarh,IXC,Bengaluru,BLR,10:58 AM,12:46 PM,Delayed,T1-7,Boeing 737 MAX,108,50
+G88871,Go First,Kolkata,CCU,Mumbai,BOM,8:37 PM,10:20 PM,Delayed,T3-36,Airbus A321,103,75
+G84509,Go First,Pune,PNQ,Nagpur,NAG,1:48 AM,4:30 AM,On Time,T2-38,Boeing 737-800,162,
+AI2907,Air India,Delhi,DEL,Goa,GOI,3:18 PM,4:17 PM,Departed,T3-10,Airbus A320,59,15
+QP1171,Akasa Air,Chandigarh,IXC,Hyderabad,HYD,7:26 PM,9:15 PM,Departed,T3-39,Boeing 737-800,109,
+I52284,AirAsia India,Kochi,COK,Chennai,MAA,10:35 PM,1:15 AM,On Time,T3-20,Airbus A320neo,160,
+UK9436,Vistara,Bhubaneswar,BBI,Goa,GOI,1:53 PM,3:14 PM,Delayed,T3-21,Airbus A320,81,60
+6E5971,IndiGo,Pune,PNQ,Mumbai,BOM,2:25 AM,3:26 AM,On Time,T3-11,ATR 72-600,61,
+UK4176,Vistara,Pune,PNQ,Bhubaneswar,BBI,6:07 AM,7:38 AM,On Time,T2-8,Airbus A320neo,91,
+AI1642,Air India,Kochi,COK,Pune,PNQ,11:55 PM,2:19 AM,Delayed,T3-31,Airbus A321,144,35
+QP3098,Akasa Air,Mumbai,BOM,Hyderabad,HYD,12:07 PM,1:37 PM,Delayed,T2-32,Airbus A320,90,120
+SG4368,SpiceJet,Kochi,COK,Chennai,MAA,7:44 AM,9:58 AM,Cancelled,T3-6,Airbus A320neo,134,
+G81640,Go First,Goa,GOI,Hyderabad,HYD,12:41 AM,1:41 AM,Cancelled,T1-24,Airbus A320,60,
+SG128,SpiceJet,Goa,GOI,Delhi,DEL,12:09 AM,2:17 AM,On Time,T1-37,Boeing 737 MAX,128,
+QP1236,Akasa Air,Bengaluru,BLR,Chennai,MAA,9:43 PM,12:35 AM,On Time,T1-23,Airbus A320,172,
+SG9925,SpiceJet,Kolkata,CCU,Pune,PNQ,6:02 AM,8:39 AM,Delayed,T1-33,Airbus A321,157,120
+G8597,Go First,Pune,PNQ,Delhi,DEL,6:20 PM,7:35 PM,Delayed,T2-7,Airbus A320neo,75,25
+SG9768,SpiceJet,Goa,GOI,Bengaluru,BLR,3:24 AM,6:16 AM,On Time,T1-40,Airbus A320neo,172,
+G89078,Go First,Nagpur,NAG,Kochi,COK,3:17 PM,4:31 PM,Delayed,T2-16,Airbus A320neo,74,10
+SG4023,SpiceJet,Nagpur,NAG,Ahmedabad,AMD,6:25 AM,8:53 AM,On Time,T1-31,ATR 72-600,148,
+AI8617,Air India,Mumbai,BOM,Lucknow,LKO,10:21 PM,12:28 AM,Departed,T3-35,Boeing 737 MAX,127,20
+I59051,AirAsia India,Lucknow,LKO,Chennai,MAA,9:38 AM,11:45 AM,On Time,T1-19,ATR 72-600,127,
+I56723,AirAsia India,Kochi,COK,Thiruvananthapuram,TRV,2:48 AM,5:38 AM,On Time,T1-21,Boeing 737 MAX,170,
+G86470,Go First,Hyderabad,HYD,Ahmedabad,AMD,9:48 AM,10:47 AM,On Time,T1-13,Airbus A320,59,
+IX9725,Air India Express,Chandigarh,IXC,Pune,PNQ,6:31 PM,8:00 PM,On Time,T3-4,Boeing 737 MAX,89,
+6E873,IndiGo,Hyderabad,HYD,Kochi,COK,6:25 AM,8:40 AM,Cancelled,T1-28,ATR 72-600,135,
+SG8435,SpiceJet,Kolkata,CCU,Lucknow,LKO,11:51 PM,12:47 AM,Departed,T2-12,Airbus A321,56,
+QP1295,Akasa Air,Chandigarh,IXC,Chennai,MAA,4:54 PM,6:31 PM,On Time,T3-1,Airbus A320,97,
+I53475,AirAsia India,Thiruvananthapuram,TRV,Chandigarh,IXC,3:58 AM,5:57 AM,On Time,T1-22,Airbus A321,119,
+I53841,AirAsia India,Kolkata,CCU,Nagpur,NAG,1:43 PM,2:39 PM,On Time,T3-16,Boeing 737 MAX,56,
+IX7027,Air India Express,Lucknow,LKO,Pune,PNQ,9:22 PM,11:26 PM,On Time,T3-18,Boeing 737-800,124,
+6E6913,IndiGo,Nagpur,NAG,Kochi,COK,12:52 PM,2:48 PM,Delayed,T2-17,Boeing 737 MAX,116,20
+6E6579,IndiGo,Delhi,DEL,Chandigarh,IXC,3:19 PM,4:36 PM,Delayed,T1-8,Airbus A320,77,20
+SG8104,SpiceJet,Mumbai,BOM,Bengaluru,BLR,6:19 PM,8:27 PM,On Time,T3-17,ATR 72-600,128,
+I54766,AirAsia India,Goa,GOI,Hyderabad,HYD,9:43 AM,11:34 AM,On Time,T1-26,Airbus A321,111,
+AI9189,Air India,Nagpur,NAG,Ahmedabad,AMD,6:51 AM,8:08 AM,On Time,T1-31,Boeing 737-800,77,
+AI1925,Air India,Chennai,MAA,Delhi,DEL,1:14 PM,2:46 PM,On Time,T3-5,Airbus A321,92,
+I56176,AirAsia India,Ahmedabad,AMD,Chandigarh,IXC,4:52 AM,7:30 AM,On Time,T1-33,Airbus A321,158,
+UK5308,Vistara,Delhi,DEL,Pune,PNQ,12:29 AM,1:53 AM,On Time,T2-12,Airbus A320neo,84,
+G83387,Go First,Thiruvananthapuram,TRV,Lucknow,LKO,1:55 AM,4:20 AM,On Time,T2-33,Airbus A320,145,
+UK3114,Vistara,Lucknow,LKO,Chennai,MAA,11:27 AM,2:04 PM,On Time,T2-5,Airbus A321,157,
+IX9223,Air India Express,Bengaluru,BLR,Thiruvananthapuram,TRV,6:40 PM,8:46 PM,On Time,T3-5,Boeing 737-800,126,
+6E2883,IndiGo,Chandigarh,IXC,Kolkata,CCU,12:38 PM,1:32 PM,On Time,T1-15,Airbus A320,54,
+I5156,AirAsia India,Pune,PNQ,Delhi,DEL,1:13 PM,2:28 PM,Departed,T3-35,Airbus A320,75,
+6E7905,IndiGo,Thiruvananthapuram,TRV,Pune,PNQ,10:00 PM,12:23 AM,On Time,T3-25,Boeing 737-800,143,
+UK8137,Vistara,Pune,PNQ,Hyderabad,HYD,11:46 AM,2:27 PM,On Time,T1-30,Boeing 737 MAX,161,
+QP3767,Akasa Air,Bengaluru,BLR,Hyderabad,HYD,9:44 PM,11:13 PM,Cancelled,T2-17,Airbus A321,89,
+QP443,Akasa Air,Kochi,COK,Bhubaneswar,BBI,10:14 AM,11:35 AM,On Time,T2-35,Airbus A321,81,
+I52148,AirAsia India,Nagpur,NAG,Lucknow,LKO,12:02 PM,1:40 PM,Departed,T2-30,ATR 72-600,98,15
+G87372,Go First,Kochi,COK,Ahmedabad,AMD,12:24 PM,2:35 PM,On Time,T2-9,ATR 72-600,131,
+UK4130,Vistara,Chennai,MAA,Chandigarh,IXC,6:31 AM,8:05 AM,Departed,T2-30,Boeing 737 MAX,94,20
+IX3598,Air India Express,Kochi,COK,Bengaluru,BLR,4:03 PM,5:15 PM,On Time,T2-20,Boeing 737 MAX,72,
+I5933,AirAsia India,Chennai,MAA,Thiruvananthapuram,TRV,11:31 AM,12:56 PM,Delayed,T3-28,Airbus A321,85,120
+G8490,Go First,Chandigarh,IXC,Chennai,MAA,1:10 PM,2:39 PM,On Time,T3-37,Airbus A321,89,
+I59521,AirAsia India,Bhubaneswar,BBI,Thiruvananthapuram,TRV,6:45 AM,8:08 AM,On Time,T2-16,ATR 72-600,83,
+SG8073,SpiceJet,Kolkata,CCU,Pune,PNQ,8:54 PM,11:54 PM,Delayed,T1-7,Airbus A320,180,120
+AI451,Air India,Delhi,DEL,Nagpur,NAG,1:48 AM,3:57 AM,Departed,T2-13,ATR 72-600,129,10
+SG3589,SpiceJet,Hyderabad,HYD,Nagpur,NAG,2:15 AM,4:32 AM,On Time,T2-38,Boeing 737-800,137,
+G85647,Go First,Chandigarh,IXC,Bengaluru,BLR,9:53 AM,11:55 AM,On Time,T3-11,Airbus A321,122,
+SG6902,SpiceJet,Mumbai,BOM,Goa,GOI,9:06 PM,11:35 PM,On Time,T3-31,ATR 72-600,149,
+IX4186,Air India Express,Mumbai,BOM,Lucknow,LKO,5:00 AM,7:38 AM,On Time,T1-9,Boeing 737-800,158,
+G86315,Go First,Ahmedabad,AMD,Bengaluru,BLR,12:40 AM,2:57 AM,Departed,T3-12,Boeing 737-800,137,20
+6E8157,IndiGo,Lucknow,LKO,Pune,PNQ,11:44 AM,1:55 PM,Cancelled,T2-5,Airbus A321,131,
+SG5016,SpiceJet,Lucknow,LKO,Kochi,COK,5:06 AM,6:19 AM,Cancelled,T3-13,ATR 72-600,73,
+QP4889,Akasa Air,Chandigarh,IXC,Bhubaneswar,BBI,2:50 AM,5:05 AM,On Time,T2-2,Boeing 737 MAX,135,
+I52869,AirAsia India,Kolkata,CCU,Nagpur,NAG,8:37 AM,10:11 AM,On Time,T3-2,Boeing 737-800,94,
+QP2834,Akasa Air,Delhi,DEL,Lucknow,LKO,8:09 AM,10:12 AM,On Time,T2-22,Airbus A320,123,
+IX7605,Air India Express,Lucknow,LKO,Mumbai,BOM,11:21 AM,12:14 PM,On Time,T3-1,ATR 72-600,53,
+6E5059,IndiGo,Kochi,COK,Chennai,MAA,4:02 PM,6:24 PM,On Time,T3-18,ATR 72-600,142,
+I55599,AirAsia India,Kolkata,CCU,Bhubaneswar,BBI,5:29 PM,8:02 PM,On Time,T2-9,Airbus A320neo,153,
+IX9150,Air India Express,Chennai,MAA,Ahmedabad,AMD,9:36 AM,11:29 AM,On Time,T2-6,ATR 72-600,113,
+QP8436,Akasa Air,Thiruvananthapuram,TRV,Mumbai,BOM,12:47 AM,2:04 AM,Delayed,T1-5,Airbus A321,77,10
+QP1164,Akasa Air,Bengaluru,BLR,Pune,PNQ,8:05 AM,9:12 AM,Departed,T3-1,ATR 72-600,67,
+QP1253,Akasa Air,Bengaluru,BLR,Pune,PNQ,9:22 PM,12:04 AM,On Time,T2-7,Boeing 737 MAX,162,
+AI1020,Air India,Chandigarh,IXC,Bengaluru,BLR,6:48 AM,7:53 AM,On Time,T3-6,Airbus A320,65,
+I53918,AirAsia India,Chennai,MAA,Delhi,DEL,2:42 AM,5:06 AM,On Time,T3-13,Boeing 737-800,144,
+UK8215,Vistara,Pune,PNQ,Chandigarh,IXC,6:21 AM,9:06 AM,On Time,T3-38,Airbus A320,165,
+G83129,Go First,Goa,GOI,Delhi,DEL,2:42 AM,4:12 AM,Cancelled,T2-10,Boeing 737 MAX,90,
+UK2131,Vistara,Chandigarh,IXC,Bhubaneswar,BBI,2:35 AM,4:08 AM,On Time,T2-15,Airbus A321,93,
+I59804,AirAsia India,Hyderabad,HYD,Pune,PNQ,2:04 PM,4:58 PM,On Time,T1-28,Airbus A320neo,174,
+QP4044,Akasa Air,Goa,GOI,Delhi,DEL,10:21 PM,12:10 AM,On Time,T1-5,Airbus A320,109,
+AI8192,Air India,Kolkata,CCU,Chandigarh,IXC,2:03 AM,4:38 AM,On Time,T3-29,Airbus A320,155,
+AI5316,Air India,Pune,PNQ,Bhubaneswar,BBI,12:20 PM,1:21 PM,On Time,T3-21,Boeing 737-800,61,
+QP7971,Akasa Air,Kolkata,CCU,Ahmedabad,AMD,10:14 AM,1:04 PM,On Time,T3-13,Airbus A321,170,
+SG799,SpiceJet,Chandigarh,IXC,Kolkata,CCU,1:59 PM,4:43 PM,Departed,T2-30,Boeing 737-800,164,10
+G82601,Go First,Bengaluru,BLR,Chandigarh,IXC,1:09 PM,3:41 PM,Departed,T2-25,ATR 72-600,152,5
+SG6644,SpiceJet,Kolkata,CCU,Delhi,DEL,2:49 PM,4:18 PM,On Time,T1-14,Airbus A320,89,
+6E6510,IndiGo,Ahmedabad,AMD,Bengaluru,BLR,9:14 AM,11:25 AM,On Time,T2-26,Airbus A321,131,
+IX9100,Air India Express,Hyderabad,HYD,Chennai,MAA,6:29 AM,9:18 AM,On Time,T2-28,Boeing 737-800,169,
+SG8084,SpiceJet,Lucknow,LKO,Delhi,DEL,12:03 PM,1:15 PM,On Time,T2-31,Boeing 737 MAX,72,
+IX2417,Air India Express,Chennai,MAA,Goa,GOI,4:52 PM,6:32 PM,On Time,T1-20,ATR 72-600,100,
+SG5647,SpiceJet,Lucknow,LKO,Hyderabad,HYD,11:20 PM,1:54 AM,On Time,T3-9,Boeing 737 MAX,154,
+IX5688,Air India Express,Chandigarh,IXC,Kolkata,CCU,11:30 PM,12:47 AM,On Time,T2-5,Airbus A320,77,
+G86162,Go First,Kochi,COK,Chennai,MAA,7:08 AM,9:16 AM,Delayed,T2-31,Airbus A320neo,128,120
+QP9557,Akasa Air,Bhubaneswar,BBI,Kolkata,CCU,11:50 PM,1:24 AM,Departed,T3-37,Airbus A321,94,10
+UK4181,Vistara,Ahmedabad,AMD,Pune,PNQ,4:02 PM,4:51 PM,On Time,T1-25,Airbus A321,49,
+QP1432,Akasa Air,Goa,GOI,Ahmedabad,AMD,3:47 PM,5:40 PM,On Time,T2-13,Airbus A320neo,113,
+SG6060,SpiceJet,Nagpur,NAG,Bhubaneswar,BBI,2:00 AM,4:46 AM,On Time,T3-1,Airbus A320neo,166,
+QP8006,Akasa Air,Goa,GOI,Bengaluru,BLR,9:18 AM,11:24 AM,On Time,T2-39,Boeing 737 MAX,126,
+UK3183,Vistara,Thiruvananthapuram,TRV,Pune,PNQ,8:39 PM,9:54 PM,On Time,T1-13,Boeing 737 MAX,75,
+IX4166,Air India Express,Bhubaneswar,BBI,Kochi,COK,2:26 PM,3:13 PM,On Time,T1-10,Airbus A320neo,47,
+6E572,IndiGo,Lucknow,LKO,Thiruvananthapuram,TRV,2:23 PM,3:28 PM,On Time,T1-29,ATR 72-600,65,
+I59197,AirAsia India,Bengaluru,BLR,Pune,PNQ,3:09 PM,5:14 PM,On Time,T2-30,Airbus A320neo,125,
+UK7527,Vistara,Hyderabad,HYD,Bengaluru,BLR,8:01 PM,9:18 PM,On Time,T1-8,Airbus A320,77,
+QP9153,Akasa Air,Ahmedabad,AMD,Kolkata,CCU,4:50 AM,6:55 AM,Delayed,T3-2,ATR 72-600,125,35
+I55406,AirAsia India,Kochi,COK,Bengaluru,BLR,11:08 AM,12:01 PM,On Time,T2-37,Boeing 737 MAX,53,
+6E8483,IndiGo,Delhi,DEL,Chandigarh,IXC,4:30 AM,7:22 AM,On Time,T1-9,Airbus A321,172,
+AI8665,Air India,Bengaluru,BLR,Chandigarh,IXC,8:01 AM,9:09 AM,Delayed,T2-6,Boeing 737-800,68,30
+QP1239,Akasa Air,Ahmedabad,AMD,Kochi,COK,6:36 PM,7:36 PM,On Time,T3-26,ATR 72-600,60,
+SG9080,SpiceJet,Nagpur,NAG,Mumbai,BOM,7:04 AM,9:43 AM,On Time,T2-15,Airbus A321,159,
+6E9237,IndiGo,Delhi,DEL,Thiruvananthapuram,TRV,9:56 PM,11:38 PM,On Time,T1-15,Airbus A321,102,
+SG2355,SpiceJet,Goa,GOI,Kolkata,CCU,11:01 AM,1:25 PM,Delayed,T2-2,Boeing 737 MAX,144,60
+IX8164,Air India Express,Delhi,DEL,Lucknow,LKO,11:47 PM,2:18 AM,On Time,T1-13,Boeing 737 MAX,151,
+6E3521,IndiGo,Chennai,MAA,Pune,PNQ,4:46 PM,5:32 PM,On Time,T1-38,Airbus A320neo,46,
+SG6607,SpiceJet,Chennai,MAA,Bengaluru,BLR,6:18 PM,7:04 PM,Departed,T2-18,Boeing 737 MAX,46,20
+QP8470,Akasa Air,Kochi,COK,Bengaluru,BLR,6:52 AM,8:42 AM,On Time,T2-17,Boeing 737-800,110,
+AI4775,Air India,Ahmedabad,AMD,Delhi,DEL,3:12 PM,6:08 PM,Delayed,T1-8,Airbus A320,176,20
+I51848,AirAsia India,Chandigarh,IXC,Nagpur,NAG,7:01 AM,8:37 AM,Delayed,T3-20,ATR 72-600,96,75
+UK9819,Vistara,Nagpur,NAG,Hyderabad,HYD,12:19 PM,3:02 PM,On Time,T3-15,Boeing 737 MAX,163,
+IX3652,Air India Express,Goa,GOI,Delhi,DEL,10:34 AM,11:22 AM,On Time,T1-22,Airbus A321,48,
+G86466,Go First,Chandigarh,IXC,Kolkata,CCU,3:37 PM,6:02 PM,On Time,T1-32,Boeing 737-800,145,
+IX4171,Air India Express,Mumbai,BOM,Pune,PNQ,3:39 AM,4:24 AM,Departed,T1-1,Airbus A320neo,45,20
+6E5071,IndiGo,Ahmedabad,AMD,Kochi,COK,7:23 PM,8:48 PM,On Time,T2-14,ATR 72-600,85,
+UK7033,Vistara,Chandigarh,IXC,Kolkata,CCU,2:35 AM,4:31 AM,On Time,T1-20,Airbus A320,116,
+AI5048,Air India,Bengaluru,BLR,Hyderabad,HYD,3:35 PM,5:12 PM,On Time,T3-2,Boeing 737-800,97,
+AI1510,Air India,Chandigarh,IXC,Chennai,MAA,3:32 PM,5:26 PM,On Time,T3-37,Boeing 737-800,114,
+AI2611,Air India,Chennai,MAA,Mumbai,BOM,1:34 PM,3:55 PM,On Time,T2-28,Boeing 737-800,141,
+I52967,AirAsia India,Delhi,DEL,Pune,PNQ,1:30 AM,2:31 AM,Cancelled,T2-19,ATR 72-600,61,
+G83421,Go First,Bhubaneswar,BBI,Hyderabad,HYD,12:49 AM,2:43 AM,Cancelled,T1-16,ATR 72-600,114,
+G8131,Go First,Lucknow,LKO,Delhi,DEL,7:13 PM,9:49 PM,On Time,T3-32,Airbus A321,156,
+6E4794,IndiGo,Kolkata,CCU,Mumbai,BOM,8:24 PM,10:43 PM,On Time,T2-35,Airbus A321,139,
+QP6182,Akasa Air,Chandigarh,IXC,Goa,GOI,6:27 PM,7:49 PM,On Time,T3-23,Boeing 737-800,82,
+SG9606,SpiceJet,Kochi,COK,Kolkata,CCU,3:57 PM,6:10 PM,Delayed,T3-32,ATR 72-600,133,15
+I56003,AirAsia India,Kochi,COK,Mumbai,BOM,8:33 PM,10:22 PM,Departed,T2-30,Boeing 737-800,109,10
+SG800,SpiceJet,Kolkata,CCU,Goa,GOI,9:20 PM,10:42 PM,On Time,T3-11,Boeing 737 MAX,82,
+SG3472,SpiceJet,Nagpur,NAG,Chandigarh,IXC,1:31 PM,2:36 PM,Delayed,T1-33,Boeing 737 MAX,65,120
+6E8612,IndiGo,Mumbai,BOM,Pune,PNQ,12:08 AM,1:58 AM,Departed,T3-15,ATR 72-600,110,5
+QP8114,Akasa Air,Mumbai,BOM,Kolkata,CCU,12:44 PM,3:10 PM,On Time,T2-15,Boeing 737 MAX,146,
+QP6784,Akasa Air,Chandigarh,IXC,Bhubaneswar,BBI,3:37 AM,5:19 AM,On Time,T2-10,ATR 72-600,102,
+UK109,Vistara,Thiruvananthapuram,TRV,Bhubaneswar,BBI,5:13 PM,6:25 PM,On Time,T1-20,Airbus A321,72,
+I55062,AirAsia India,Nagpur,NAG,Chennai,MAA,6:29 PM,7:38 PM,Cancelled,T1-2,Airbus A320,69,
+6E4946,IndiGo,Mumbai,BOM,Chennai,MAA,6:20 AM,7:23 AM,On Time,T2-8,Boeing 737-800,63,
+QP6702,Akasa Air,Delhi,DEL,Chandigarh,IXC,8:23 PM,10:24 PM,On Time,T2-14,Airbus A320neo,121,
+I59761,AirAsia India,Thiruvananthapuram,TRV,Ahmedabad,AMD,9:40 PM,10:35 PM,Delayed,T2-21,Airbus A320neo,55,5
+6E4290,IndiGo,Chandigarh,IXC,Ahmedabad,AMD,1:05 PM,2:15 PM,On Time,T3-40,Airbus A320neo,70,
+G8547,Go First,Kochi,COK,Delhi,DEL,4:38 PM,5:45 PM,On Time,T3-6,Airbus A320,67,
+UK1640,Vistara,Ahmedabad,AMD,Kochi,COK,11:30 AM,1:16 PM,On Time,T2-3,Airbus A320neo,106,
+IX9154,Air India Express,Bhubaneswar,BBI,Chandigarh,IXC,3:24 PM,5:04 PM,On Time,T1-1,ATR 72-600,100,
+SG9822,SpiceJet,Nagpur,NAG,Lucknow,LKO,12:57 AM,3:51 AM,On Time,T3-12,Boeing 737-800,174,
+IX9357,Air India Express,Kochi,COK,Bhubaneswar,BBI,6:17 PM,7:14 PM,On Time,T1-34,Boeing 737-800,57,
+SG7501,SpiceJet,Hyderabad,HYD,Nagpur,NAG,5:33 AM,6:28 AM,On Time,T2-28,Airbus A320,55,
+SG1358,SpiceJet,Chennai,MAA,Ahmedabad,AMD,4:35 PM,6:23 PM,On Time,T3-12,Boeing 737-800,108,
+6E5052,IndiGo,Bengaluru,BLR,Chennai,MAA,11:36 AM,2:27 PM,On Time,T2-8,Airbus A320,171,
+SG2380,SpiceJet,Bengaluru,BLR,Chandigarh,IXC,8:39 PM,9:30 PM,On Time,T2-28,Airbus A320,51,
+QP9004,Akasa Air,Mumbai,BOM,Kochi,COK,4:10 PM,5:03 PM,On Time,T3-28,Airbus A320,53,
+AI1529,Air India,Hyderabad,HYD,Lucknow,LKO,12:12 PM,2:58 PM,On Time,T1-9,Airbus A320,166,
+6E2754,IndiGo,Mumbai,BOM,Pune,PNQ,6:22 AM,7:57 AM,On Time,T3-24,Boeing 737 MAX,95,
+IX7929,Air India Express,Mumbai,BOM,Bhubaneswar,BBI,10:24 PM,11:56 PM,On Time,T1-36,Airbus A320,92,
+UK3416,Vistara,Bengaluru,BLR,Hyderabad,HYD,4:32 AM,6:57 AM,On Time,T1-33,Airbus A320,145,
+AI8694,Air India,Lucknow,LKO,Hyderabad,HYD,7:59 PM,10:59 PM,On Time,T1-21,Airbus A321,180,
+G83598,Go First,Chennai,MAA,Lucknow,LKO,4:12 PM,6:59 PM,On Time,T1-12,Boeing 737-800,167,
+AI2493,Air India,Lucknow,LKO,Bengaluru,BLR,5:24 PM,6:46 PM,Departed,T2-33,Airbus A320,82,
+SG4147,SpiceJet,Lucknow,LKO,Bhubaneswar,BBI,2:06 PM,4:23 PM,Departed,T2-4,Boeing 737-800,137,10
+6E5350,IndiGo,Bhubaneswar,BBI,Kochi,COK,12:56 AM,2:30 AM,Delayed,T2-26,Boeing 737-800,94,120
+UK2186,Vistara,Ahmedabad,AMD,Pune,PNQ,5:23 PM,7:52 PM,On Time,T3-11,Airbus A321,149,
+IX8245,Air India Express,Bhubaneswar,BBI,Mumbai,BOM,2:46 PM,3:38 PM,On Time,T3-6,ATR 72-600,52,
+SG754,SpiceJet,Kolkata,CCU,Hyderabad,HYD,1:25 PM,3:21 PM,On Time,T2-20,Boeing 737 MAX,116,
+QP5148,Akasa Air,Nagpur,NAG,Ahmedabad,AMD,5:27 PM,8:16 PM,On Time,T3-38,ATR 72-600,169,
+SG7789,SpiceJet,Kolkata,CCU,Mumbai,BOM,11:36 PM,2:26 AM,Cancelled,T3-34,Boeing 737 MAX,170,
+AI4222,Air India,Lucknow,LKO,Hyderabad,HYD,9:15 AM,11:13 AM,On Time,T1-21,Airbus A320neo,118,
+UK9373,Vistara,Chennai,MAA,Kolkata,CCU,10:27 AM,12:01 PM,Delayed,T3-27,Airbus A320neo,94,45
+IX9893,Air India Express,Kochi,COK,Lucknow,LKO,10:29 PM,12:02 AM,Delayed,T1-19,Airbus A321,93,120
+QP8992,Akasa Air,Goa,GOI,Kolkata,CCU,6:58 AM,9:41 AM,On Time,T1-8,ATR 72-600,163,
+IX4147,Air India Express,Chennai,MAA,Pune,PNQ,9:37 PM,11:48 PM,On Time,T3-32,Airbus A320neo,131,
+UK6516,Vistara,Ahmedabad,AMD,Chandigarh,IXC,9:14 AM,11:56 AM,On Time,T1-17,Boeing 737 MAX,162,
+AI4237,Air India,Mumbai,BOM,Kochi,COK,6:47 PM,9:12 PM,On Time,T1-17,Boeing 737-800,145,
+G89121,Go First,Pune,PNQ,Nagpur,NAG,9:27 AM,12:22 PM,On Time,T1-18,Airbus A320,175,
+I58120,AirAsia India,Pune,PNQ,Mumbai,BOM,4:15 PM,6:51 PM,On Time,T1-9,Airbus A321,156,
+AI6020,Air India,Bhubaneswar,BBI,Thiruvananthapuram,TRV,1:51 AM,2:46 AM,Delayed,T1-36,Boeing 737 MAX,55,25
+IX2187,Air India Express,Bhubaneswar,BBI,Mumbai,BOM,11:26 PM,1:59 AM,On Time,T3-37,Airbus A320,153,
+6E1925,IndiGo,Kolkata,CCU,Pune,PNQ,9:27 AM,11:24 AM,On Time,T1-15,Boeing 737 MAX,117,
+QP3972,Akasa Air,Bengaluru,BLR,Delhi,DEL,6:53 PM,8:59 PM,Delayed,T2-14,Boeing 737 MAX,126,15
+6E2727,IndiGo,Mumbai,BOM,Pune,PNQ,8:57 PM,10:51 PM,Delayed,T1-16,Boeing 737-800,114,10
+UK4065,Vistara,Ahmedabad,AMD,Pune,PNQ,5:39 AM,7:08 AM,Departed,T1-1,Airbus A321,89,10
+IX7230,Air India Express,Pune,PNQ,Nagpur,NAG,8:28 PM,10:51 PM,On Time,T1-7,Airbus A320,143,
+I57376,AirAsia India,Ahmedabad,AMD,Bengaluru,BLR,1:07 PM,3:29 PM,On Time,T2-14,ATR 72-600,142,
+G87254,Go First,Bhubaneswar,BBI,Goa,GOI,11:41 AM,1:48 PM,On Time,T3-40,Boeing 737-800,127,
+G83466,Go First,Kolkata,CCU,Bengaluru,BLR,2:38 AM,4:59 AM,On Time,T2-14,Airbus A321,141,
+QP5887,Akasa Air,Kochi,COK,Hyderabad,HYD,8:29 AM,10:28 AM,Departed,T3-31,Airbus A320,119,15
+UK1159,Vistara,Ahmedabad,AMD,Chandigarh,IXC,12:44 AM,3:08 AM,On Time,T2-25,Airbus A320,144,
+G87248,Go First,Chandigarh,IXC,Ahmedabad,AMD,2:28 PM,3:35 PM,On Time,T2-15,Airbus A320neo,67,
+QP4357,Akasa Air,Ahmedabad,AMD,Bengaluru,BLR,5:45 AM,7:26 AM,Departed,T3-34,Airbus A321,101,20
+6E6349,IndiGo,Kolkata,CCU,Delhi,DEL,7:48 AM,8:56 AM,Delayed,T1-40,ATR 72-600,68,15
+6E4202,IndiGo,Mumbai,BOM,Goa,GOI,8:42 AM,11:22 AM,On Time,T1-28,Airbus A320neo,160,
+SG3853,SpiceJet,Kochi,COK,Hyderabad,HYD,5:41 AM,8:39 AM,On Time,T1-40,Airbus A320,178,
+SG4822,SpiceJet,Goa,GOI,Ahmedabad,AMD,2:26 PM,3:53 PM,On Time,T1-39,ATR 72-600,87,
+AI1203,Air India,Bhubaneswar,BBI,Mumbai,BOM,9:11 AM,10:41 AM,On Time,T2-36,Airbus A320neo,90,
+SG2602,SpiceJet,Goa,GOI,Bengaluru,BLR,8:23 AM,9:10 AM,On Time,T1-18,Boeing 737 MAX,47,
+6E8306,IndiGo,Goa,GOI,Delhi,DEL,1:26 PM,2:45 PM,On Time,T2-10,Airbus A321,79,
+UK6116,Vistara,Pune,PNQ,Bhubaneswar,BBI,9:31 AM,12:14 PM,On Time,T1-8,ATR 72-600,163,
+6E1198,IndiGo,Kochi,COK,Bengaluru,BLR,12:01 AM,1:59 AM,On Time,T2-26,Boeing 737 MAX,118,
+I58702,AirAsia India,Ahmedabad,AMD,Lucknow,LKO,5:44 PM,7:59 PM,Delayed,T3-26,Airbus A320neo,135,50
+I52834,AirAsia India,Goa,GOI,Nagpur,NAG,5:03 PM,6:20 PM,Delayed,T1-39,Airbus A320neo,77,20
+IX1992,Air India Express,Pune,PNQ,Kochi,COK,1:03 PM,3:24 PM,On Time,T1-21,Boeing 737-800,141,
+UK362,Vistara,Chennai,MAA,Kochi,COK,9:47 PM,11:09 PM,On Time,T3-9,ATR 72-600,82,
+IX6593,Air India Express,Chennai,MAA,Bengaluru,BLR,12:33 AM,2:16 AM,Departed,T2-26,Boeing 737-800,103,10
+G86187,Go First,Thiruvananthapuram,TRV,Chennai,MAA,3:48 PM,5:06 PM,On Time,T1-16,Airbus A321,78,
+AI4940,Air India,Kolkata,CCU,Delhi,DEL,11:57 AM,2:41 PM,Departed,T1-39,Airbus A320neo,164,15
+QP8497,Akasa Air,Goa,GOI,Ahmedabad,AMD,1:22 AM,4:09 AM,On Time,T2-13,Airbus A320neo,167,
+SG281,SpiceJet,Mumbai,BOM,Bengaluru,BLR,7:10 PM,9:04 PM,On Time,T3-14,ATR 72-600,114,
+QP495,Akasa Air,Ahmedabad,AMD,Kochi,COK,11:24 AM,2:06 PM,On Time,T2-19,Airbus A320neo,162,
+6E8570,IndiGo,Pune,PNQ,Mumbai,BOM,2:57 PM,5:46 PM,On Time,T3-3,ATR 72-600,169,
+AI2612,Air India,Thiruvananthapuram,TRV,Nagpur,NAG,12:53 PM,3:02 PM,Delayed,T3-18,Airbus A321,129,40
+SG3316,SpiceJet,Mumbai,BOM,Pune,PNQ,1:06 PM,3:01 PM,On Time,T1-3,Airbus A320neo,115,
+6E2278,IndiGo,Chennai,MAA,Kochi,COK,7:25 PM,8:59 PM,On Time,T1-28,Boeing 737 MAX,94,
+IX3550,Air India Express,Delhi,DEL,Mumbai,BOM,5:34 AM,6:28 AM,On Time,T2-5,Airbus A321,54,
+G82813,Go First,Thiruvananthapuram,TRV,Lucknow,LKO,4:50 PM,6:04 PM,On Time,T2-22,Boeing 737 MAX,74,
+QP7782,Akasa Air,Hyderabad,HYD,Pune,PNQ,7:03 PM,9:12 PM,On Time,T2-34,Airbus A321,129,
+IX9829,Air India Express,Bhubaneswar,BBI,Chennai,MAA,7:43 AM,8:33 AM,On Time,T2-22,Boeing 737 MAX,50,
+IX8273,Air India Express,Chandigarh,IXC,Kochi,COK,1:45 AM,3:46 AM,Delayed,T1-10,Boeing 737 MAX,121,25
+UK3687,Vistara,Thiruvananthapuram,TRV,Chennai,MAA,3:50 PM,5:14 PM,Departed,T3-24,Boeing 737-800,84,20
+I56969,AirAsia India,Pune,PNQ,Kolkata,CCU,10:12 AM,11:17 AM,On Time,T3-31,ATR 72-600,65,
+6E7237,IndiGo,Kochi,COK,Nagpur,NAG,2:45 PM,4:09 PM,On Time,T1-22,Airbus A320neo,84,
+AI5146,Air India,Chennai,MAA,Ahmedabad,AMD,4:47 PM,7:13 PM,On Time,T2-28,Airbus A321,146,
+IX4085,Air India Express,Pune,PNQ,Bhubaneswar,BBI,5:37 AM,7:48 AM,On Time,T2-38,Boeing 737-800,131,
+AI1749,Air India,Mumbai,BOM,Thiruvananthapuram,TRV,12:17 AM,1:40 AM,On Time,T2-6,ATR 72-600,83,
+SG941,SpiceJet,Delhi,DEL,Ahmedabad,AMD,6:03 AM,6:56 AM,On Time,T2-23,ATR 72-600,53,
+AI762,Air India,Bengaluru,BLR,Hyderabad,HYD,11:16 AM,12:26 PM,On Time,T3-6,Airbus A320,70,
+6E3249,IndiGo,Bhubaneswar,BBI,Bengaluru,BLR,1:20 PM,4:10 PM,On Time,T3-19,Boeing 737 MAX,170,
+AI4760,Air India,Bengaluru,BLR,Mumbai,BOM,3:46 PM,5:37 PM,On Time,T3-33,Airbus A320,111,
+G83766,Go First,Chandigarh,IXC,Hyderabad,HYD,1:05 AM,3:30 AM,Departed,T3-31,Boeing 737-800,145,5
+QP8437,Akasa Air,Hyderabad,HYD,Thiruvananthapuram,TRV,10:18 PM,12:45 AM,On Time,T1-20,ATR 72-600,147,
+QP3549,Akasa Air,Chennai,MAA,Ahmedabad,AMD,5:04 AM,6:28 AM,On Time,T1-38,Airbus A320,84,
+SG1864,SpiceJet,Ahmedabad,AMD,Bengaluru,BLR,5:05 AM,6:08 AM,On Time,T2-21,Boeing 737 MAX,63,
+UK7990,Vistara,Kochi,COK,Thiruvananthapuram,TRV,4:11 AM,6:13 AM,Departed,T2-3,Airbus A320neo,122,5
+SG6502,SpiceJet,Chennai,MAA,Kolkata,CCU,2:15 AM,3:12 AM,On Time,T2-25,Airbus A321,57,
+G87694,Go First,Lucknow,LKO,Kochi,COK,11:02 AM,1:42 PM,On Time,T2-28,ATR 72-600,160,
+QP9382,Akasa Air,Nagpur,NAG,Chandigarh,IXC,6:16 AM,7:02 AM,Departed,T2-27,Airbus A320,46,5
+G85581,Go First,Bengaluru,BLR,Delhi,DEL,4:47 AM,6:33 AM,On Time,T2-18,Airbus A321,106,
+SG6946,SpiceJet,Delhi,DEL,Bhubaneswar,BBI,12:18 AM,2:35 AM,Delayed,T3-24,Airbus A320neo,137,90
+6E1813,IndiGo,Ahmedabad,AMD,Bhubaneswar,BBI,5:06 PM,6:42 PM,On Time,T2-33,Airbus A320neo,96,
+I58762,AirAsia India,Pune,PNQ,Thiruvananthapuram,TRV,8:53 PM,10:28 PM,On Time,T3-3,Boeing 737-800,95,
+IX8927,Air India Express,Bhubaneswar,BBI,Ahmedabad,AMD,1:31 AM,3:28 AM,On Time,T2-38,ATR 72-600,117,
+AI7874,Air India,Nagpur,NAG,Kochi,COK,3:49 PM,5:33 PM,Departed,T1-29,Airbus A320neo,104,20
+IX734,Air India Express,Nagpur,NAG,Chennai,MAA,10:48 PM,12:38 AM,On Time,T1-34,Airbus A321,110,
+6E3733,IndiGo,Nagpur,NAG,Ahmedabad,AMD,8:09 AM,10:35 AM,On Time,T1-5,Airbus A320neo,146,
+I5367,AirAsia India,Goa,GOI,Nagpur,NAG,9:50 PM,11:53 PM,Delayed,T1-32,Boeing 737 MAX,123,60
+UK8850,Vistara,Lucknow,LKO,Goa,GOI,9:48 AM,11:02 AM,Departed,T3-22,Airbus A321,74,15
+UK332,Vistara,Lucknow,LKO,Kochi,COK,2:43 AM,4:52 AM,On Time,T2-2,Airbus A320,129,
+SG4330,SpiceJet,Bengaluru,BLR,Lucknow,LKO,9:58 AM,11:48 AM,On Time,T2-14,ATR 72-600,110,
+SG6021,SpiceJet,Mumbai,BOM,Bhubaneswar,BBI,9:51 AM,11:55 AM,Cancelled,T3-36,ATR 72-600,124,
+AI1348,Air India,Bengaluru,BLR,Nagpur,NAG,4:08 AM,4:53 AM,Cancelled,T1-18,Airbus A321,45,
+AI7493,Air India,Kolkata,CCU,Mumbai,BOM,5:04 PM,7:48 PM,On Time,T2-40,Airbus A320neo,164,
+AI5936,Air India,Bhubaneswar,BBI,Mumbai,BOM,12:03 PM,1:33 PM,On Time,T1-35,Airbus A320neo,90,
+6E1515,IndiGo,Mumbai,BOM,Bengaluru,BLR,4:58 AM,7:10 AM,On Time,T3-35,Airbus A321,132,
+G85857,Go First,Delhi,DEL,Kolkata,CCU,1:17 PM,3:52 PM,On Time,T3-26,Airbus A321,155,
+SG3215,SpiceJet,Pune,PNQ,Lucknow,LKO,4:30 PM,5:32 PM,Cancelled,T3-15,ATR 72-600,62,
+G89233,Go First,Bhubaneswar,BBI,Ahmedabad,AMD,1:13 PM,3:20 PM,On Time,T1-3,Airbus A320,127,
+G83181,Go First,Delhi,DEL,Pune,PNQ,12:07 PM,12:56 PM,Cancelled,T2-22,Boeing 737-800,49,
+6E5263,IndiGo,Nagpur,NAG,Ahmedabad,AMD,2:54 AM,4:13 AM,Delayed,T3-36,Airbus A320,79,50
+SG7856,SpiceJet,Ahmedabad,AMD,Goa,GOI,6:49 PM,9:01 PM,On Time,T1-21,Airbus A321,132,
+IX8899,Air India Express,Nagpur,NAG,Kochi,COK,10:00 AM,10:54 AM,Departed,T2-9,ATR 72-600,54,
+IX6319,Air India Express,Bengaluru,BLR,Hyderabad,HYD,11:36 AM,2:06 PM,Cancelled,T3-24,Airbus A320,150,
+G85152,Go First,Chandigarh,IXC,Hyderabad,HYD,1:53 PM,2:43 PM,On Time,T2-21,Airbus A321,50,
+AI2351,Air India,Thiruvananthapuram,TRV,Goa,GOI,8:34 PM,9:44 PM,On Time,T1-17,Airbus A320neo,70,
+QP2127,Akasa Air,Bengaluru,BLR,Pune,PNQ,7:14 AM,8:19 AM,On Time,T2-20,Boeing 737 MAX,65,
+AI9093,Air India,Thiruvananthapuram,TRV,Pune,PNQ,11:34 PM,1:35 AM,Departed,T1-26,Airbus A320,121,10
+IX6984,Air India Express,Mumbai,BOM,Lucknow,LKO,11:22 AM,1:15 PM,Delayed,T1-7,Boeing 737 MAX,113,15
+6E1850,IndiGo,Thiruvananthapuram,TRV,Ahmedabad,AMD,1:27 AM,4:12 AM,Delayed,T3-7,Airbus A320neo,165,35
+SG9780,SpiceJet,Goa,GOI,Bhubaneswar,BBI,8:27 AM,9:32 AM,On Time,T1-37,ATR 72-600,65,
+AI375,Air India,Ahmedabad,AMD,Chennai,MAA,4:19 AM,5:47 AM,Delayed,T3-33,Airbus A321,88,105
+I5186,AirAsia India,Lucknow,LKO,Goa,GOI,9:19 AM,10:52 AM,On Time,T1-4,Boeing 737-800,93,
+UK6464,Vistara,Chennai,MAA,Nagpur,NAG,6:00 PM,7:59 PM,On Time,T2-38,Boeing 737-800,119,
+IX4513,Air India Express,Chennai,MAA,Pune,PNQ,4:15 AM,6:47 AM,On Time,T3-32,Airbus A320,152,
+AI6744,Air India,Pune,PNQ,Chennai,MAA,8:38 AM,9:55 AM,On Time,T3-38,Airbus A320,77,
+UK2270,Vistara,Chandigarh,IXC,Delhi,DEL,7:52 AM,9:40 AM,Delayed,T1-26,Airbus A321,108,75
+UK4630,Vistara,Mumbai,BOM,Pune,PNQ,12:05 AM,1:43 AM,Delayed,T3-1,Boeing 737-800,98,105
+AI5692,Air India,Chennai,MAA,Ahmedabad,AMD,4:55 AM,6:17 AM,Delayed,T1-24,Airbus A320neo,82,90
+I56305,AirAsia India,Lucknow,LKO,Goa,GOI,11:13 PM,1:08 AM,On Time,T1-10,Airbus A321,115,
+I55886,AirAsia India,Chennai,MAA,Nagpur,NAG,10:43 PM,12:30 AM,On Time,T2-28,Airbus A320,107,
+IX150,Air India Express,Kochi,COK,Ahmedabad,AMD,5:24 AM,6:24 AM,Delayed,T1-30,Boeing 737 MAX,60,105
+IX3439,Air India Express,Kochi,COK,Mumbai,BOM,9:48 AM,11:09 AM,On Time,T1-28,Airbus A320,81,
+G88776,Go First,Mumbai,BOM,Pune,PNQ,3:30 PM,5:44 PM,On Time,T1-29,Airbus A321,134,
+IX7912,Air India Express,Kochi,COK,Hyderabad,HYD,5:28 AM,8:15 AM,On Time,T1-2,Airbus A321,167,
+G86400,Go First,Chennai,MAA,Goa,GOI,5:23 PM,6:45 PM,On Time,T3-24,Boeing 737 MAX,82,
+IX1719,Air India Express,Hyderabad,HYD,Nagpur,NAG,10:28 PM,1:25 AM,Delayed,T2-2,Airbus A320,177,75
+AI4052,Air India,Thiruvananthapuram,TRV,Hyderabad,HYD,8:36 AM,10:23 AM,Delayed,T3-40,Boeing 737 MAX,107,60
+SG8243,SpiceJet,Goa,GOI,Delhi,DEL,5:05 AM,5:55 AM,On Time,T3-36,Boeing 737-800,50,
+QP123,Akasa Air,Ahmedabad,AMD,Chennai,MAA,6:23 AM,7:35 AM,Delayed,T2-17,ATR 72-600,72,75
+IX9704,Air India Express,Chennai,MAA,Lucknow,LKO,1:43 PM,3:59 PM,On Time,T2-40,Airbus A321,136,
+UK5420,Vistara,Delhi,DEL,Nagpur,NAG,11:28 AM,1:44 PM,On Time,T1-35,Airbus A320neo,136,
+G83828,Go First,Kochi,COK,Goa,GOI,12:33 AM,1:37 AM,On Time,T1-15,Boeing 737-800,64,
+6E3458,IndiGo,Ahmedabad,AMD,Kochi,COK,6:15 PM,7:18 PM,On Time,T3-29,ATR 72-600,63,
+SG3716,SpiceJet,Chandigarh,IXC,Chennai,MAA,7:27 AM,9:46 AM,On Time,T2-1,Boeing 737 MAX,139,
+I52070,AirAsia India,Hyderabad,HYD,Lucknow,LKO,8:05 PM,10:45 PM,Departed,T2-16,Boeing 737 MAX,160,
+AI1632,Air India,Bhubaneswar,BBI,Hyderabad,HYD,8:25 PM,10:11 PM,On Time,T3-18,Boeing 737 MAX,106,
+G83644,Go First,Bhubaneswar,BBI,Kochi,COK,11:17 AM,12:27 PM,On Time,T3-15,Boeing 737 MAX,70,
+IX101,Air India Express,Kochi,COK,Chandigarh,IXC,11:54 AM,2:10 PM,Delayed,T3-11,Airbus A320,136,45
+AI9466,Air India,Delhi,DEL,Lucknow,LKO,9:23 AM,10:57 AM,On Time,T1-15,ATR 72-600,94,
+6E3039,IndiGo,Chennai,MAA,Nagpur,NAG,7:08 AM,8:43 AM,On Time,T2-4,ATR 72-600,95,
+G83796,Go First,Pune,PNQ,Bengaluru,BLR,1:04 AM,2:19 AM,Delayed,T1-24,ATR 72-600,75,75
+IX7174,Air India Express,Bengaluru,BLR,Chandigarh,IXC,2:09 AM,3:34 AM,On Time,T1-11,Airbus A320neo,85,
+6E8833,IndiGo,Bengaluru,BLR,Lucknow,LKO,2:20 PM,3:32 PM,On Time,T1-14,Airbus A320,72,
+SG6900,SpiceJet,Mumbai,BOM,Kochi,COK,7:49 AM,9:16 AM,On Time,T3-36,ATR 72-600,87,
+QP7522,Akasa Air,Bengaluru,BLR,Nagpur,NAG,8:17 PM,9:57 PM,Cancelled,T2-12,Boeing 737 MAX,100,
+G84674,Go First,Kolkata,CCU,Hyderabad,HYD,8:41 PM,10:20 PM,Departed,T1-26,Airbus A320neo,99,
+I58872,AirAsia India,Ahmedabad,AMD,Mumbai,BOM,7:50 PM,9:04 PM,Delayed,T1-15,ATR 72-600,74,15
+AI9276,Air India,Ahmedabad,AMD,Kochi,COK,10:10 PM,11:29 PM,On Time,T1-35,Airbus A321,79,
+SG4040,SpiceJet,Thiruvananthapuram,TRV,Delhi,DEL,5:21 PM,6:24 PM,On Time,T3-6,Airbus A320neo,63,
+AI4354,Air India,Hyderabad,HYD,Kolkata,CCU,6:44 PM,8:03 PM,Delayed,T2-32,Airbus A321,79,5
+SG3712,SpiceJet,Chandigarh,IXC,Lucknow,LKO,3:03 AM,6:00 AM,On Time,T2-5,Boeing 737-800,177,
+AI5373,Air India,Ahmedabad,AMD,Bengaluru,BLR,11:15 PM,1:10 AM,Cancelled,T2-2,Airbus A320,115,
+6E547,IndiGo,Bhubaneswar,BBI,Lucknow,LKO,11:34 PM,12:25 AM,Departed,T1-21,Airbus A321,51,
+AI1453,Air India,Chandigarh,IXC,Chennai,MAA,4:24 PM,5:34 PM,On Time,T3-24,Airbus A320,70,
+6E2553,IndiGo,Kolkata,CCU,Thiruvananthapuram,TRV,12:56 PM,2:10 PM,Delayed,T3-19,Airbus A320neo,74,45
+IX2709,Air India Express,Mumbai,BOM,Goa,GOI,5:02 AM,7:49 AM,On Time,T3-5,Airbus A321,167,
+SG4834,SpiceJet,Goa,GOI,Pune,PNQ,1:26 AM,3:31 AM,On Time,T1-33,Boeing 737-800,125,
+G8530,Go First,Delhi,DEL,Pune,PNQ,1:40 AM,2:25 AM,Delayed,T1-25,Airbus A320neo,45,120
+QP1553,Akasa Air,Kolkata,CCU,Chandigarh,IXC,5:36 PM,7:31 PM,On Time,T2-25,Boeing 737 MAX,115,
+AI3963,Air India,Kochi,COK,Bengaluru,BLR,9:11 AM,12:06 PM,On Time,T2-24,ATR 72-600,175,
+6E6099,IndiGo,Hyderabad,HYD,Nagpur,NAG,5:48 AM,8:09 AM,Delayed,T3-3,ATR 72-600,141,45
+G8968,Go First,Kochi,COK,Chennai,MAA,8:12 AM,10:42 AM,On Time,T3-36,Boeing 737-800,150,
+QP378,Akasa Air,Bhubaneswar,BBI,Pune,PNQ,9:43 PM,12:42 AM,On Time,T1-4,Airbus A320neo,179,
+6E2105,IndiGo,Nagpur,NAG,Kochi,COK,8:37 AM,11:37 AM,On Time,T3-34,ATR 72-600,180,
+6E4386,IndiGo,Lucknow,LKO,Chandigarh,IXC,8:49 AM,10:19 AM,On Time,T2-32,Airbus A321,90,
+UK6294,Vistara,Chandigarh,IXC,Bhubaneswar,BBI,6:24 AM,9:24 AM,On Time,T2-18,Airbus A321,180,
+SG1173,SpiceJet,Bengaluru,BLR,Chandigarh,IXC,1:39 PM,3:39 PM,Delayed,T3-20,Boeing 737-800,120,45
+IX2698,Air India Express,Delhi,DEL,Chennai,MAA,2:19 PM,3:37 PM,On Time,T3-34,Boeing 737-800,78,
+UK1805,Vistara,Hyderabad,HYD,Bhubaneswar,BBI,8:35 AM,9:41 AM,On Time,T1-25,Airbus A320neo,66,
+I52666,AirAsia India,Kolkata,CCU,Bhubaneswar,BBI,12:45 PM,2:44 PM,Departed,T1-26,Airbus A321,119,
+QP5669,Akasa Air,Goa,GOI,Lucknow,LKO,6:22 AM,8:22 AM,On Time,T3-2,ATR 72-600,120,
+AI7797,Air India,Kochi,COK,Hyderabad,HYD,2:02 PM,3:58 PM,Departed,T3-34,Boeing 737 MAX,116,20
+6E3800,IndiGo,Chandigarh,IXC,Mumbai,BOM,12:34 PM,2:20 PM,On Time,T3-34,Airbus A321,106,
+IX5532,Air India Express,Chandigarh,IXC,Bengaluru,BLR,3:53 PM,4:53 PM,Delayed,T1-19,ATR 72-600,60,30
+6E4873,IndiGo,Chennai,MAA,Thiruvananthapuram,TRV,7:22 AM,9:00 AM,Cancelled,T2-13,Boeing 737 MAX,98,
+IX9719,Air India Express,Kolkata,CCU,Chandigarh,IXC,4:10 AM,6:36 AM,Delayed,T1-7,Airbus A320,146,90
+AI9928,Air India,Ahmedabad,AMD,Goa,GOI,3:55 PM,5:11 PM,On Time,T3-13,Airbus A321,76,
+AI3343,Air India,Ahmedabad,AMD,Chennai,MAA,4:35 AM,7:03 AM,On Time,T1-3,Boeing 737-800,148,
+6E1358,IndiGo,Mumbai,BOM,Bhubaneswar,BBI,8:53 PM,11:47 PM,On Time,T2-25,Airbus A320,174,
+G88303,Go First,Nagpur,NAG,Kochi,COK,6:51 PM,9:50 PM,Departed,T1-14,Airbus A320,179,
+6E9702,IndiGo,Mumbai,BOM,Kolkata,CCU,2:09 PM,3:22 PM,On Time,T3-34,Airbus A320,73,
+UK6281,Vistara,Kolkata,CCU,Ahmedabad,AMD,9:44 PM,12:36 AM,On Time,T2-39,Airbus A320,172,
+I5150,AirAsia India,Thiruvananthapuram,TRV,Pune,PNQ,11:12 PM,12:51 AM,On Time,T3-23,Airbus A321,99,
+6E1349,IndiGo,Hyderabad,HYD,Pune,PNQ,2:25 AM,3:41 AM,Departed,T2-7,Boeing 737 MAX,76,20
+IX3800,Air India Express,Chennai,MAA,Kochi,COK,6:05 PM,8:52 PM,On Time,T1-38,Airbus A321,167,
+I53290,AirAsia India,Bengaluru,BLR,Nagpur,NAG,5:22 AM,7:02 AM,On Time,T3-10,Airbus A320,100,
+UK7493,Vistara,Hyderabad,HYD,Kolkata,CCU,11:31 AM,2:03 PM,On Time,T2-3,ATR 72-600,152,
+IX2230,Air India Express,Goa,GOI,Thiruvananthapuram,TRV,1:54 PM,2:49 PM,Delayed,T1-22,Airbus A321,55,60
+G86579,Go First,Kochi,COK,Thiruvananthapuram,TRV,1:34 AM,4:31 AM,Delayed,T3-9,Boeing 737-800,177,10
+6E790,IndiGo,Chennai,MAA,Nagpur,NAG,1:53 AM,4:51 AM,Departed,T2-26,Boeing 737 MAX,178,10
+AI546,Air India,Kochi,COK,Bengaluru,BLR,11:22 PM,2:03 AM,On Time,T3-14,Airbus A320,161,
+SG3681,SpiceJet,Hyderabad,HYD,Kolkata,CCU,12:08 PM,1:06 PM,Delayed,T3-12,Boeing 737-800,58,45
+AI8052,Air India,Lucknow,LKO,Nagpur,NAG,4:33 PM,7:06 PM,Delayed,T1-40,Airbus A321,153,60
+IX4857,Air India Express,Chandigarh,IXC,Delhi,DEL,3:57 AM,5:43 AM,On Time,T3-1,Boeing 737 MAX,106,
+G83279,Go First,Kolkata,CCU,Hyderabad,HYD,8:06 AM,10:53 AM,Departed,T3-34,Airbus A321,167,20
+I5855,AirAsia India,Chennai,MAA,Thiruvananthapuram,TRV,10:01 PM,12:21 AM,On Time,T1-4,Airbus A320,140,
+6E878,IndiGo,Goa,GOI,Kolkata,CCU,7:16 PM,8:17 PM,Delayed,T3-12,Airbus A320,61,25
+G84281,Go First,Pune,PNQ,Bhubaneswar,BBI,5:39 AM,8:07 AM,Delayed,T3-40,ATR 72-600,148,75
+I59483,AirAsia India,Bhubaneswar,BBI,Kochi,COK,10:25 PM,12:25 AM,Delayed,T3-39,ATR 72-600,120,60
+G81568,Go First,Thiruvananthapuram,TRV,Goa,GOI,10:05 AM,11:27 AM,On Time,T2-38,Boeing 737-800,82,
+UK2507,Vistara,Kolkata,CCU,Pune,PNQ,3:30 AM,5:30 AM,On Time,T3-20,Boeing 737 MAX,120,
+UK2969,Vistara,Thiruvananthapuram,TRV,Chennai,MAA,3:41 AM,5:13 AM,Delayed,T1-19,Airbus A321,92,90
+I56722,AirAsia India,Pune,PNQ,Goa,GOI,1:52 AM,4:21 AM,On Time,T1-36,Boeing 737-800,149,
+SG6620,SpiceJet,Lucknow,LKO,Mumbai,BOM,3:36 PM,6:07 PM,Cancelled,T1-29,Airbus A321,151,
+UK5170,Vistara,Goa,GOI,Chandigarh,IXC,7:47 AM,10:45 AM,On Time,T2-39,Airbus A320neo,178,
+UK8623,Vistara,Bengaluru,BLR,Lucknow,LKO,7:09 PM,7:58 PM,Delayed,T1-23,Boeing 737-800,49,25
+AI2434,Air India,Thiruvananthapuram,TRV,Chandigarh,IXC,7:19 PM,9:55 PM,On Time,T3-10,Boeing 737-800,156,
+QP9021,Akasa Air,Lucknow,LKO,Bengaluru,BLR,2:49 PM,4:42 PM,On Time,T3-25,Boeing 737 MAX,113,
+I55747,AirAsia India,Kochi,COK,Lucknow,LKO,2:29 AM,4:09 AM,On Time,T2-28,Airbus A320,100,
+SG3217,SpiceJet,Bhubaneswar,BBI,Goa,GOI,10:42 AM,12:53 PM,Cancelled,T1-17,Airbus A321,131,
+IX6631,Air India Express,Goa,GOI,Bengaluru,BLR,8:12 AM,10:16 AM,Delayed,T3-3,Airbus A320,124,25
+SG7938,SpiceJet,Bhubaneswar,BBI,Chennai,MAA,12:02 AM,12:48 AM,Delayed,T2-39,Boeing 737-800,46,45
+I51125,AirAsia India,Delhi,DEL,Mumbai,BOM,1:12 PM,4:05 PM,On Time,T1-13,Boeing 737 MAX,173,
+QP517,Akasa Air,Delhi,DEL,Mumbai,BOM,12:48 PM,3:48 PM,On Time,T3-18,Airbus A320,180,
+IX1298,Air India Express,Nagpur,NAG,Chandigarh,IXC,10:58 AM,11:56 AM,On Time,T1-34,Airbus A321,58,
+G86836,Go First,Lucknow,LKO,Bengaluru,BLR,1:43 AM,4:02 AM,On Time,T2-18,Airbus A320,139,
+G87319,Go First,Ahmedabad,AMD,Pune,PNQ,9:36 AM,12:01 PM,On Time,T3-29,Airbus A321,145,
+I56844,AirAsia India,Lucknow,LKO,Bengaluru,BLR,8:21 PM,9:41 PM,On Time,T3-6,ATR 72-600,80,
+G87868,Go First,Thiruvananthapuram,TRV,Kochi,COK,1:37 AM,3:03 AM,On Time,T3-5,Airbus A320neo,86,
+6E6609,IndiGo,Thiruvananthapuram,TRV,Goa,GOI,11:01 PM,12:53 AM,On Time,T1-13,Airbus A321,112,
+G83902,Go First,Mumbai,BOM,Bengaluru,BLR,10:43 AM,12:59 PM,Delayed,T1-23,Boeing 737-800,136,15
+AI7754,Air India,Goa,GOI,Mumbai,BOM,3:50 PM,4:37 PM,On Time,T1-7,Airbus A320,47,
+SG107,SpiceJet,Kochi,COK,Mumbai,BOM,7:28 AM,10:01 AM,On Time,T3-21,Airbus A321,153,
+G88222,Go First,Goa,GOI,Pune,PNQ,11:46 AM,2:07 PM,On Time,T1-29,Airbus A320,141,
+IX5131,Air India Express,Hyderabad,HYD,Pune,PNQ,1:40 AM,3:08 AM,Departed,T1-10,Boeing 737-800,88,10
+IX8460,Air India Express,Delhi,DEL,Nagpur,NAG,3:13 AM,5:48 AM,On Time,T1-16,Boeing 737-800,155,
+UK4198,Vistara,Nagpur,NAG,Mumbai,BOM,1:35 PM,4:20 PM,On Time,T1-30,ATR 72-600,165,
+G88511,Go First,Bengaluru,BLR,Thiruvananthapuram,TRV,2:33 AM,3:21 AM,Delayed,T1-32,Boeing 737 MAX,48,60
+SG1776,SpiceJet,Lucknow,LKO,Chennai,MAA,8:54 AM,11:51 AM,Departed,T1-37,Boeing 737 MAX,177,15
+QP8149,Akasa Air,Bhubaneswar,BBI,Chandigarh,IXC,11:26 PM,2:03 AM,On Time,T2-15,Boeing 737 MAX,157,
+UK1983,Vistara,Nagpur,NAG,Goa,GOI,6:02 AM,8:08 AM,On Time,T2-15,Boeing 737 MAX,126,
+G8475,Go First,Ahmedabad,AMD,Bhubaneswar,BBI,11:59 PM,2:33 AM,On Time,T1-30,Boeing 737-800,154,
+6E6697,IndiGo,Nagpur,NAG,Ahmedabad,AMD,8:03 AM,10:31 AM,On Time,T1-1,Airbus A320neo,148,
+6E6262,IndiGo,Goa,GOI,Bengaluru,BLR,2:52 AM,4:20 AM,On Time,T3-23,Airbus A320neo,88,
+SG1512,SpiceJet,Kochi,COK,Lucknow,LKO,10:30 PM,12:48 AM,On Time,T2-35,Boeing 737-800,138,
+AI4440,Air India,Kochi,COK,Pune,PNQ,5:07 AM,6:10 AM,On Time,T1-5,Boeing 737 MAX,63,
+SG5463,SpiceJet,Pune,PNQ,Kochi,COK,3:35 PM,4:30 PM,On Time,T3-18,Airbus A321,55,
+I58977,AirAsia India,Hyderabad,HYD,Bhubaneswar,BBI,6:39 PM,7:28 PM,Cancelled,T1-3,Airbus A320neo,49,
+6E3865,IndiGo,Lucknow,LKO,Nagpur,NAG,6:30 PM,9:05 PM,Cancelled,T3-17,Boeing 737 MAX,155,
+IX2229,Air India Express,Hyderabad,HYD,Pune,PNQ,11:31 AM,2:27 PM,On Time,T1-6,Airbus A320neo,176,
+QP7503,Akasa Air,Lucknow,LKO,Goa,GOI,5:19 PM,8:01 PM,Cancelled,T1-29,Airbus A320,162,
+QP3033,Akasa Air,Chennai,MAA,Goa,GOI,1:42 PM,4:21 PM,On Time,T1-35,ATR 72-600,159,
+SG529,SpiceJet,Thiruvananthapuram,TRV,Pune,PNQ,3:25 PM,5:20 PM,On Time,T1-40,Airbus A320,115,
+G88208,Go First,Pune,PNQ,Goa,GOI,4:48 PM,7:11 PM,On Time,T3-37,Boeing 737-800,143,
+G82621,Go First,Nagpur,NAG,Thiruvananthapuram,TRV,4:25 AM,6:31 AM,On Time,T1-32,ATR 72-600,126,
+6E8818,IndiGo,Kolkata,CCU,Lucknow,LKO,5:53 PM,6:38 PM,On Time,T1-16,Airbus A320neo,45,
+6E4512,IndiGo,Thiruvananthapuram,TRV,Delhi,DEL,10:38 PM,12:55 AM,Delayed,T2-40,Airbus A320neo,137,35
+G89425,Go First,Delhi,DEL,Thiruvananthapuram,TRV,10:58 PM,12:14 AM,On Time,T3-12,ATR 72-600,76,
+QP6236,Akasa Air,Hyderabad,HYD,Thiruvananthapuram,TRV,6:13 AM,9:12 AM,On Time,T3-26,Airbus A321,179,
+SG5883,SpiceJet,Nagpur,NAG,Thiruvananthapuram,TRV,8:52 PM,10:52 PM,On Time,T1-9,ATR 72-600,120,
+IX6512,Air India Express,Nagpur,NAG,Thiruvananthapuram,TRV,7:35 AM,9:09 AM,On Time,T3-7,Airbus A320neo,94,
+I52793,AirAsia India,Hyderabad,HYD,Mumbai,BOM,11:21 PM,1:29 AM,On Time,T2-31,Airbus A321,128,
+QP6474,Akasa Air,Bengaluru,BLR,Pune,PNQ,5:51 AM,8:19 AM,Departed,T3-15,Airbus A320neo,148,5
+QP1774,Akasa Air,Chennai,MAA,Nagpur,NAG,5:13 PM,6:25 PM,On Time,T2-24,Airbus A320neo,72,
+6E8122,IndiGo,Goa,GOI,Hyderabad,HYD,1:11 PM,3:19 PM,On Time,T2-32,ATR 72-600,128,
+IX4387,Air India Express,Chennai,MAA,Delhi,DEL,6:37 AM,8:40 AM,On Time,T1-33,Boeing 737 MAX,123,
+AI1954,Air India,Thiruvananthapuram,TRV,Ahmedabad,AMD,8:26 PM,11:14 PM,On Time,T1-34,ATR 72-600,168,
+QP9635,Akasa Air,Chennai,MAA,Hyderabad,HYD,1:17 AM,2:24 AM,Delayed,T2-20,Airbus A320,67,20
+QP4911,Akasa Air,Ahmedabad,AMD,Mumbai,BOM,11:09 AM,1:17 PM,On Time,T1-12,Airbus A320neo,128,
+UK6972,Vistara,Ahmedabad,AMD,Chandigarh,IXC,5:54 PM,7:03 PM,On Time,T2-29,Airbus A320neo,69,
+6E363,IndiGo,Pune,PNQ,Hyderabad,HYD,5:06 AM,6:18 AM,On Time,T1-3,Airbus A320neo,72,
+SG7581,SpiceJet,Kochi,COK,Pune,PNQ,6:03 PM,7:19 PM,Delayed,T2-36,Airbus A320,76,45
+SG7931,SpiceJet,Delhi,DEL,Hyderabad,HYD,12:19 PM,1:37 PM,On Time,T3-34,Boeing 737 MAX,78,
+QP6689,Akasa Air,Bengaluru,BLR,Thiruvananthapuram,TRV,11:17 AM,1:51 PM,On Time,T2-38,Boeing 737 MAX,154,
+I57469,AirAsia India,Goa,GOI,Ahmedabad,AMD,9:32 AM,11:33 AM,Departed,T2-22,Boeing 737 MAX,121,5
+QP4681,Akasa Air,Goa,GOI,Lucknow,LKO,11:35 AM,2:08 PM,Cancelled,T2-40,Airbus A320neo,153,
+SG8325,SpiceJet,Bengaluru,BLR,Hyderabad,HYD,8:58 PM,10:13 PM,Cancelled,T3-28,Airbus A320neo,75,
+6E2330,IndiGo,Thiruvananthapuram,TRV,Nagpur,NAG,12:12 AM,1:07 AM,On Time,T2-24,ATR 72-600,55,
+UK9706,Vistara,Lucknow,LKO,Chennai,MAA,2:28 AM,4:13 AM,On Time,T1-21,Airbus A320neo,105,
+AI3513,Air India,Delhi,DEL,Kolkata,CCU,11:36 AM,2:24 PM,On Time,T1-28,Boeing 737 MAX,168,
+SG1744,SpiceJet,Hyderabad,HYD,Thiruvananthapuram,TRV,9:42 AM,12:40 PM,On Time,T2-25,Boeing 737 MAX,178,
+G82460,Go First,Ahmedabad,AMD,Nagpur,NAG,11:33 PM,1:14 AM,On Time,T3-29,ATR 72-600,101,
+IX6871,Air India Express,Bengaluru,BLR,Chandigarh,IXC,12:13 AM,1:31 AM,On Time,T3-11,Airbus A320neo,78,
+IX3526,Air India Express,Mumbai,BOM,Goa,GOI,7:27 AM,8:56 AM,Delayed,T1-9,Airbus A321,89,90
+UK2446,Vistara,Thiruvananthapuram,TRV,Nagpur,NAG,10:01 PM,10:47 PM,On Time,T3-6,Airbus A320,46,
+I5232,AirAsia India,Thiruvananthapuram,TRV,Mumbai,BOM,5:44 PM,7:31 PM,On Time,T2-11,Airbus A321,107,
+G85752,Go First,Delhi,DEL,Goa,GOI,5:38 AM,8:23 AM,On Time,T3-6,ATR 72-600,165,
+G82999,Go First,Bhubaneswar,BBI,Bengaluru,BLR,11:56 AM,2:43 PM,On Time,T2-24,Boeing 737 MAX,167,
+IX8027,Air India Express,Bengaluru,BLR,Kochi,COK,5:16 AM,6:09 AM,On Time,T3-6,Boeing 737 MAX,53,
+G86365,Go First,Thiruvananthapuram,TRV,Lucknow,LKO,6:54 PM,8:40 PM,Delayed,T1-36,Airbus A321,106,35
+G82081,Go First,Lucknow,LKO,Ahmedabad,AMD,5:59 AM,7:00 AM,On Time,T1-13,Boeing 737-800,61,
+UK9348,Vistara,Lucknow,LKO,Pune,PNQ,6:21 AM,7:13 AM,On Time,T1-10,Boeing 737 MAX,52,
+UK6849,Vistara,Thiruvananthapuram,TRV,Bengaluru,BLR,3:26 AM,6:00 AM,Delayed,T3-5,ATR 72-600,154,60
+IX3971,Air India Express,Goa,GOI,Thiruvananthapuram,TRV,4:54 AM,6:39 AM,Departed,T3-24,ATR 72-600,105,10
+UK9563,Vistara,Nagpur,NAG,Goa,GOI,6:56 AM,9:02 AM,On Time,T2-18,Boeing 737-800,126,
+AI8113,Air India,Chandigarh,IXC,Lucknow,LKO,3:48 PM,6:39 PM,On Time,T2-19,Airbus A321,171,
+6E9455,IndiGo,Kolkata,CCU,Hyderabad,HYD,8:39 AM,11:31 AM,On Time,T3-8,Airbus A321,172,
+G89989,Go First,Nagpur,NAG,Thiruvananthapuram,TRV,7:52 PM,10:29 PM,On Time,T3-12,Boeing 737-800,157,
+AI2755,Air India,Delhi,DEL,Kolkata,CCU,8:24 AM,11:08 AM,Delayed,T2-8,Airbus A321,164,120
+G85455,Go First,Bengaluru,BLR,Pune,PNQ,7:03 PM,10:00 PM,On Time,T1-2,ATR 72-600,177,
+AI2307,Air India,Bhubaneswar,BBI,Kolkata,CCU,1:33 PM,2:31 PM,On Time,T1-3,Airbus A320,58,
+IX9180,Air India Express,Ahmedabad,AMD,Pune,PNQ,11:24 PM,2:08 AM,On Time,T3-37,Boeing 737-800,164,
+QP3550,Akasa Air,Chandigarh,IXC,Thiruvananthapuram,TRV,12:42 PM,3:38 PM,On Time,T1-35,Boeing 737-800,176,
+6E762,IndiGo,Chennai,MAA,Delhi,DEL,9:29 AM,11:31 AM,On Time,T2-6,Boeing 737 MAX,122,
+QP1893,Akasa Air,Ahmedabad,AMD,Mumbai,BOM,11:50 AM,1:16 PM,Cancelled,T3-37,Airbus A320,86,
+6E2544,IndiGo,Lucknow,LKO,Pune,PNQ,5:42 AM,7:56 AM,Delayed,T2-13,Boeing 737-800,134,10
+IX8478,Air India Express,Chennai,MAA,Delhi,DEL,8:53 PM,10:28 PM,Departed,T2-31,Airbus A320,95,20
+UK9823,Vistara,Ahmedabad,AMD,Mumbai,BOM,8:46 PM,10:00 PM,On Time,T1-10,ATR 72-600,74,
+SG1993,SpiceJet,Chennai,MAA,Bengaluru,BLR,4:01 AM,6:43 AM,On Time,T3-9,Airbus A320,162,
+AI1562,Air India,Mumbai,BOM,Thiruvananthapuram,TRV,1:03 PM,3:31 PM,On Time,T1-3,Airbus A320,148,
+6E7415,IndiGo,Bengaluru,BLR,Chandigarh,IXC,11:42 AM,2:42 PM,Delayed,T1-13,Boeing 737 MAX,180,120
